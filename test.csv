@@ -1,0 +1,1000 @@
+id,sex,bdate,has_photo,has_mobile,followers_count,graduation,education_form,relation,education_status,langs,life_main,people_main,city,last_seen,occupation_type,occupation_name,career_start,career_end,result
+64100,2,23.4.1990,1,1.0,150.0,2012.0,Full-time,2.0,Student (Specialist),Русский;English,0,0,Kaliningrad,2020-08-19 20:47:43,university,"БФУ им. Канта (бывш. РГУ им. Канта, КГУ)",False,False,0
+46851,2,11.4,0,1.0,92.0,2011.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,,2020-12-25 10:31:53,university,ЛНУ (бывш. ЛНПУ) им. Тараса Шевченко,False,False,0
+13159,2,5.10,0,1.0,62.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,0,6,Mogilev,2020-03-06 03:37:47,university,"БРУ (бывш. МГТУ, ММИ)",False,False,0
+59148,1,1.3.1967,0,1.0,179.0,1989.0,Full-time,4.0,PhD,Русский,False,False,Moscow,2020-10-10 18:06:27,university,Bodø Graduate School of Business,False,False,0
+46429,2,,0,1.0,74.0,2008.0,Full-time,7.0,Alumnus (Specialist),Русский,3,2,Ryazan,2020-01-03 03:34:09,university,"РГРТУ (бывш. РГРТА, РРТИ)",False,False,0
+58719,1,13.2,0,1.0,142.0,2009.0,,0.0,Alumnus (Specialist),False,0,0,Moscow,2020-05-07 14:36:26,work,www.lepic-gallery.com,2010,False,1
+48095,1,31.10,0,1.0,751.0,2021.0,,0.0,Student (Bachelor's),Русский,0,0,Moscow,2020-04-11 08:47:01,university,ММУ (МУМ),2018,False,1
+4093,2,1.5.1990,0,1.0,112.0,2014.0,Distance Learning,4.0,PhD,Русский,1,2,,2020-11-26 16:03:50,university,СГАСУ (БФ),2010,2015,0
+63172,1,6.6.1990,1,1.0,318.0,2012.0,Full-time,4.0,Student (Bachelor's),False,0,0,Izhevsk,2020-03-21 18:05:54,work,"АКБ ""Ижкомбанк"" ПАО",2007,False,1
+63848,1,2.10,1,1.0,294.0,2018.0,Distance Learning,0.0,Student (Specialist),Русский,False,False,Yekaterinburg,2020-12-22 10:06:14,university,УрФУ им. первого Президента России Б. Н. Ельцина,False,False,1
+66760,1,31.1.1990,0,1.0,77.0,2011.0,Full-time,1.0,Student (Bachelor's),False,0,0,,2020-07-04 19:59:45,university,НИУ ВШЭ (ГУ-ВШЭ),False,False,1
+4682,2,20.6,1,1.0,23.0,2007.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Zheleznovodsk,2020-12-14 10:30:06,university,ЮУ (ИУБиП),False,False,0
+81358,1,11.6,1,1.0,3148.0,2010.0,Part-time,6.0,Alumnus (Specialist),Русский,0,0,Ryazan,2020-04-23 11:37:54,work,Комп & Кофе | интернет-маркетинг,2007,False,1
+2,2,15.3.1985,1,1.0,86.0,2010.0,Full-time,4.0,Student (Specialist),False,False,False,Irkutsk,2020-11-07 20:03:54,university,"ИРНИТУ (бывш. НИ ИрГТУ, ИПИ)",False,False,0
+17951,2,,0,1.0,89.0,2013.0,Full-time,4.0,Student (Bachelor's),Русский;English;Українська,6,2,Cherkassy,2020-09-19 03:03:28,university,ЧГТУ (бывш. ЧИТИ),False,False,0
+64151,2,22.3,1,1.0,243.0,2018.0,Distance Learning,0.0,Student (Specialist),False,0,0,Khabarovsk,2020-03-14 20:58:39,university,"ТОГУ (бывш. ХПИ, ХГТУ)",False,False,0
+62802,2,4.11.1993,1,1.0,322.0,2015.0,Part-time,4.0,Student (Bachelor's),Русский,0,2,Saint Petersburg,2020-05-13 16:32:00,university,НГУ им. П. Ф. Лесгафта (бывш. СПбГУФК),False,False,0
+1865,2,13.4.1987,0,1.0,212.0,2010.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Saint Petersburg,2020-04-21 01:08:09,university,НИУ МЭИ,False,False,0
+50575,2,18.5.1983,0,1.0,62.0,2006.0,Full-time,4.0,Alumnus (Specialist),Українська,5,2,,2020-12-14 23:15:16,university,НУ «ЛП»,2007,2011,0
+19315,2,21.11,1,1.0,86.0,1986.0,Full-time,1.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-01-30 00:32:16,work,"Спортивный клуб ""СИНТЕЗ""",1980,False,0
+64317,2,7.10,1,1.0,76.0,2007.0,Distance Learning,1.0,Alumnus (Specialist),Русский,False,False,Novogrodovka,2020-12-17 07:31:45,university,"Днепровская политехника (бывш. НГУ, ДГИ им. Артёма)",False,False,0
+31338,2,25.1,1,1.0,68.0,2011.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Selyatino (poselok),2020-08-31 23:25:41,work,Элекснет,2006,False,0
+97656,1,9.7,0,1.0,606.0,2014.0,Full-time,0.0,Alumnus (Master's),False,False,False,Kyiv,2020-03-19 23:15:27,university,НПУ им. М. Драгоманова,False,False,1
+10885,1,,1,1.0,172.0,2012.0,Full-time,0.0,Student (Specialist),Русский,0,2,Krasnoyarsk,2020-11-16 19:26:06,university,КрасГУ,False,False,1
+94635,2,16.12.1983,0,1.0,69.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Novokuznetsk,2020-02-04 02:22:18,university,"СибГИУ (СМИ, СибГГМА)",False,False,1
+58985,1,14.8.1985,1,1.0,369.0,2007.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Perm,2020-02-27 23:27:19,work,"МБОУ ""Северокоммунарская СОШ""",2008,False,1
+24011,2,7.8,0,1.0,588.0,2011.0,Distance Learning,4.0,Alumnus (Specialist),Русский;Саха тыла,1,5,Yakutsk,2020-01-29 06:07:42,work,Отдел №15 УФК по Республике Саха (якутия),2007,False,0
+8294,2,20.4.1989,1,1.0,217.0,2011.0,Distance Learning,0.0,Alumnus (Bachelor's),Українська;Русский;English,6,2,Kyiv,2020-12-02 21:12:43,work,MacKiev,2009,False,0
+65685,1,9.7.1981,0,1.0,2837.0,2006.0,Distance Learning,4.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-02-16 07:58:51,work,Город Петергоф,2000,False,1
+35159,2,,0,1.0,954.0,2015.0,Full-time,4.0,Student (Specialist),Русский,1,5,Irkutsk,2020-05-25 10:33:35,university,ВСГАО (бывш. ИГПУ),False,False,1
+12196,1,3.12.1992,0,1.0,276.0,2017.0,Full-time,0.0,Student (Master's),False,0,0,Sydney,2020-09-24 21:12:45,university,"КНИТУ (бывш. КГТУ, КХТИ)",False,False,1
+22852,2,29.6.1989,0,1.0,64.0,2010.0,Full-time,1.0,Alumnus (Specialist),Українська;Русский;English,0,0,Kyiv,2020-03-06 14:32:48,work,Кравчук Алексей. Блог- Страница Проектов...,2014,False,1
+7360,2,21.12,1,1.0,213.0,0.0,Full-time,4.0,Student (Master's),Русский,1,2,Kursk,2020-04-01 02:37:01,university,КГУ,False,False,0
+8124,2,26.4.1955,0,1.0,0.0,1981.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,,2020-03-01 17:07:35,university,Горный университет (бывш. СПГГУ),1984,2009,1
+76884,1,27.9,1,1.0,476.0,0.0,Full-time,0.0,Student (Specialist),Русский;English,False,False,Saint Petersburg,2020-10-20 16:55:00,university,СПбГМТУ (бывш. ЛКИ),False,False,1
+73194,2,,0,1.0,305.0,2013.0,Full-time,6.0,Student (Specialist),Русский,6,0,Novokuznetsk,2020-10-31 09:20:41,university,КГПИ (НФИ) КемГУ,False,False,0
+10066,1,6.10.1994,0,1.0,1204.0,2016.0,Full-time,4.0,Student (Bachelor's),Русский;Deutsch;English,False,2,Saint Petersburg,2020-12-13 13:57:58,university,РГПУ им. А. И. Герцена,False,False,1
+23515,1,3.12,1,1.0,287.0,2009.0,Full-time,7.0,Alumnus (Specialist),Русский,0,0,,2020-08-17 23:39:25,work,"Театральная Студия ""АТМОСФЕРА""",2009,False,1
+20175,2,8.10.1981,0,1.0,54.0,2014.0,Full-time,4.0,Undergraduate applicant,Русский,False,False,Zaporizhia,2020-08-24 03:32:21,university,"НУ «Запорожская политехника» (бывш. ЗНТУ, ЗГТУ, ЗМИ)",False,False,0
+3980,2,13.3.1989,1,1.0,464.0,2011.0,Full-time,1.0,Student (Specialist),Русский,False,False,Ufa,2020-01-07 22:36:15,work,"ДОК ""Березка""",2007,2021,1
+94217,2,12.9.1978,1,1.0,62.0,2001.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Fedorovsky,2020-06-12 16:26:43,university,ОмГТУ,False,False,0
+26233,2,13.3,0,1.0,78.0,2004.0,Distance Learning,4.0,Student (Specialist),Русский,1,5,Karakol,2020-10-22 22:11:11,university,МИПП (КФ),False,False,0
+70250,1,30.9,1,1.0,172.0,0.0,Full-time,1.0,Alumnus (Specialist),Русский,False,False,Perm,2020-01-10 23:18:37,university,ГГПИ им. В. Г. Короленко,False,False,1
+47680,2,,1,1.0,8.0,2016.0,Full-time,4.0,Alumnus (Bachelor's),Беларуская (тарашкевiца);Русский;English,6,2,Minsk,2020-12-24 08:45:02,work,Godel Technologies Europe,2015,False,0
+77890,1,12.7,1,1.0,495.0,2021.0,Full-time,0.0,Student (Specialist),Русский;English,1,2,Omsk,2020-06-02 04:32:06,university,ОмГУПС,False,False,1
+96179,1,24.9.1992,1,1.0,306.0,2016.0,Distance Learning,0.0,Alumnus (Bachelor's),Русский,0,0,Minsk,2020-08-26 22:24:18,university,БГЭУ (бывш. БГИНХ),False,False,1
+18016,2,4.5.1984,1,1.0,78.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Zarechny,2020-01-21 01:01:34,university,ИГЭУ им. Ленина,False,False,0
+87091,2,21.4,0,1.0,7363.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),English;Русский,0,0,Saint Petersburg,2020-12-26 22:07:43,university,СПбГУТ им. Бонч-Бруевича,False,False,0
+55823,1,30.12,1,1.0,303.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский;English,1,0,Novosibirsk,2020-03-04 05:51:55,university,РИИ,False,False,1
+41257,2,23.12,0,1.0,162.0,1989.0,Full-time,0.0,Alumnus (Specialist),Русский,6,1,Donetsk,2020-01-05 04:40:31,university,ДонНТУ (бывш. ДПИ),False,False,1
+77691,1,20.7.1927,0,1.0,182.0,1945.0,Full-time,0.0,PhD,Русский,0,0,Moscow,2020-02-13 15:14:06,university,not stated,False,False,1
+67324,2,6.9.1989,0,1.0,20.0,1940.0,Distance Learning,1.0,Undergraduate applicant,False,6,0,Kaliningrad,2020-09-27 16:10:25,university,КИПКА,False,False,0
+12891,2,,1,1.0,44.0,2003.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Nur-Sultan/Astana,2020-11-26 19:52:37,university,КазГАСА,2006,2006,1
+97473,2,23.4.1991,1,1.0,453.0,2009.0,Full-time,2.0,Student (Specialist),Русский;Татарча,0,0,Naberezhnye Chelny,2020-01-28 00:29:04,,,False,False,0
+5510,2,15.2.1976,1,1.0,438.0,1999.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Schelkovo,2020-09-07 19:42:48,work,"Государственный университет огня, воды и всемирного разума",2002,False,1
+78298,2,,1,1.0,151.0,2017.0,Full-time,0.0,Student (Bachelor's),False,7,5,Saint Petersburg,2020-02-29 16:03:06,university,СПбГАСУ,False,False,0
+43116,1,,1,1.0,307.0,2015.0,Full-time,0.0,Student (Master's),Русский,0,0,Novokuznetsk,2020-10-01 06:03:27,work,"Дворец Культуры ""АЛЮМИНЩИК""",False,False,1
+72534,2,3.3.1989,0,1.0,133.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,0,Ivanovo,2020-09-27 12:04:12,university,ИГЭУ им. Ленина,False,False,0
+93630,1,26.1.1995,0,1.0,539.0,2018.0,Full-time,1.0,Student (Master's),False,1,2,Kyiv,2020-01-22 18:16:46,work,"GreenGardenGroup, Green IQ",False,False,1
+16449,1,14.10.1988,1,1.0,105.0,2010.0,Full-time,4.0,Student (Specialist),Русский;English,1,2,Omsk,2020-12-19 10:07:11,work,ОГОНБ имени А.С. Пушкина,False,False,1
+38282,2,17.6,1,1.0,561.0,2009.0,Distance Learning,0.0,Alumnus (Specialist),Русский,5,6,Saint Petersburg,2020-12-05 18:13:42,university,СПбТИ,False,False,1
+61869,2,9.1.1993,0,1.0,580.0,0.0,Full-time,1.0,Student (Bachelor's),Русский;Башҡортса;English;Français,6,6,Ufa,2020-06-17 09:22:03,university,БашГУ,2013,2015,1
+75350,1,,0,1.0,19.0,2005.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Nur-Sultan/Astana,2020-01-15 13:26:36,university,АУНГ (бывш. АИНиГ),False,False,1
+33380,2,,1,1.0,2314.0,0.0,Part-time,1.0,Student (Specialist),Русский,5,2,Saint Petersburg,2020-01-12 23:48:54,work,Трейдинг \ Криптовалюта,2017,False,0
+52374,1,17.6.1982,0,1.0,44.0,2011.0,Distance Learning,4.0,Student (Specialist),Русский,0,0,Saratov,2020-03-19 10:28:18,work,школа,2008,False,1
+5684,1,18.11.1992,1,1.0,337.0,2015.0,Full-time,4.0,Student (Specialist),False,0,0,Samara,2020-06-07 17:22:14,university,СамГУ,False,False,1
+18845,1,21.8,1,1.0,97.0,0.0,Full-time,1.0,Student (Specialist),Русский,0,0,Astrakhan,2020-12-29 10:07:35,university,АГТУ,False,False,1
+91073,1,16.10.1990,0,1.0,101.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Krasnoyarsk,2020-11-22 03:15:23,,,False,False,1
+35025,2,,0,1.0,370.0,2014.0,Full-time,1.0,Alumnus (Specialist),Русский;English;Українська,6,1,Lviv,2020-02-19 22:30:07,university,НУ «ЛП»,2007,2016,0
+62572,1,14.3,0,1.0,1313.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Yekaterinburg,2020-11-12 20:46:16,university,УрФУ им. первого Президента России Б. Н. Ельцина,2011,2018,0
+36038,1,11.11.1987,0,1.0,2269.0,2009.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Kaliningrad,2020-01-09 04:59:45,university,"БФУ им. Канта (бывш. РГУ им. Канта, КГУ)",False,False,1
+88581,2,8.2.1990,0,1.0,95.0,2009.0,Full-time,4.0,Student (Specialist),False,1,2,Orsk,2020-06-24 19:14:46,work,компания континент,2009,False,0
+35514,1,4.10.1995,1,1.0,204.0,2018.0,Full-time,1.0,Student (Specialist),Русский,False,False,,2020-11-30 13:45:52,university,ПГФА,False,False,1
+85413,1,22.6,0,1.0,351.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-10-05 23:38:15,university,ННГУ им. Н. И. Лобачевского,2003,2010,1
+37353,2,19.1.1984,0,1.0,201.0,2006.0,Full-time,0.0,Alumnus (Master's),Русский,6,3,Moscow,2020-03-14 19:59:52,university,МИРЭА (до 2015),False,False,0
+53508,1,23.6,0,1.0,116.0,2006.0,Distance Learning,0.0,Alumnus (Specialist),False,False,False,Moscow,2020-06-18 12:32:00,university,МГОУ им. В. С. Черномырдина (ныне в сост. МАМИ),False,False,1
+52046,2,11.5.1991,1,1.0,127.0,2014.0,Full-time,1.0,Student (Master's),False,0,0,Moscow,2020-08-01 03:29:02,university,МАТИ - РГТУ им. К. Э. Циолковского,False,False,1
+65426,2,20.1,0,1.0,41.0,0.0,Full-time,1.0,Alumnus (Master's),Русский,0,0,Pskov,2020-08-29 17:17:13,,,False,False,0
+98970,2,20.2.1983,1,1.0,73.0,2005.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Simferopol,2020-11-16 12:58:14,university,КЭИ КНЭУ,False,False,0
+87638,1,23.11,1,1.0,634.0,2013.0,Distance Learning,0.0,Alumnus (Master's),False,0,0,Kharkiv,2020-06-19 12:28:08,university,ХНУВД,False,False,1
+58149,1,24.1,1,1.0,1191.0,2012.0,Full-time,4.0,Alumnus (Master's),False,False,False,Moscow,2020-07-09 08:24:46,university,ХГАК (бывш. ХГИК),False,False,1
+57264,2,26.6.1990,1,1.0,110.0,2013.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Français,6,6,Moscow,2020-12-16 22:32:02,work,KONE,2012,False,1
+19096,2,9.5.1993,1,1.0,72.0,2015.0,Full-time,0.0,Alumnus (Bachelor's),False,6,6,Stary Oskol,2020-01-17 07:18:10,work,"ООО ""Ресурс""",2017,False,0
+19695,2,9.4.1992,0,1.0,154.0,2014.0,Full-time,1.0,Student (Specialist),Русский,6,2,Yekaterinburg,2020-09-11 21:17:13,university,УрФУ им. первого Президента России Б. Н. Ельцина,False,False,0
+98038,2,,0,1.0,33.0,2011.0,,0.0,Alumnus (Master's),Українська;Русский;English,False,False,Wrocław,2020-09-06 23:37:01,university,ТНЭУ (бывш. ТАНХ),False,False,0
+22842,2,10.2.1989,0,1.0,401.0,2011.0,Full-time,1.0,Student (Specialist),Русский,0,0,Pyatigorsk,2020-01-02 17:30:42,university,ПГГТУ (СКФУ),False,False,0
+67212,1,7.5,1,1.0,145.0,2013.0,Full-time,0.0,Student (Specialist),False,0,0,Saint Petersburg,2020-10-05 06:10:14,university,ДВФУ,False,False,1
+87442,2,20.2.1986,1,1.0,186.0,0.0,Full-time,1.0,Student (Specialist),Русский,False,False,Cherepovets,2020-03-10 16:35:46,work,Секретный Агент (засланец)))),1986,False,0
+45108,2,13.7.1986,1,1.0,85.0,2009.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-08-12 20:09:42,university,МТУСИ,False,False,0
+92434,1,30.11.1985,1,1.0,148.0,2007.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Nizhny Novgorod,2020-02-26 16:11:36,university,ИБП (ННФ),False,False,1
+17858,2,18.1.1986,1,1.0,126.0,0.0,Full-time,0.0,Student (Specialist),False,0,0,Ufa,2020-04-26 18:15:57,university,УГНТУ,2007,2008,0
+39531,1,9.6.1981,1,1.0,783.0,2012.0,Part-time,0.0,Alumnus (Bachelor's),Русский,0,0,Moscow,2020-11-02 22:36:52,university,Университет машиностроения (МАМИ),False,False,1
+40254,1,,0,1.0,28.0,2000.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Chelyabinsk,2020-12-12 14:35:07,university,УрСЭИ,False,False,0
+10872,2,6.12,1,0.0,153.0,2010.0,Full-time,4.0,Alumnus (Specialist),Українська,False,False,Kostopol,2020-05-24 12:03:12,work,"ДП ""Костопільський лісгосп""",False,False,0
+18411,2,23.4,1,1.0,343.0,2015.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Volgograd,2020-09-12 19:05:05,work,YRSPACE Esports | Волгоград,2018,False,0
+22995,2,12.8.1983,1,1.0,56.0,2005.0,Full-time,0.0,Alumnus (Master's),Русский,1,2,Moscow,2020-07-24 01:33:23,work,Гражданство РФ | ВНЖ | РВП | Патент | Работа,2014,False,1
+95523,1,17.8.1992,0,1.0,518.0,0.0,Distance Learning,4.0,Student (Specialist),Русский,1,2,Lida,2020-03-02 14:45:48,university,ГрГУ им. Янки Купалы,False,False,1
+43200,2,12.9.1991,1,1.0,104.0,2015.0,Distance Learning,1.0,Student (Bachelor's),Русский,1,2,Dimitrovgrad,2020-02-11 14:16:23,university,ДИТИ (ф) НИЯУ МИФИ (бывш. ДИТУД филиал УЛГТУ),2009,2009,0
+26362,2,11.1.1989,1,1.0,624.0,2011.0,Full-time,0.0,Alumnus (Bachelor's),Русский,3,5,Rostov-on-Don,2020-03-07 10:14:13,university,ЮФУ (бывш. РГУ),False,False,0
+22756,2,,1,1.0,200.0,2003.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Pravdinsky,2020-03-06 22:03:45,work,"Центр передовых технологий управления персоналом и профессионального обучения ОАО ""РЖД""",2003,False,0
+5963,2,,0,1.0,373.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский,1,2,Omsk,2020-11-28 17:14:22,university,ОмГТУ,False,False,0
+90120,1,5.8.1984,1,1.0,1292.0,2005.0,Full-time,0.0,Alumnus (Master's),Русский,1,2,Samara,2020-08-12 14:12:35,work,СОШ №3,2004,False,1
+88313,2,31.5.1985,1,1.0,247.0,2008.0,Part-time,1.0,Alumnus (Specialist),Русский,1,2,Tolyatti,2020-12-02 19:57:15,university,"ТГУ (бывш. ТолПИ, филиал СГПУ)",False,False,0
+75706,2,1.12.1984,1,1.0,174.0,2007.0,Full-time,1.0,Alumnus (Master's),Русский,0,6,Omsk,2020-03-24 18:40:19,work,Ростелеком,2004,False,0
+30503,2,14.12,0,1.0,192.0,2017.0,Full-time,0.0,Student (Bachelor's),Русский;English;Français,3,2,Saint Petersburg,2020-10-04 02:47:08,university,ФИНЭК,False,False,0
+46820,2,,0,1.0,38.0,2000.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Minsk,2020-07-21 23:33:06,university,БГУИР (бывш. МРТИ),False,False,1
+5879,1,14.8.1982,1,1.0,25.0,2009.0,Distance Learning,5.0,Alumnus (Specialist),False,False,False,,2020-07-02 07:46:11,university,ТвГТУ,False,False,1
+95777,2,1.8.1914,0,0.0,91.0,2014.0,Full-time,0.0,PhD,Абаза Бызшва,0,0,Nizhny Novgorod,2020-11-18 14:33:47,university,АФСБ РФ (бывш. ВШ КГБ СССР им. Ф. Э. Дзержинского),2013,2014,0
+99675,2,3.7.1986,1,1.0,43.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Krasnodar,2020-08-10 22:37:31,university,КубГТУ,False,False,0
+82283,1,15.3.1992,0,1.0,257.0,2013.0,Distance Learning,0.0,Student (Bachelor's),Русский;Deutsch;English,0,6,Moscow,2020-05-04 17:32:46,university,Universität Passau,False,False,1
+13213,1,15.4.1994,1,1.0,155.0,2016.0,Full-time,1.0,Alumnus (Bachelor's),False,6,2,Saint Petersburg,2020-12-01 22:04:37,university,СПбГАСУ,False,False,1
+71332,1,13.10,0,1.0,1629.0,2014.0,Full-time,0.0,Student (Specialist),False,1,6,Kazan,2020-10-21 12:06:04,work,Организация свадьбы в Казани,2013,False,1
+43456,2,5.3.1984,1,1.0,303.0,2007.0,,4.0,Alumnus (Specialist),Русский;English;Чăвашла,1,2,Urmary,2020-06-11 01:29:56,work,🔔 Эта страница официально подтверждена,2020,False,0
+35957,1,3.8.1989,0,1.0,530.0,2011.0,Distance Learning,0.0,Student (Specialist),Русский,0,0,Arkhangelsk,2020-11-19 06:26:56,university,Финансовый университет при Правительстве РФ (АФ) (бывш. ВЗФЭИ),False,False,1
+20691,2,7.7.1983,1,1.0,50.0,2015.0,Distance Learning,4.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-01-29 20:19:00,university,Университет машиностроения (МАМИ),False,False,0
+50464,1,8.7.1991,0,1.0,130.0,2013.0,Distance Learning,4.0,Alumnus (Specialist),False,0,0,Nizhny Novgorod,2020-09-27 09:45:48,work,"ПечьСтройСервис | кладка печей, каминов,ремонт",2011,False,1
+33741,2,,1,1.0,42.0,2013.0,Full-time,4.0,Student (Bachelor's),Русский,False,False,Kremennaya,2020-08-04 01:22:27,university,ХНАУ им. Докучаева,False,False,0
+35050,2,18.3.1995,1,1.0,358.0,2018.0,Full-time,0.0,Student (Specialist),Русский,3,0,Yekaterinburg,2020-04-16 14:02:43,work,Стул,1995,False,0
+1819,2,4.3,0,1.0,53.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Lipetsk,2020-10-25 15:47:31,work,"-ОАО ""НЛМК""",2007,False,1
+78358,1,4.8.1980,0,1.0,104.0,2003.0,Part-time,4.0,Alumnus (Specialist),False,False,False,Zheleznogorsk,2020-10-07 22:54:50,university,СФУ (ЖФ),False,False,1
+22846,1,1.8.1980,0,1.0,767.0,2003.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Pskov,2020-08-31 08:41:05,work,"Российские железные дороги (ОАО ""РЖД"")",2018,False,1
+36651,2,30.8.1990,1,1.0,7.0,2007.0,Full-time,0.0,Alumnus (Master's),Русский,0,0,,2020-10-06 21:27:30,university,СКГМИ (ГТУ),False,False,0
+12326,1,6.7.1991,1,1.0,279.0,2012.0,Full-time,4.0,Student (Specialist),False,0,0,Omsk,2020-12-22 19:21:59,work,Омский государственный академический театр драмы,False,False,1
+17272,1,5.12.1993,1,1.0,922.0,2021.0,,4.0,Alumnus (Master's),False,0,0,Bălţi ,2020-10-27 16:43:06,university,"Universitatea Tehnică a Moldovei (UTM, ТУМ)",False,False,1
+17757,1,17.5,1,1.0,869.0,2011.0,Distance Learning,0.0,Alumnus (Specialist),Русский,0,0,Yekaterinburg,2020-01-19 07:29:47,university,УрФЮИ,False,False,1
+65285,2,29.4,1,1.0,80.0,2011.0,Full-time,4.0,Student (Bachelor's),Русский,0,2,Saint Petersburg,2020-02-29 23:27:02,work,ПЕТРОКОМ,2001,False,1
+49096,1,11.12,1,1.0,623.0,0.0,Full-time,4.0,Student (Specialist),Русский,6,1,Saint Petersburg,2020-05-07 06:49:26,university,СПбГУ,False,False,1
+22310,2,28.8,0,1.0,94.0,2011.0,Distance Learning,0.0,Student (Bachelor's),Русский,0,0,Yekaterinburg,2020-03-23 21:29:45,university,УрГПУ,2010,2011,0
+68039,2,25.9.1985,0,1.0,202.0,2016.0,,0.0,Alumnus (Specialist),Русский;English;Français;Svenska;हिन्दी;Словѣ́ньскъ,0,0,Moscow,2020-10-09 06:38:57,work,Частная психологическая практика,2004,False,1
+41578,1,6.7,0,1.0,217.0,2001.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-02-13 08:22:39,university,МГУПП,2001,2013,1
+8751,2,13.7.1984,1,1.0,81.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-12-27 12:26:38,work,"""тюмень энерго"" Когалымские электрические сети урьевский РЭС",2007,False,0
+83843,2,17.10,1,1.0,95.0,2003.0,Full-time,4.0,Alumnus (Master's),Русский,0,0,Yekaterinburg,2020-06-30 11:31:22,university,УрГАХУ (бывш. УралГАХА),2014,False,0
+18367,2,,1,1.0,82.0,2014.0,Full-time,4.0,Student (Specialist),False,0,0,Nizhnevartovsk,2020-06-16 02:36:04,university,ОмГМУ (бывш. ОмГМА),False,False,0
+48331,2,14.2,1,1.0,62.0,0.0,Full-time,0.0,Undergraduate applicant,Русский,2,False,Moscow,2020-10-12 17:59:35,university,ИНЭП,False,False,0
+23442,1,27.3,1,1.0,323.0,2016.0,Full-time,0.0,Alumnus (Specialist),False,0,0,Saint Petersburg,2020-07-17 08:05:34,work,Misanthrope Theatre,2015,False,1
+28530,1,5.12.1987,1,1.0,118.0,2015.0,Full-time,0.0,Student (Bachelor's),False,2,1,Essen,2020-12-29 04:36:05,,,False,False,1
+28635,2,,0,1.0,180.0,0.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English;Español,0,0,Saint Petersburg,2020-02-05 08:19:20,university,СПбГЭУ,False,False,1
+54995,1,27.8.1994,0,1.0,339.0,2016.0,Full-time,4.0,Student (Bachelor's),Русский;English,6,1,Yekaterinburg,2020-08-22 11:42:13,work,Проектное бюро Р1,2018,False,1
+80784,1,,0,1.0,29.0,0.0,Full-time,0.0,Alumnus (Specialist),False,False,False,,2020-08-30 10:04:58,,,False,False,1
+12458,1,23.1.1992,1,1.0,454.0,2012.0,,4.0,Alumnus (Specialist),Русский,1,2,Moscow,2020-10-29 08:05:31,university,ИРТ (до 2017),False,False,1
+52035,1,25.9,0,1.0,40.0,2002.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-10-30 15:48:52,university,МГУПП,2002,2014,1
+28312,2,,0,1.0,190.0,2013.0,Full-time,1.0,Alumnus (Specialist),Русский;English;Deutsch,0,0,Moscow,2020-03-25 04:58:30,university,РУТ (МИИТ) (бывш. МГУПС Императора Николая II),False,False,0
+89424,1,6.1,0,1.0,975.0,2014.0,Full-time,0.0,Alumnus (Specialist),Русский;English,6,6,Moscow,2020-08-10 15:27:44,work,GanchurPhoto. Фотограф Катерина Ганчурина,2013,False,1
+31961,2,6.9.1996,1,1.0,83.0,0.0,Distance Learning,7.0,Alumnus (Bachelor's),Русский,6,5,Moscow,2020-07-09 01:26:34,work,"МУП ""Домодедовский Водоканал""",False,False,0
+41819,1,10.9.1990,0,1.0,1960.0,2015.0,Distance Learning,1.0,Alumnus (Specialist),Русский,6,2,Lukhovitsy,2020-06-29 15:15:24,university,"ГСГУ (бывш. МГОСГИ, КГПИ)",False,False,1
+75186,2,19.8.1976,1,1.0,33.0,2000.0,Distance Learning,1.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-08-04 19:18:11,university,Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ),False,False,0
+52101,1,24.5.1994,1,1.0,225.0,0.0,Full-time,4.0,Student (Bachelor's),Русский;English,0,0,Moscow,2020-01-11 05:52:53,university,НИУ МГСУ (МГСУ-МИСИ),False,False,1
+88270,2,13.12.1989,0,1.0,215.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Deutsch;Лакку маз,1,2,Makhachkala,2020-04-11 11:58:27,university,ДГУ,False,False,1
+49379,2,16.6.1984,1,1.0,578.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский;Українська;English,0,0,Sevastopol,2020-04-19 22:31:31,work,Страйкбол ★ Игры ★ Крым,2007,False,0
+82576,1,23.11.1992,1,1.0,146.0,2014.0,Full-time,0.0,Student (Specialist),Русский;English;Italiano,0,0,Firenze,2020-01-03 20:22:20,university,КФУ (бывш. КГУ им. Ульянова-Ленина),False,False,1
+83092,2,3.4.1992,0,1.0,221.0,2016.0,,4.0,Student (Bachelor's),Русский,0,0,Chelyabinsk,2020-06-01 14:33:04,university,ЧелГУ,False,False,0
+24851,2,25.6.1990,0,1.0,24.0,2010.0,Full-time,4.0,Undergraduate applicant,Русский,1,0,Omsk,2020-08-27 00:43:10,university,ОмГУ им. Достоевского,False,False,0
+3624,2,5.11.1990,0,1.0,252.0,2016.0,Distance Learning,7.0,Student (Specialist),Русский,0,0,Ufa,2020-12-03 09:27:06,university,УГНТУ,False,False,1
+37815,1,20.2.1987,0,1.0,1772.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Syktyvkar,2020-11-02 05:10:39,work,КЫТШ клуб,2019,False,1
+65432,1,12.5,1,1.0,4588.0,2010.0,Full-time,4.0,Student (Specialist),Русский,0,6,Saint Petersburg,2020-10-24 11:59:22,work,"Сажаю деревья,спасаю животных!;)) И вам советую!;)",False,False,1
+27578,2,16.9.1989,0,1.0,333.0,2015.0,Full-time,2.0,Alumnus (Specialist),Русский;English,5,1,Novosibirsk,2020-04-04 22:47:35,work,Страховая Группа «СОГАЗ»,2015,False,1
+7134,2,11.6,1,1.0,65.0,2005.0,Full-time,0.0,Alumnus (Master's),Русский,0,0,Novosibirsk,2020-11-10 17:45:32,university,СГУПС,False,False,0
+54946,1,31.3,1,1.0,99.0,2006.0,,4.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-08-27 16:16:58,work,иль де ботэ,False,False,1
+71221,1,12.11,1,1.0,215.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,0,2,Saint Petersburg,2020-12-24 03:03:49,work,"НОГАМ ДОРОГУ роллерклуб, роллердромы",2018,False,1
+98612,2,12.4.1990,0,1.0,217.0,2012.0,Full-time,1.0,Student (Specialist),Русский,0,0,Moscow,2020-04-14 09:58:12,university,СПИЭБ,False,False,0
+79121,1,,0,1.0,41.0,0.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Vladivostok,2020-04-02 17:52:13,university,ДВГТУ (бывш. ДВПИ им. В. В. Куйбышева),False,False,1
+41360,1,5.11,0,1.0,22.0,2000.0,Part-time,0.0,Alumnus (Specialist),Русский,False,False,Yekaterinburg,2020-01-02 16:00:17,university,УрГЮУ (бывш. УрГЮА),False,False,1
+98475,2,16.12.1981,0,1.0,115.0,2005.0,Full-time,0.0,Alumnus (Specialist),Русский,5,5,Astrakhan,2020-03-03 12:22:22,work,Юрий В. Выборнов,False,False,1
+53965,2,,1,1.0,75.0,2016.0,Full-time,0.0,Alumnus (Specialist),Русский;English,0,0,Krasnodar,2020-10-29 12:47:02,university,ЦГМА УД Президента РФ,False,False,0
+76300,2,14.4.1994,0,1.0,1003.0,2016.0,Distance Learning,0.0,Student (Specialist),Русский,False,False,Moscow,2020-04-06 20:18:42,university,"МГУТУ им. К. Г. Разумовского (ПКУ) (бывш. МГТА, ВЗИПП)",False,False,0
+74046,1,15.5,0,1.0,512.0,0.0,Full-time,4.0,Student (Bachelor's),Русский,False,False,Moscow,2020-11-03 01:23:46,work,Микроблейдинг. Кератиновое выпрямление волос,2013,False,1
+31246,2,14.10.1993,0,1.0,540.0,2017.0,Part-time,4.0,Student (Specialist),Русский,6,2,Saint Petersburg,2020-12-16 04:18:06,work,Домашний мастер*Мастер на все руки*Мастер на Час,2015,False,0
+60397,1,4.3,0,1.0,997.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский,1,2,Saint Petersburg,2020-04-01 06:27:40,university,Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ),False,False,1
+842,2,23.1.1990,0,1.0,116.0,2012.0,Full-time,0.0,Alumnus (Master's),Русский,1,2,Moscow,2020-03-21 00:47:11,university,РГСУ,False,False,0
+45623,2,14.6,1,1.0,245.0,2011.0,Full-time,1.0,Alumnus (Bachelor's),Українська;Русский;English,0,2,Izmail,2020-01-01 17:54:52,university,"НУ ОМА (бывш. ОНМА, ОВИМУ)",False,False,0
+92417,2,13.2.1989,0,1.0,352.0,2013.0,Distance Learning,4.0,Student (Specialist),Русский,0,0,Kamensk-Uralsky,2020-11-13 08:19:23,university,КПИ (филиал) УрФУ (бывш. ПИ (филиал) УГТУ-УПИ),False,False,0
+32357,1,23.7.1993,1,1.0,2655.0,2014.0,Full-time,7.0,Alumnus (Bachelor's),False,0,0,Kyiv,2020-07-06 04:45:43,university,КНУКиИ,False,False,1
+38108,2,5.2,1,1.0,89.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Nizhnevartovsk,2020-08-11 06:36:43,university,УГАТУ,False,False,0
+1640,1,11.11.1990,1,1.0,153.0,2014.0,Full-time,0.0,Alumnus (Master's),False,False,False,Odessa,2020-07-26 20:01:35,university,ОНУ (бывш. ОГУ) им. Мечникова,False,False,1
+87028,1,16.2.1971,0,1.0,171.0,1992.0,Full-time,4.0,Alumnus (Specialist),Русский,6,2,Vereschagino,2020-09-12 03:36:36,university,ПГИК (бывш. ПГАИК),False,False,1
+66608,2,2.9,1,1.0,101.0,2009.0,Full-time,1.0,Alumnus (Specialist),Русский,1,5,Saint Petersburg,2020-12-23 05:17:22,work,"АО ""ЦКБ ""Айсберг""",2005,False,0
+92423,1,,1,1.0,214.0,2014.0,Distance Learning,0.0,Alumnus (Specialist),Русский,1,2,Yaroslavl,2020-10-16 00:12:52,university,ЯФ МФЮА,False,False,0
+49341,2,6.8.1948,1,1.0,5.0,1977.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Gatchina,2020-06-20 12:18:19,university,СПбГИК (бывш. СПбГУКИ),False,False,1
+46414,2,,1,1.0,34.0,2009.0,Part-time,4.0,Alumnus (Specialist),False,False,False,Yekaterinburg,2020-07-04 22:07:34,university,УрФУ им. первого Президента России Б. Н. Ельцина,False,False,0
+83859,1,15.8,1,1.0,295.0,2013.0,Distance Learning,4.0,Alumnus (Specialist),False,0,0,Saratov,2020-10-20 11:13:10,work,СКВТСиС,2015,False,1
+65682,1,19.3.1984,0,1.0,180.0,2012.0,Part-time,4.0,Student (Specialist),Русский,False,False,Novosibirsk,2020-02-28 01:56:06,university,НИЭПП (бывш. НКИ),False,False,1
+2265,1,31.3,0,1.0,269.0,0.0,,4.0,Candidate of Sciences,Русский,0,2,Irkutsk,2020-04-21 14:09:33,,,False,False,1
+33855,2,12.10.1990,0,1.0,190.0,2013.0,Distance Learning,4.0,Student (Specialist),Русский,0,0,Penza,2020-10-04 00:44:41,work,Фотограф Дмитрий Кондаков. Пенза,False,False,0
+60553,2,30.4.1990,1,1.0,374.0,2017.0,Part-time,0.0,Alumnus (Specialist),Русский,6,5,Moscow,2020-10-25 09:26:03,university,АЭБ МВД РФ (бывш. АНП ФСНП РФ),False,False,0
+99059,2,1.7.1995,0,1.0,60894.0,0.0,,4.0,Student (Master's),Русский;Deutsch;English;ภาษาไทย;Español,5,5,Phuket,2020-07-14 21:47:39,work,CryptoBoss,2020,False,1
+48642,2,30.8.1982,0,1.0,139.0,2004.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Tikhvin,2020-01-05 19:25:19,university,ЛГУ им. Пушкина,False,False,0
+30308,1,,0,1.0,922.0,2014.0,Full-time,1.0,Student (Specialist),Русский;English;Français,5,1,Novosibirsk,2020-05-15 13:38:50,work,Продвижение сайтов и интернет-реклама | Ingate,2016,False,0
+86417,2,12.7,0,1.0,245.0,2012.0,Full-time,7.0,Alumnus (Specialist),Русский;English,6,2,Kazan,2020-05-08 01:18:40,university,КФУ (бывш. КГУ им. Ульянова-Ленина),False,False,1
+43546,1,19.12.1995,1,1.0,300.0,2016.0,Full-time,1.0,Student (Bachelor's),Українська;Русский,False,2,Kyiv,2020-06-20 23:54:39,university,НПУ им. М. Драгоманова,False,False,1
+69668,1,,0,1.0,366.0,2011.0,Full-time,0.0,Student (Specialist),False,0,0,Gomel,2020-03-09 15:53:13,university,ГГУ им. Ф. Скорины,False,False,1
+19928,1,10.9,1,1.0,846.0,2016.0,Full-time,1.0,Student (Bachelor's),Русский;English,0,2,Moscow,2020-03-13 16:35:42,work,Woman's Day,2017,False,1
+84034,1,13.5.1985,0,1.0,0.0,2010.0,,1.0,Alumnus (Master's),English;Русский,6,0,Murmansk,2020-10-06 22:56:11,university,СПбГУВК (МФ),False,False,1
+95035,1,20.6.1995,1,1.0,209.0,2010.0,,0.0,Student (Specialist),False,1,5,,2020-05-06 20:05:26,,,False,False,1
+85702,2,17.6.1983,0,1.0,63.0,2006.0,Full-time,1.0,Alumnus (Specialist),Русский;English,False,False,Gulkevichi,2020-11-12 20:21:56,university,КУ МВД РФ (СФ),False,False,0
+11247,1,10.2,1,1.0,1116.0,0.0,Full-time,0.0,Student (Specialist),False,0,0,Smolensk,2020-01-10 02:53:48,university,СмолГУ (бывш. СГПУ),False,False,1
+80384,2,14.10,0,1.0,207.0,2021.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English,0,0,Moscow,2020-03-26 22:01:23,university,МИРЭА (до 2015),2019,False,0
+26275,2,16.3.1986,1,1.0,172.0,2007.0,Full-time,4.0,Alumnus (Bachelor's),Русский;Українська;Polski,6,2,Wrocław,2020-05-12 12:08:12,work,Строительство и ремонт,2008,False,0
+56391,1,27.7,0,1.0,1741.0,0.0,Full-time,0.0,Student (Specialist),Русский,False,False,Moscow,2020-06-12 04:02:21,work,DozoR Orenburg | Автоквесты,False,False,1
+18063,2,22.3,1,1.0,39.0,2001.0,Full-time,4.0,Student (Specialist),Русский,6,2,Moscow,2020-02-17 06:38:52,university,ОГТИ (филиал ОГУ),False,False,0
+39693,2,19.6,0,1.0,245.0,2006.0,Full-time,1.0,Alumnus (Specialist),Русский,1,2,Nizhnevartovsk,2020-06-13 22:23:24,university,НВГУ (бывш. НГГУ),False,False,0
+3573,1,1.11,0,1.0,19010.0,2013.0,Full-time,0.0,Alumnus (Specialist),False,0,0,Moscow,2020-11-27 21:17:19,university,ГИТИС,False,False,1
+94007,1,,1,1.0,47.0,1993.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English,4,2,Calgary,2020-11-22 09:51:03,work,Air Energi,2008,False,1
+55321,1,29.12,0,1.0,561.0,2019.0,Full-time,1.0,Alumnus (Specialist),False,0,0,Saint Petersburg,2020-08-09 05:43:02,work,"Детский клуб, семейное пространство «Я в Домике»",False,False,1
+57953,1,,0,1.0,38.0,2007.0,Distance Learning,0.0,Alumnus (Specialist),False,False,False,Podolsk,2020-05-09 19:17:35,university,СГА (ПФ),False,False,1
+47221,1,15.5,1,1.0,557.0,2004.0,,1.0,Alumnus (Specialist),Русский,False,False,Tolyatti,2020-01-31 23:48:45,university,"ТГУ (бывш. ТолПИ, филиал СГПУ)",False,False,1
+25367,2,22.3.1984,0,1.0,17.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Minsk,2020-10-24 04:44:59,university,"КарТУ (бывш. КарГТУ, КарПИ)",False,False,0
+72315,1,29.6,0,1.0,11740.0,2012.0,Full-time,1.0,Alumnus (Bachelor's),Русский;English,0,2,Saint Petersburg,2020-11-13 00:21:34,,,False,False,1
+30207,2,,0,1.0,274.0,2013.0,Full-time,7.0,Student (Bachelor's),Русский,0,4,Volgograd,2020-09-08 06:02:37,work,Кремль,False,False,1
+96758,2,22.6.1987,0,1.0,65.0,0.0,Full-time,4.0,Undergraduate applicant,False,0,0,Almaty,2020-05-24 00:27:35,university,Erciyes Üniversitesi,False,False,0
+79562,1,19.4,1,1.0,278.0,2011.0,Full-time,1.0,Alumnus (Master's),Русский,6,1,Kryvyi Rih,2020-01-15 05:50:39,university,НМетАУ,False,False,1
+34661,1,16.2.1987,0,1.0,835.0,2009.0,Full-time,1.0,Alumnus (Specialist),False,0,0,,2020-03-26 08:36:24,university,СибГУТИ,2009,2016,1
+86107,2,30.10.1986,0,1.0,7.0,2011.0,Distance Learning,4.0,Student (Specialist),False,False,False,Minsk,2020-12-21 02:03:24,work,налоговая инспекция,2007,False,0
+33442,2,,0,1.0,82.0,2013.0,Distance Learning,4.0,Alumnus (Bachelor's),False,6,0,Petrozavodsk,2020-10-04 10:23:56,work,ОРЭС - Петрозаводск,False,False,1
+69303,1,23.1.1992,1,1.0,1040.0,2010.0,Full-time,1.0,Student (Specialist),Русский,0,6,Saint Petersburg,2020-03-22 07:42:18,university,СПбГУ,False,False,1
+24356,1,1.8.1988,1,1.0,654.0,2012.0,Full-time,8.0,Student (Specialist),Русский,1,1,Nizhny Novgorod,2020-07-30 09:16:27,work,ПОЛЦЕНЫ - мебельный дисконт центр,2014,False,1
+79962,1,7.1.1989,1,1.0,415.0,2012.0,Distance Learning,4.0,Alumnus (Specialist),False,5,6,Izhevsk,2020-09-30 23:16:13,work,КудринаМАССАЖ • Ижевск • Коррекция фигуры,2018,False,1
+74365,2,6.4.1996,0,1.0,552.0,2019.0,Full-time,2.0,Alumnus (Bachelor's),Русский;Українська;English,5,2,Saint Petersburg,2020-07-24 17:00:01,university,СПбГАСУ,False,False,1
+56991,2,23.7,0,1.0,69.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Rostov-on-Don,2020-03-04 05:28:13,,,False,False,1
+74441,2,5.5.1991,1,1.0,881.0,2013.0,Full-time,0.0,Student (Specialist),Русский;English,6,1,Krasnodar,2020-10-24 06:44:38,work,Skillbox: образовательная платформа,False,False,1
+53473,2,13.7.1983,0,1.0,141.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Sochi,2020-08-13 22:47:12,university,СГУ (бывш. СГУТиКД),False,False,0
+76940,2,9.9,1,1.0,3212.0,1988.0,Full-time,0.0,Alumnus (Master's),False,False,False,Moscow,2020-06-06 17:18:19,university,ЛИ им. Горького,1980,1983,1
+20690,2,17.6,0,1.0,162.0,2016.0,Full-time,0.0,Student (Bachelor's),Русский;English,5,1,Tomsk,2020-06-29 03:23:55,university,ТПУ,False,False,1
+31390,1,,1,1.0,427.0,0.0,,0.0,Alumnus (Master's),False,0,0,Volgograd,2020-06-07 20:56:20,university,ВК (бывш. ВМИИ) им. Серебрякова,False,False,1
+73102,1,12.9,1,1.0,616.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Ufa,2020-11-06 02:15:10,university,ОГУ,False,False,1
+80822,1,7.10.1989,1,1.0,1706.0,2014.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-06-26 21:25:09,work,"ГБОУ специальная школа ""Шанс""",2009,False,1
+67419,2,19.11,1,1.0,553.0,0.0,Full-time,0.0,Candidate of Sciences,Српски;Deutsch;Español;日本語,0,0,Leipzig,2020-04-27 18:56:41,work,околоинтеллектуальные мемы,2019,False,0
+86559,1,,0,1.0,104.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-10-16 03:32:20,university,МПГУ (бывш. МГПИ им. Ленина),False,False,1
+52465,1,,0,1.0,697.0,2012.0,Full-time,4.0,Student (Specialist),Русский,0,0,Kostroma,2020-10-06 06:41:45,university,КГУ,False,False,1
+64437,2,13.7.1988,0,1.0,14.0,2011.0,Full-time,1.0,Student (Specialist),False,0,0,Gelendzhik,2020-03-06 15:55:43,university,КубГУ (ГФ),False,False,1
+62796,1,25.12.1992,0,1.0,320.0,0.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English;Español;Français,1,2,Moscow,2020-01-03 17:08:14,university,МГОУ (бывш. МОПИ им. Н. К. Крупской),False,False,1
+30908,1,7.9,0,1.0,732.0,2012.0,Full-time,7.0,Student (Bachelor's),Українська;English;Русский,False,False,Kyiv,2020-06-05 05:09:22,university,НАВД (КНУВД),False,False,1
+45460,2,,0,1.0,35.0,2014.0,Full-time,0.0,Undergraduate applicant,False,False,False,Odessa,2020-09-24 09:59:56,university,ОНМУ (бывш. ОИИМФ),False,False,1
+95066,2,16.3.1992,1,1.0,127.0,2014.0,Full-time,0.0,Student (Specialist),False,0,6,Moscow,2020-04-25 08:32:51,university,МГУ,False,False,0
+12369,2,3.11.1990,1,1.0,233.0,2013.0,Full-time,4.0,Student (Specialist),False,0,0,Rostov-on-Don,2020-05-06 10:18:05,university,ЮФУ (бывш. РГУ),False,False,0
+73356,2,24.4.1991,1,1.0,42.0,2018.0,Full-time,1.0,Undergraduate applicant,Русский;Українська;Deutsch;English,6,6,Berlin,2020-05-23 22:11:14,work,Suanda Music,2016,False,0
+8690,2,18.12.1991,0,1.0,178.0,0.0,Full-time,6.0,Alumnus (Specialist),Русский;English,0,2,Kaliningrad,2020-01-06 03:58:50,university,БГАРФ (бывш. КВИМУ),2020,False,0
+20718,1,14.11,1,1.0,105.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Հայերեն;Français,0,0,Sochi,2020-09-14 18:59:37,university,СГУ (бывш. СГУТиКД),2019,2021,1
+93515,2,30.8.1994,0,1.0,110.0,2016.0,Full-time,0.0,Student (Bachelor's),Русский,0,0,Tyumen,2020-03-15 02:44:57,university,ТГАМЭУП,False,False,0
+5772,2,11.7.1989,0,1.0,116.0,2011.0,Full-time,0.0,Student (Master's),Русский,False,False,Saint Petersburg,2020-04-29 14:48:22,work,СДЭК - Жизнь в стиле Экспресс,2007,False,0
+94553,2,6.8,1,1.0,152.0,2016.0,Full-time,4.0,Student (Specialist),Русский;English;Адыгэбзэ,6,1,Nalchik,2020-10-28 03:47:04,university,КБГУ им. Бербекова,False,False,0
+98103,1,,1,1.0,183.0,0.0,Full-time,0.0,Alumnus (Specialist),False,0,2,,2020-05-06 19:59:46,university,ЮФУ (бывш. РГУ),2007,2017,1
+39215,1,14.3.1990,1,1.0,743.0,2011.0,Full-time,0.0,Alumnus (Bachelor's),False,0,0,Kaliningrad,2020-04-10 12:58:03,university,ЗабГУ (бывш. ЧитГУ),False,False,1
+2182,2,20.5,1,1.0,80.0,2014.0,Full-time,8.0,Student (Bachelor's),Українська;English;Русский;Polski;한국어,1,6,,2020-09-26 01:07:10,university,ЛНАУ (бывш. ЛГАУ),False,False,0
+14799,1,,0,1.0,831.0,2014.0,,0.0,Alumnus (Specialist),Русский,0,0,Yalta,2020-06-22 07:14:38,work,ДРИМВУД,2010,False,1
+67153,1,23.2,1,1.0,465.0,2003.0,Full-time,0.0,Alumnus (Master's),Русский,False,False,Saint Petersburg,2020-08-01 17:06:54,work,ОТЕЛЬ ГАЛУНОВ,2012,False,1
+59272,2,,1,1.0,46.0,2009.0,Full-time,4.0,Alumnus (Master's),Русский,0,0,Donetsk,2020-07-04 14:27:58,work,Филиал «Обогатительная фабрика «Свято-Варваринская» ПрАО «ДМЗ»,2010,False,1
+38551,1,28.7.1994,0,1.0,234.0,2015.0,Full-time,0.0,Alumnus (Bachelor's),Русский,0,0,,2020-03-09 03:46:39,university,НИУ ВШЭ (СПб),False,False,1
+51564,2,19.6.1988,1,1.0,223.0,2012.0,,2.0,Student (Specialist),False,False,False,Dzerzhinsk,2020-09-12 18:04:18,university,ДПИ НГТУ,False,False,0
+80432,2,26.10,1,1.0,1530.0,2010.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English,0,0,Divnogorsk,2020-02-12 20:30:07,work,"ООО ""Адская Кухня""",2005,2016,1
+92717,1,22.2,1,1.0,157.0,2001.0,,0.0,Alumnus (Specialist),False,0,0,Pskov,2020-08-26 14:30:50,university,ПсковГУ,False,False,1
+32555,1,,0,1.0,275.0,2014.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Vladimir,2020-09-10 14:23:13,university,ВлГУ им. А. Г. и Н. Г. Столетовых,False,False,1
+88543,2,15.11.1989,0,1.0,220.0,2012.0,Full-time,4.0,Student (Specialist),Русский,1,2,Oryol,2020-03-23 12:28:23,work,"ООО ""Строймагистраль""",2013,False,0
+52836,2,,1,1.0,164.0,2014.0,Full-time,4.0,Student (Specialist),Русский,False,False,Izhevsk,2020-01-29 23:27:12,university,УдГУ,False,False,0
+7707,2,12.10.1993,0,1.0,946.0,2016.0,Full-time,4.0,Student (Bachelor's),Русский,0,0,Novocheboxarsk,2020-12-24 19:48:46,university,ЧКИ РУК,False,False,0
+21102,2,22.3,0,1.0,76.0,2011.0,,1.0,Alumnus (Master's),Русский,0,0,Novosibirsk,2020-06-02 03:03:49,university,ТГУ,False,False,1
+5796,1,10.3.1986,1,1.0,108.0,2009.0,Full-time,1.0,Alumnus (Specialist),False,False,False,Minsk,2020-04-02 18:23:56,university,МГЛУ (бывш. МГПИИЯ),2008,False,1
+1660,1,4.7,1,1.0,236.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский;English,0,0,Novosibirsk,2020-02-22 20:51:23,university,НГПУ,False,False,1
+73506,2,12.4,0,1.0,121.0,2007.0,Full-time,4.0,Alumnus (Master's),Русский,False,False,Kharkiv,2020-09-23 09:24:35,work,тренер по Акр РнР,2004,False,1
+73744,1,20.8.1992,0,1.0,238.0,2017.0,,0.0,Student (Master's),Русский;English;Deutsch;汉语,6,1,Moscow,2020-02-04 19:48:18,university,НИУ ВШЭ (ГУ-ВШЭ),False,False,1
+52356,2,5.7.1990,1,1.0,43.0,2015.0,Full-time,4.0,Student (Master's),Русский,False,False,Saint Petersburg,2020-02-12 02:05:17,university,СПбГАСУ,False,False,0
+13786,1,14.4.1986,0,1.0,552.0,2009.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Vorsma,2020-09-05 15:56:42,work,Фабрика Баринова,2009,False,1
+92519,1,11.1.1987,0,1.0,524.0,2011.0,Part-time,0.0,Alumnus (Specialist),False,False,False,Moscow,2020-12-05 00:49:58,university,НИЕВ,False,False,1
+78350,1,13.4.1993,0,1.0,703.0,2015.0,,0.0,Alumnus (Specialist),Русский;Українська,6,2,,2020-09-02 07:47:02,university,МАТИ - РГТУ им. К. Э. Циолковского,False,False,1
+99128,2,13.8.1983,0,1.0,558.0,2006.0,Full-time,0.0,Alumnus (Specialist),False,6,1,Kyiv,2020-06-25 16:29:46,work,REVET SOUND,2000,False,1
+77858,2,22.7.1990,0,1.0,424.0,2014.0,Distance Learning,6.0,Student (Specialist),Русский,6,2,Chelyabinsk,2020-07-28 02:31:00,university,ЮУПИ,2012,2017,0
+79151,2,25.11.1991,0,1.0,243.0,2009.0,Distance Learning,1.0,Alumnus (Specialist),Русский;English,4,2,Moscow,2020-10-05 10:27:06,university,"ТУСУР (бывш. ТАСУР, ТИАСУР)",False,False,0
+90348,2,28.9.1995,0,1.0,574.0,0.0,Full-time,7.0,Student (Bachelor's),False,1,2,Dnipropetrovsk (Dnipro),2020-03-15 05:04:14,university,ДНУ им. Олеся Гончара,1995,2009,0
+4907,1,26.1.1989,0,1.0,1021.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский;English;Italiano,1,2,,2020-04-07 00:24:57,university,УлГПУ им. И. Н. Ульянова,2012,2014,1
+18898,1,11.12.1979,0,1.0,537.0,2008.0,Full-time,0.0,Alumnus (Master's),Русский,5,2,Berdyansk,2020-08-20 20:49:07,work,Танцы в Бердянске! ЦСТ VICTORY DANCE,2004,False,1
+49625,2,,0,1.0,112.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Belgorod,2020-03-24 22:33:59,university,БГТУ им. В. Г. Шухова,False,False,0
+46463,1,9.3,0,1.0,653.0,2018.0,Full-time,0.0,Student (Master's),Русский,5,1,Moscow,2020-08-22 09:05:22,university,МГУ,False,False,1
+43181,2,1.9.1982,0,0.0,34.0,0.0,Distance Learning,0.0,Student (Specialist),Русский,False,False,Sergiev Posad,2020-09-01 21:57:19,university,Филиал МУ им. С. Ю. Витте (бывш. МИЭМП),False,False,1
+64721,2,27.11.1987,0,1.0,336.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Yekaterinburg,2020-08-23 10:02:41,work,www.druse.ru,2007,False,0
+28123,2,10.8.1990,1,1.0,114.0,0.0,Full-time,1.0,Student (Specialist),Русский,0,0,Nizhny Novgorod,2020-04-15 19:40:53,university,НГТУ им. Р. Е. Алексеева,False,False,0
+65796,2,21.11,0,1.0,47.0,2010.0,Full-time,7.0,Alumnus (Bachelor's),Русский;English;Українська,0,0,Simferopol,2020-02-09 18:23:19,university,КЭИ КНЭУ,False,False,0
+66122,1,23.3,1,1.0,175.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-07-29 03:37:27,university,ТГМУ (ТГМА),False,False,1
+32170,1,,1,1.0,1014.0,0.0,Full-time,5.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-10-27 08:06:54,university,ТГУ,False,False,1
+65192,2,29.3.1986,1,1.0,88.0,0.0,,0.0,Alumnus (Specialist),Русский;Українська;English,False,False,Zhitomir,2020-05-31 03:15:49,university,ЖГТУ,False,False,0
+17226,2,11.8,1,1.0,18087.0,2012.0,Full-time,1.0,Student (Specialist),Русский,0,0,Moscow,2020-01-24 11:41:51,work,МУЗ- ТВ,2012,False,1
+36931,2,,0,1.0,83.0,2009.0,Full-time,4.0,Alumnus (Master's),False,0,0,Semey ,2020-02-15 05:13:22,university,СГПИ,False,False,0
+93735,2,12.3,0,1.0,174.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Stavropol,2020-09-24 01:21:09,university,СевКавГТУ (СКФУ),False,False,0
+82048,1,6.8.1992,1,1.0,485.0,2018.0,Full-time,4.0,Student (Specialist),Русский,1,2,Irkutsk,2020-03-30 08:45:10,university,ИГМУ,False,False,1
+89390,1,12.12,1,1.0,159.0,2017.0,Full-time,4.0,Alumnus (Bachelor's),Русский,0,0,Moscow,2020-06-27 02:36:43,university,МГПУ,False,False,1
+78823,1,,0,1.0,986.0,2008.0,Full-time,1.0,Alumnus (Specialist),False,0,0,Ozersk,2020-01-14 09:03:38,university,ЮУрГУ (НИУ),False,False,1
+52448,1,14.10.1987,0,1.0,286.0,2010.0,Full-time,0.0,Alumnus (Specialist),False,0,0,Yaroslavl,2020-06-11 09:49:10,university,ЯрГУ им. П. Г. Демидова,False,False,1
+58243,2,17.11.1978,0,1.0,58.0,2004.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Aginskoe,2020-01-16 20:06:28,university,ВСГИК (бывш. ВСГАКИ),False,False,0
+27721,1,29.5.1988,0,1.0,211.0,2011.0,Full-time,4.0,Student (Specialist),Русский,False,False,Kyiv,2020-02-24 14:18:18,university,КНЛУ (бывш. КГПИИЯ),False,False,1
+53352,1,31.7,1,1.0,4565.0,0.0,Full-time,0.0,Candidate of Sciences,False,0,0,Saint Petersburg,2020-07-05 12:53:48,university,ФИНЭК,False,False,1
+40921,2,28.12,1,1.0,3356.0,2009.0,Full-time,4.0,Student (Bachelor's),Русский,7,2,Moscow,2020-07-19 17:17:44,work,BOMMAN Stickers,2010,False,0
+18123,1,28.7.1990,0,1.0,338.0,2012.0,Full-time,0.0,Student (Specialist),Русский,False,False,Kimry,2020-02-17 13:42:39,university,Университет «Дубна»,False,False,1
+35994,2,16.4.1992,1,1.0,479.0,2014.0,Full-time,3.0,PhD,Русский,1,6,Irkutsk,2020-12-17 06:16:22,work,Тесла Шоу | Шоу Детонация | Иркутск,False,False,0
+73450,2,28.10.1995,0,1.0,1409.0,2019.0,Full-time,0.0,Alumnus (Specialist),Русский;English,0,0,Saint Petersburg,2020-11-09 10:45:41,university,СПбГИКиТ (бывш. СПбГУКиТ),False,False,1
+1009,1,2.2,1,1.0,379.0,2017.0,Full-time,0.0,Student (Specialist),Русский;English;Lingua Latina;Deutsch,0,0,Moscow,2020-10-24 21:39:55,university,Первый МГМУ им. И. М. Сеченова (Сеченовский Университет),False,False,1
+87327,2,5.10,1,1.0,131.0,2011.0,,1.0,Student (Master's),Русский,1,5,Odessa,2020-05-10 02:35:21,work,●●●Young&Jobless●●●,2007,False,0
+3302,2,,1,1.0,25.0,2005.0,Full-time,0.0,Alumnus (Bachelor's),False,False,False,Kursk,2020-02-18 08:57:13,work,Кентавр Электроникс,2007,False,0
+12018,1,26.11.1998,0,1.0,422.0,0.0,Full-time,0.0,Student (Bachelor's),Русский;Български,0,0,Odessa,2020-11-01 11:15:51,university,"ОНЭУ (бывш. ОГЭУ, ОИНХ)",False,False,1
+65398,1,16.4,1,1.0,231.0,2016.0,Part-time,4.0,Alumnus (Bachelor's),False,0,0,Moscow,2020-01-17 10:59:13,work,Tilda.cc,2016,False,1
+55113,2,20.4,1,1.0,87.0,0.0,,0.0,Alumnus (Specialist),Русский,False,False,Luhansk,2020-05-22 16:20:56,work,#ведущийсвадеб,False,False,0
+7494,2,,1,1.0,103.0,0.0,Full-time,0.0,Student (Specialist),False,False,False,Tomsk,2020-05-02 00:14:44,university,ТГАСУ,False,False,0
+91787,1,31.5,0,1.0,384.0,2009.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Kazan,2020-04-27 00:11:33,work,Казанский федеральный университет | КФУ,2018,False,1
+64914,2,,0,1.0,18.0,0.0,Distance Learning,4.0,Student (Bachelor's),False,0,0,Nizhny Novgorod,2020-02-04 15:49:13,university,НГПУ им. Козьмы Минина,False,False,0
+83368,2,7.6,0,1.0,268.0,0.0,Part-time,7.0,Student (Bachelor's),Русский,0,0,Saint Petersburg,2020-06-24 07:20:19,university,БГТУ «Военмех» им. Д. Ф. Устинова,False,False,0
+97212,1,15.12.1995,1,1.0,230.0,2017.0,Full-time,4.0,Student (Bachelor's),Русский;English,1,2,Saint Petersburg,2020-07-23 22:36:15,work,"Движение Плюс| Автосервис,Автозапчасти,Автозвук",False,False,1
+48600,2,26.10.1987,0,1.0,97.0,2012.0,Full-time,1.0,Student (Specialist),Русский,False,False,Moscow,2020-01-17 16:39:05,university,ПетрГУ,False,False,1
+78454,2,27.2.1988,0,1.0,171.0,0.0,Part-time,0.0,Student (Bachelor's),Русский;English;汉语,False,False,Moscow,2020-03-31 04:35:00,work,Горный Поток,False,False,1
+75110,2,,0,1.0,243.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,4,1,Saratov,2020-01-31 23:23:45,university,СГУ им. Н. Г. Чернышевского,False,False,1
+4980,1,,0,1.0,637.0,0.0,,0.0,Alumnus (Specialist),Русский,0,0,Vytegra,2020-12-14 04:06:46,university,"СПбУТУиЭ (бывш. САУ, СПбУУЭ, СПбАУЭ)",False,False,1
+93987,2,22.6,0,1.0,38.0,1993.0,Part-time,0.0,Alumnus (Specialist),False,False,False,Kaspiysk,2020-09-30 03:29:16,university,ДГТУ,False,False,1
+1475,1,11.6,0,1.0,273.0,2013.0,Part-time,0.0,Student (Specialist),Русский,False,False,Saint Petersburg,2020-08-03 08:53:26,university,СЗИУ РАНХиГС (бывш. СЗАГС),False,False,0
+84877,1,3.1,0,1.0,1287.0,0.0,Full-time,0.0,Alumnus (Master's),Русский;English;Українська;Български;Español,7,6,Odessa,2020-02-22 03:06:42,university,ОТЭИ КНТЭУ (бывш. ОИФ УГУФМТ),False,False,1
+45621,1,13.2,1,1.0,238.0,2012.0,,4.0,Alumnus (Specialist),False,0,0,Kirishi,2020-01-08 09:42:03,university,ЛГУ им. А. С. Пушкина,False,False,1
+29309,2,15.6,1,1.0,53.0,2014.0,Full-time,6.0,Alumnus (Bachelor's),Русский;Українська,1,2,Pereyaslav-Khmelnitsky,2020-07-19 21:40:53,university,ЧИПБ им. Героев Чернобыля (бывш. АПБ им. Героев Чернобыля),2014,False,0
+52464,2,11.12.1987,0,1.0,106.0,2009.0,Distance Learning,4.0,Undergraduate applicant,Русский,0,0,Moscow,2020-01-15 18:43:32,university,"Universitatea de Stat «Alecu Russo» din Bălți (USARB, БГУ им. Алеку Руссо)",False,False,0
+66495,1,13.10,1,1.0,210.0,2012.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Samara,2020-01-23 10:43:22,university,БИЭПП,False,False,1
+25886,1,14.7,1,1.0,138.0,2015.0,Full-time,0.0,Student (Bachelor's),Русский,False,False,Moscow,2020-07-30 02:21:50,university,РГГУ,False,False,0
+88931,2,7.2.1991,1,1.0,180.0,2013.0,Full-time,0.0,Undergraduate applicant,Русский,1,2,Kharkiv,2020-05-04 03:09:55,work,GAMEBOMB,2000,False,0
+11894,1,14.1,0,1.0,155.0,0.0,Distance Learning,7.0,PhD,False,1,2,Mirny,2020-04-14 06:26:23,work,Культурно-спортивный комплекс,2009,False,0
+79454,2,14.6.1991,0,1.0,153.0,2017.0,Full-time,1.0,Student (Specialist),Русский,False,False,Moscow,2020-03-08 11:41:54,university,МАИ,2012,2013,0
+21073,1,5.6.1992,1,1.0,412.0,2015.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English,1,6,Saint Petersburg,2020-12-13 16:39:19,university,МБИ,False,False,1
+4976,2,22.2.1990,0,1.0,204.0,2011.0,Full-time,4.0,Student (Bachelor's),Русский,1,2,Novosibirsk,2020-08-22 10:09:56,university,НФ ЕУ (бывш. ЕУФИМБ),False,False,0
+85039,2,9.7.1984,0,1.0,51.0,2008.0,Full-time,1.0,Alumnus (Specialist),False,0,0,Moscow,2020-12-22 00:41:46,work,Арфы.рф,2009,False,1
+28018,2,,0,1.0,94.0,2010.0,Full-time,0.0,Student (Specialist),Русский;Mande,5,0,Chelyabinsk,2020-10-31 08:26:13,university,ЧИПС УрГУПС,False,False,0
+79711,2,,1,1.0,128.0,2007.0,Full-time,0.0,Alumnus (Bachelor's),Русский,False,False,Minsk,2020-03-17 22:01:27,university,БГЭУ (бывш. БГИНХ),False,False,0
+31354,1,24.11.1992,0,1.0,166.0,2015.0,Full-time,0.0,Student (Specialist),Русский,0,2,Saint Petersburg,2020-03-09 07:54:59,university,СПбГИК (бывш. СПбГУКИ),False,False,1
+11786,2,,1,1.0,80.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,False,False,Slobodka,2020-01-14 02:48:24,university,"ОНПУ (бывш. ОГПУ, ОПИ)",False,False,0
+22072,2,13.6.1989,0,1.0,573.0,2010.0,Full-time,1.0,Student (Specialist),Русский,6,5,Saint Petersburg,2020-03-08 00:18:54,work,"ООО ""ЛемонБар""",2011,False,0
+22260,2,16.12.1987,0,1.0,79.0,2013.0,Full-time,4.0,Student (Specialist),Русский,1,6,Podolsk,2020-05-24 20:58:00,work,www.youtube.com/c/LimonAD,2020,False,0
+34510,2,6.6,1,1.0,209.0,2013.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Українська,3,6,Moscow,2020-02-02 20:54:00,university,МАИ,False,False,0
+21644,2,,0,1.0,132.0,2011.0,Distance Learning,0.0,Alumnus (Specialist),False,False,False,Kyiv,2020-07-01 04:47:58,university,УГФСУ (бывш. НУГНСУ),False,False,0
+65865,2,30.4.1992,1,1.0,237.0,2016.0,Full-time,0.0,Alumnus (Master's),Русский,6,2,Saint Petersburg,2020-07-13 13:30:19,university,СПбГЭТУ (ЛЭТИ),False,False,1
+59724,2,,0,1.0,66.0,2001.0,Full-time,4.0,Student (Bachelor's),Русский;Italiano;Українська,False,False,Moscow,2020-04-18 20:57:12,university,ВНУ им. Леси Украинки,False,False,0
+37848,2,11.1.1990,1,1.0,2172.0,0.0,Distance Learning,7.0,Alumnus (Specialist),Русский;English,1,2,Ulyanovsk,2020-04-20 05:56:51,university,УлГАУ (бывш. УГСХА),False,False,0
+10640,2,,0,1.0,228.0,2012.0,Full-time,0.0,Student (Bachelor's),Русский,5,2,Khanty-Mansiysk,2020-04-24 13:38:46,university,ЮГУ,False,False,1
+96056,2,10.1.1986,1,1.0,38.0,0.0,,4.0,Alumnus (Specialist),False,0,0,Belgorod,2020-08-22 06:34:00,university,БГТУ им. В. Г. Шухова,False,False,0
+30740,2,8.11.1987,0,1.0,274.0,2022.0,Full-time,4.0,Candidate of Sciences,False,1,2,Saint Petersburg,2020-08-24 04:44:35,university,האוניברסיטה הפתוחה (The Open University of Israel),False,False,1
+24260,2,4.11.1991,1,1.0,99.0,2014.0,Full-time,1.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-01-11 16:02:43,work,"ОАО ""РЖД""  Российские железные дороги",2014,False,0
+81878,1,17.4.1967,1,1.0,395.0,2002.0,Distance Learning,4.0,Alumnus (Specialist),Русский,1,2,Murmansk,2020-02-05 09:29:23,work,прокур.....@,1999,False,1
+89322,2,20.7.1986,0,1.0,147.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,,2020-03-12 03:17:48,university,ПУ-11,False,False,0
+33279,1,29.3,0,1.0,204.0,2017.0,Full-time,0.0,Student (Bachelor's),English;Русский;Italiano;Српски,6,6,Moscow,2020-12-02 09:30:51,university,МПГУ (бывш. МГПИ им. Ленина),False,False,1
+37690,1,2.8.1988,0,1.0,481.0,2013.0,,0.0,Alumnus (Specialist),Русский,0,0,Apatity,2020-09-19 18:12:46,university,ПетрГУ,2014,2017,1
+48044,2,,1,1.0,36.0,2004.0,,0.0,Alumnus (Specialist),Русский,0,0,Omsk,2020-08-04 00:19:07,university,ОмА МВД России,False,False,0
+59614,2,,0,1.0,65.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,6,1,Khabarovsk,2020-08-22 05:57:53,university,ДИЗиП,False,False,0
+27633,1,15.1.1985,1,1.0,658.0,2007.0,Full-time,4.0,Alumnus (Bachelor's),Русский,2,1,Petrozavodsk,2020-12-20 03:38:12,work,Ремонт телефонов Петрозаводск,False,False,0
+27432,2,5.6.1972,1,1.0,130.0,2007.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Kumertau,2020-06-12 22:09:12,university,КФ ОГУ,False,False,0
+60205,1,11.8.1998,0,1.0,337.0,2020.0,Full-time,7.0,Alumnus (Bachelor's),Русский;Deutsch,0,0,Moscow,2020-07-19 09:30:30,university,МПГУ (бывш. МГПИ им. Ленина),False,False,1
+10577,2,12.8,0,1.0,311.0,2014.0,Distance Learning,0.0,Student (Specialist),False,0,6,Baranovichi,2020-02-12 06:03:47,university,БарГУ,False,False,0
+89718,2,2.9.1963,0,1.0,162.0,1986.0,Full-time,0.0,Alumnus (Specialist),Русский,6,2,Ulyanovsk,2020-01-10 03:36:33,university,УФ ВУС (бывш. УВВИУС),False,False,1
+55498,2,,1,1.0,206.0,2016.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,6,Vuktyl,2020-11-08 07:35:41,work,ВГПУ,2007,False,0
+65193,2,,0,1.0,110.0,2004.0,Full-time,0.0,Alumnus (Specialist),False,0,0,,2020-07-25 21:48:12,work,АДВОКАТ,False,False,1
+92719,1,31.12.1995,1,1.0,543.0,0.0,Full-time,1.0,Student (Bachelor's),Русский;Հայերեն;English,6,2,Tyumen,2020-07-02 20:56:20,university,ТюмГУ,False,False,1
+12528,2,4.5.1989,0,1.0,258.0,0.0,Full-time,4.0,Student (Specialist),False,0,0,Samara,2020-04-03 14:50:07,,,False,False,0
+79157,2,,0,1.0,70.0,2005.0,Full-time,1.0,Alumnus (Specialist),Русский,5,6,Moscow,2020-01-11 16:55:00,work,ФГУ ФИПС,2005,False,0
+92620,2,17.5.1986,0,1.0,33.0,2008.0,Full-time,4.0,Alumnus (Bachelor's),False,False,False,Nur-Sultan/Astana,2020-12-18 18:39:03,university,ПГУ им. С. Торайгырова (бывш. ПИИ),False,False,0
+32445,1,10.10.1992,1,1.0,1079.0,2014.0,Full-time,0.0,Alumnus (Specialist),False,0,6,Schelkovo,2020-08-24 19:12:52,university,РГУФКСМиТ (ГЦОЛИФК),False,False,0
+20030,2,,0,1.0,110.0,2010.0,Full-time,1.0,Student (Specialist),Русский,False,False,Arkhangelsk,2020-05-26 10:15:07,university,САФУ им. М. В. Ломоносова,False,False,0
+47619,2,,0,1.0,209.0,0.0,Full-time,1.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-07-12 03:22:29,university,НИУ МГСУ (МГСУ-МИСИ),False,False,1
+72636,2,26.10.1991,0,1.0,461.0,2015.0,Full-time,6.0,Student (Specialist),Русский,7,6,Volzhsky,2020-09-29 22:53:10,work,"ООО ""КОМЕД""",2013,False,1
+11081,2,11.12.1984,1,1.0,103.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Dnipropetrovsk (Dnipro),2020-02-14 13:42:19,university,"Днепровская политехника (бывш. НГУ, ДГИ им. Артёма)",False,False,0
+96615,2,12.3.1989,1,1.0,10.0,1989.0,Full-time,1.0,Student (Specialist),Русский,False,False,Parma,2020-03-10 02:31:39,university,ДИ ГАЖКХ,2005,1986,0
+3781,2,,0,1.0,350.0,2011.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Yekaterinburg,2020-06-12 12:27:28,work,"ООО ""ЛН-3""",2006,False,1
+44186,2,19.3.1985,0,1.0,791.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-01-23 21:38:29,work,"Видеосъёмка в Санкт-Петербурге, Москве",False,False,1
+86958,1,31.10.1970,0,1.0,288.0,1998.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-11-28 00:24:33,work,Женский велнес-клуб «САНКТ-ПЕТЕРБУРГ»,2012,False,1
+32526,1,30.6,1,1.0,371.0,2017.0,,0.0,Alumnus (Bachelor's),False,False,False,Saint Petersburg,2020-03-25 14:39:36,work,A•Fitness Марата,False,False,1
+67662,1,16.4,0,1.0,270.0,2013.0,Full-time,0.0,Student (Specialist),Русский,0,0,Bryansk,2020-04-21 12:49:59,university,СГМУ им. В. И. Разумовского,False,False,1
+28837,1,20.5.1987,1,1.0,448.0,2009.0,Full-time,4.0,Alumnus (Specialist),Русский,False,2,Cherepovets,2020-09-14 20:29:49,university,ЧГУ,2007,2011,1
+17511,2,28.5,1,1.0,97.0,2012.0,Distance Learning,4.0,Alumnus (Specialist),Русский,False,6,Kaliningrad,2020-03-18 02:24:00,university,СПбГАУ,False,False,0
+98254,2,8.2.1993,1,1.0,134.0,2014.0,Full-time,0.0,Student (Specialist),Русский;Українська;Беларуская (тарашкевiца);English,0,0,Minsk,2020-10-10 06:05:49,university,МИУ,False,False,1
+53283,1,26.6.1986,0,1.0,739.0,2008.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Kirov,2020-05-26 06:39:24,university,Вятская ГСХА,False,False,1
+64055,2,,1,1.0,127.0,2012.0,Distance Learning,4.0,Alumnus (Specialist),Русский,6,6,Tolyatti,2020-10-29 21:41:36,work,Свадебный фотограф в Тольятти,2004,False,1
+46899,2,,1,1.0,84.0,2016.0,Full-time,0.0,Student (Specialist),Русский,6,6,Mazyr,2020-03-03 16:49:48,university,БелГУТ (бывш. БелИИЖТ),False,False,0
+39327,2,6.9.1986,1,1.0,256.0,0.0,Distance Learning,4.0,Student (Bachelor's),Русский;English,0,0,Zhirnovsk,2020-01-09 00:34:30,work,PrepodStrimer,2007,False,0
+62846,1,9.8,1,1.0,614.0,0.0,Distance Learning,1.0,Student (Bachelor's),Русский,0,0,Kaliningrad,2020-10-08 21:55:55,university,МСИ (КФ),False,False,1
+98079,2,10.8.1982,1,1.0,38.0,2004.0,Full-time,4.0,Alumnus (Specialist),Русский,5,6,Saint Petersburg,2020-09-29 02:01:57,work,ООО Акватория,2007,False,0
+55290,2,,1,1.0,127.0,2000.0,Full-time,2.0,Alumnus (Specialist),False,False,False,Ust-Ilimsk,2020-12-11 11:05:55,university,Филиал БрГУ,False,False,0
+71475,1,27.12,1,1.0,183.0,2015.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-08-22 13:01:50,university,Горный университет (бывш. СПГГУ),False,False,1
+47992,2,10.7.1983,0,1.0,119.0,0.0,Distance Learning,4.0,Student (Specialist),Русский,False,False,Sochi,2020-10-22 18:02:44,work,МУЗ Стоматологическая поликлиника 3,2004,False,0
+97367,1,5.8.1991,0,1.0,213.0,2012.0,Full-time,7.0,Student (Bachelor's),False,6,2,Kaliningrad,2020-11-03 09:34:21,university,КИТ РМАТ,False,False,1
+23175,1,27.5.1992,1,1.0,78.0,0.0,Full-time,0.0,Alumnus (Bachelor's),False,6,0,,2020-04-29 01:00:14,work,ART LOVE. Агентство досуга и развлечений,False,False,1
+66809,1,18.1,0,1.0,564.0,2014.0,,4.0,Alumnus (Master's),False,0,0,Kyiv,2020-09-27 22:18:31,university,КНЭУ им. В. Гетьмана (КИНХ им. Д. С. Коротченко),False,False,1
+44469,1,6.7.1989,1,1.0,359.0,2011.0,Full-time,4.0,Student (Specialist),False,False,False,Perm,2020-01-04 17:24:28,university,ПГГПУ,False,False,1
+87494,2,8.9.1991,1,1.0,102.0,2014.0,,3.0,Alumnus (Master's),Русский;Українська;English,8,1,Gelendzhik,2020-04-21 09:52:14,university,ДонНУ (до 2014),False,False,1
+48431,2,,1,1.0,181.0,2010.0,Full-time,1.0,Alumnus (Master's),False,False,False,Kazan,2020-02-05 18:48:00,university,"КНИТУ (бывш. КГТУ, КХТИ)",False,False,0
+26531,2,13.1,1,1.0,143.0,2015.0,Full-time,0.0,Alumnus (Specialist),Русский;Українська;English,6,2,Kyiv,2020-05-04 23:34:25,university,КНУКиИ,2012,False,1
+89058,1,17.4,1,1.0,847.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-07-29 15:19:36,university,СПбГЭУ,False,False,1
+33295,1,30.10.1986,1,1.0,137.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Izhevsk,2020-04-12 04:41:09,university,ИжГТУ им. М. Т. Калашникова (бывш. ИМИ),False,False,1
+99355,2,7.7.1994,1,1.0,60.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский,False,False,Samara,2020-02-10 22:51:14,university,СГАУ им. Королева,False,False,0
+33735,2,8.8.1990,1,0.0,83.0,0.0,Full-time,0.0,PhD,Русский,0,0,Moscow,2020-02-08 12:15:21,university,НИЕВ,False,False,0
+49150,2,30.5.1985,1,1.0,29.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Sterlitamak,2020-01-17 04:43:54,university,ОВЗРУ (ВИ) (бывш. ОВЗРКУ им. Г. К. Орджоникидзе),False,False,0
+98029,1,,1,1.0,563.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,1,2,Moscow,2020-02-25 20:23:33,university,ВолГУ,2008,2014,1
+2357,2,12.6,1,1.0,52.0,1996.0,Full-time,4.0,Candidate of Sciences,Русский,False,2,Rybinsk,2020-02-03 22:01:31,university,РГАТУ (бывш. РАТИ) им. Соловьева,False,False,0
+19270,2,,1,1.0,190.0,2006.0,Full-time,1.0,Alumnus (Specialist),Русский,0,0,Velikie Luki,2020-03-25 19:00:59,university,БАТиП (БМИТ),False,False,0
+96113,1,8.4,0,1.0,1384.0,2009.0,Full-time,0.0,Alumnus (Specialist),Русский,5,5,Saint Petersburg,2020-02-20 14:37:49,work,Фонд медицинских решений «Не напрасно!»,2009,False,1
+60194,2,6.1.1988,1,1.0,147.0,2012.0,Full-time,4.0,Student (Bachelor's),False,2,6,Odessa,2020-02-12 08:10:31,work,ЮгТранс,2005,False,0
+21295,2,8.6.1984,1,1.0,41.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Nizhny Novgorod,2020-10-10 03:35:23,university,ВГУВТ (ВГАВТ),False,False,0
+71833,2,4.8.1988,1,1.0,316.0,2010.0,Full-time,4.0,Student (Specialist),Русский;English,7,2,Saint Petersburg,2020-08-20 07:22:53,university,ПГУ,2009,2021,1
+19640,2,27.4.1989,0,0.0,59.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Novosibirsk,2020-08-09 13:46:40,university,НГПУ,False,False,0
+2932,2,20.7,1,1.0,248.0,2010.0,Full-time,1.0,Student (Specialist),Русский;English,6,6,Domodedovo,2020-03-17 11:29:07,work,Авиакомпания Кондкорд,2011,2008,0
+4049,1,,1,1.0,1041.0,2006.0,Full-time,4.0,Alumnus (Specialist),False,0,0,,2020-05-23 15:08:17,university,ЧНТУ,False,False,1
+68479,1,3.10,1,1.0,304.0,2013.0,Distance Learning,1.0,Alumnus (Specialist),Русский,0,6,Taldom,2020-09-02 16:13:58,university,МФЮА,False,False,1
+6758,2,7.3.1991,0,1.0,82.0,2012.0,Full-time,1.0,PhD,English,1,1,New York City,2020-04-22 08:16:23,university,Школа-студия им. Вл. И. Немировича-Данченко при МХАТ,False,False,0
+66516,2,10.6.1988,1,1.0,283.0,2012.0,Full-time,0.0,Student (Specialist),Русский,False,False,Koryazhma,2020-03-26 16:23:05,university,СПбГТУРП,False,False,0
+83306,1,8.2.1991,0,1.0,193.0,2013.0,Full-time,0.0,Student (Specialist),Русский,0,0,Nizhny Novgorod,2020-01-06 03:47:32,university,НГСХА,False,False,1
+39268,1,26.9.1995,1,1.0,412.0,0.0,Full-time,0.0,Student (Bachelor's),Русский;English;Français,6,2,Saint Petersburg,2020-04-12 11:54:51,work,Университет ИТМО,2017,False,1
+63095,1,16.11,1,1.0,154.0,0.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Ivanovo,2020-10-10 08:08:11,university,ИвГУ,False,False,1
+11163,2,1.6.1990,1,1.0,309.0,2013.0,Full-time,0.0,Alumnus (Specialist),Русский;English,1,2,Norilsk,2020-04-28 17:25:57,work,ООО Нординвэс,2008,False,0
+13350,2,3.3,0,1.0,100.0,2015.0,Full-time,4.0,Student (Specialist),Русский,False,False,Moscow,2020-03-31 17:46:34,work,huawei,False,False,0
+27891,2,11.1,1,1.0,268.0,1985.0,Full-time,4.0,Alumnus (Specialist),Русский,1,5,Novosibirsk,2020-06-29 15:20:27,work,"Академиздат, издательство",2015,False,1
+23966,2,1.7.1982,1,1.0,91.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,1,1,Kazan,2020-01-14 20:18:19,university,КГЭУ,False,False,0
+13411,1,9.4,1,1.0,541.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Simferopol,2020-12-05 23:48:06,work,Everest-print,2016,2008,0
+54222,2,6.6,0,1.0,193.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский;English,False,False,Magnitogorsk,2020-04-06 06:48:27,university,МГТУ им. Г. И. Носова,False,False,0
+91479,2,7.5.1987,1,1.0,76.0,2014.0,Distance Learning,7.0,Student (Specialist),Русский,0,0,Svetly,2020-12-29 12:08:00,work,ГУ МЧС России по Оренбургской области,2012,False,0
+584,2,22.11.1987,1,1.0,54.0,2010.0,Full-time,4.0,Student (Specialist),False,False,False,Khabarovsk,2020-11-03 17:45:39,university,"ТОГУ (бывш. ХПИ, ХГТУ)",False,False,0
+33016,1,14.6,1,1.0,346.0,1989.0,Full-time,0.0,Alumnus (Master's),Русский,0,0,Nizhny Novgorod,2020-09-13 16:32:14,university,НГТУ им. Р. Е. Алексеева,False,False,1
+28220,1,3.10.1986,0,0.0,95.0,2008.0,Full-time,1.0,Alumnus (Master's),Українська;Русский;English;Deutsch,0,0,Kyiv,2020-03-16 20:44:58,university,НУПТ (бывш. КТУХТ),False,False,1
+41234,2,,1,1.0,140.0,1997.0,Full-time,4.0,Alumnus (Master's),Русский,False,False,Rostov-on-Don,2020-11-20 22:25:28,university,ДГТУ,False,False,0
+11199,2,,1,1.0,66.0,2021.0,Distance Learning,4.0,Student (Bachelor's),Русский,0,0,,2020-03-20 06:59:47,work,АРБЗ,2008,False,0
+98668,2,6.6.1974,1,1.0,23.0,0.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Yekaterinburg,2020-05-22 03:58:41,work,Свадебный фотограф Леонид Кудряшов,False,False,0
+95062,2,23.3.1990,1,1.0,268.0,2012.0,Full-time,0.0,Student (Specialist),Русский;English,7,6,,2020-06-27 18:57:57,university,РГАИС (бывш. РГИИС),False,False,1
+35002,2,,0,1.0,173.0,2015.0,Full-time,1.0,Student (Specialist),Русский;English;Italiano;Deutsch,0,1,Bangkok,2020-07-11 22:39:07,university,РБИУ (бывш. ЧГИ),False,False,1
+94460,2,,1,1.0,26.0,1997.0,Full-time,0.0,Alumnus (Master's),Русский,0,1,Krasnoyarsk,2020-08-05 22:36:21,university,СибГАУ им. М. Ф. Решетнева,False,False,1
+47290,1,3.4.1993,0,1.0,658.0,0.0,,0.0,Alumnus (Bachelor's),Русский;English,6,0,Moscow,2020-06-10 12:51:15,university,МТУСИ,False,False,1
+64050,2,28.3.1989,0,1.0,202.0,2018.0,Distance Learning,1.0,Alumnus (Bachelor's),Русский,5,2,Tver,2020-10-15 12:09:57,university,ТвГТУ,False,False,1
+65031,2,,1,1.0,43.0,2004.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Zaporizhia,2020-10-19 18:20:32,university,ЗГИА (бывш. ЗИИ),False,False,0
+22135,2,19.6,0,1.0,72.0,2008.0,Full-time,6.0,Student (Specialist),Русский,6,5,Saint Petersburg,2020-09-18 11:43:05,work,Институт развития,2008,False,0
+24433,1,21.7,0,1.0,156.0,2013.0,Full-time,0.0,Student (Specialist),Русский;English,False,False,Moscow,2020-02-04 13:05:24,university,РГАУ — МСХА им. К. А. Тимирязева,False,False,1
+69166,2,12.11.1992,0,1.0,535.0,2015.0,Full-time,1.0,Alumnus (Specialist),Русский,6,6,Syzran,2020-12-21 18:29:25,university,СГАУ им. Королева,False,False,1
+12444,2,14.12.1990,0,1.0,211.0,2010.0,Full-time,0.0,Student (Specialist),Русский,0,0,Perm,2020-12-14 00:10:53,university,ПИЖТ УрГУПС,False,False,0
+65576,2,16.2.1993,0,1.0,154.0,2015.0,Full-time,0.0,Student (Specialist),Русский,0,0,Penza,2020-10-23 10:08:30,university,ПГУ,False,False,0
+64633,1,21.3.1989,0,1.0,939.0,2011.0,Full-time,7.0,Alumnus (Specialist),Русский;English;Français,0,0,Kazan,2020-04-12 00:12:20,work,AdMe.ru,2017,False,1
+38744,2,4.3,1,1.0,172.0,0.0,Full-time,0.0,Student (Specialist),Русский,6,6,Tula,2020-01-19 21:02:17,university,Финансовый университет при Правительстве РФ (ТФ) (бывш. ВЗФЭИ),2015,2017,0
+38210,2,,1,1.0,554.0,1985.0,Full-time,0.0,Alumnus (Specialist),فارسی,5,2,Saint Petersburg,2020-11-26 06:47:56,university,СПбГТИ (ТУ),1984,1998,0
+6674,2,16.8.1974,1,1.0,48.0,1997.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Saratov,2020-02-18 19:17:15,work,Приволжское ЛУ МВД России на транспорте,1997,False,0
+24648,1,29.8.1994,1,1.0,2057.0,2016.0,Full-time,1.0,Alumnus (Bachelor's),False,2,6,Moscow,2020-01-16 21:36:29,university,РЭУ им. Г. В. Плеханова,False,False,1
+87350,2,16.8.1986,0,1.0,18.0,2009.0,Full-time,0.0,Student (Specialist),Русский;English,6,2,Chelyabinsk,2020-05-14 09:22:00,work,Ваше сознание,False,False,1
+22158,1,31.8.1986,0,1.0,413.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Chelyabinsk,2020-07-04 09:47:33,university,РГППУ,2010,2015,1
+77070,2,25.1,0,1.0,161.0,2019.0,Full-time,0.0,Alumnus (Bachelor's),English,0,0,Saint Petersburg,2020-11-03 20:15:02,university,РГПУ им. А. И. Герцена,False,False,1
+44292,2,29.9.1991,1,1.0,108.0,2013.0,Full-time,1.0,Student (Specialist),Русский,6,1,Saint Petersburg,2020-09-30 20:19:44,university,СПбГТИ (ТУ),False,False,0
+26724,1,26.1,1,1.0,112.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Balta,2020-08-21 03:56:37,work,Балтський військовий комісаріат,2008,False,1
+31982,2,7.6.1989,0,1.0,67.0,2011.0,Full-time,4.0,Student (Specialist),Русский,1,2,Kirishi,2020-08-20 13:50:32,work,кинеф,2011,False,1
+86933,2,26.8.1992,0,1.0,98.0,0.0,Full-time,0.0,Student (Specialist),False,0,0,Moscow,2020-02-13 16:02:04,university,МФЮА,False,False,1
+86278,2,24.1.1988,0,1.0,459.0,2010.0,Full-time,7.0,Student (Specialist),Русский,1,2,Ivanovo,2020-01-10 19:16:43,work,"7ITSet | Разработка: веб, десктоп, 1С, сайты",False,False,1
+88462,2,8.5,1,1.0,140.0,2008.0,Full-time,1.0,Alumnus (Specialist),Русский,6,5,Orenburg,2020-01-02 09:03:39,university,ОГУ,False,False,1
+15183,2,17.8,1,1.0,33.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Perm,2020-02-19 08:41:55,university,ПГГПУ,False,False,0
+55102,2,28.6.1993,0,1.0,71.0,0.0,Full-time,0.0,Student (Specialist),False,False,False,Zhodino,2020-05-04 05:33:27,university,БГУ,False,False,0
+97717,1,17.5.1986,0,1.0,352.0,2008.0,Full-time,4.0,Alumnus (Bachelor's),Русский,0,0,,2020-08-03 03:51:18,university,ЯГТИ,False,False,1
+58831,1,20.11.1992,0,1.0,677.0,2014.0,,0.0,Student (Specialist),False,0,0,Moscow,2020-07-11 23:00:06,university,СПбГУ,False,False,1
+73690,2,,0,1.0,27.0,2006.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Kharkiv,2020-06-06 21:18:34,university,ХНПУ им. Г. С. Сковороды,False,False,0
+35833,1,,0,1.0,1184.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,0,,2020-01-28 03:30:50,university,ПГФА,False,False,1
+65633,2,26.6.1988,1,1.0,380.0,2010.0,Full-time,0.0,Student (Specialist),Русский,False,False,Saint Petersburg,2020-11-22 23:47:27,university,РХГА (РХГИ),2007,2017,0
+69980,1,16.8,1,1.0,642.0,2007.0,Distance Learning,4.0,Alumnus (Bachelor's),Русский,6,2,Belgorod,2020-06-17 00:24:55,university,СГА (ТФ),False,False,1
+70939,1,21.12.1993,1,1.0,889.0,2015.0,Full-time,4.0,Alumnus (Bachelor's),False,0,0,Chelyabinsk,2020-01-10 10:19:50,work,РФЯЦ-ВНИИТФ им. академика Е.И. Забабахина,False,False,1
+16085,2,21.12.1993,1,1.0,181.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,2,5,Petrozavodsk,2020-11-08 10:04:43,university,ПетрГУ,False,False,0
+29788,2,27.7.1988,1,1.0,174.0,2011.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Moscow,2020-07-07 10:46:49,university,УГНТУ (ОктФ),False,False,0
+83947,1,2.8,0,1.0,72.0,1988.0,Full-time,4.0,Alumnus (Specialist),False,False,2,Kaluga,2020-09-14 22:57:14,university,МГУПБ,1998,2009,1
+95082,2,24.5.1986,1,1.0,381.0,2008.0,Full-time,7.0,Alumnus (Specialist),Українська,False,6,Dolinskaya,2020-01-04 02:44:54,work,"К.4ІК.Поезія,література,музика,кіно та інше UKR",False,False,1
+15613,2,,1,1.0,516.0,2014.0,Full-time,0.0,Alumnus (Specialist),Русский,6,6,Saint Petersburg,2020-08-04 14:44:24,university,ГУАП,2010,2013,0
+53065,1,,0,1.0,264.0,2013.0,Full-time,0.0,Alumnus (Specialist),English,0,0,Dublin,2020-04-12 23:32:57,university,СПбГУТ им. Бонч-Бруевича,False,False,1
+58254,2,1.12.1988,1,1.0,223.0,2012.0,Distance Learning,6.0,Alumnus (Specialist),Русский,1,2,Samara,2020-08-30 02:50:06,work,Danone Россия,2013,False,0
+24154,1,8.5.1987,1,1.0,122.0,2011.0,,0.0,Alumnus (Specialist),False,False,False,Velikie Luki,2020-07-27 21:19:18,university,РосЗИТЛП (бывш. ВЗИТЛП),False,False,1
+6898,1,10.11,1,1.0,609.0,2019.0,Distance Learning,0.0,Alumnus (Master's),False,0,0,Kostroma,2020-11-17 00:57:02,,,False,False,1
+11596,2,23.7.1991,1,1.0,451.0,2013.0,Distance Learning,0.0,Student (Specialist),Русский,0,0,Kazan,2020-04-05 06:52:01,university,СамГУПС,False,False,0
+93330,2,29.8.1990,1,1.0,211.0,0.0,Distance Learning,1.0,PhD,Русский;Українська;English,6,1,Kyiv,2020-02-19 22:52:32,university,КПИ им. И. Сикорского,2005,False,0
+88078,2,24.12.1984,0,1.0,61.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-05-31 17:37:14,work,"ООО ""Энтузиаст""",2007,False,0
+58231,2,3.7.1990,0,1.0,104.0,2012.0,Full-time,4.0,Student (Specialist),False,False,False,Penza,2020-05-28 21:35:23,university,РГУИТП (ПФ),False,False,1
+29151,2,16.5.1978,1,1.0,121.0,2014.0,Distance Learning,4.0,Student (Specialist),False,5,2,Arkhangelsk,2020-01-09 09:42:53,work,"АО ""2 АОАО""",2001,2001,0
+61737,1,9.10,0,1.0,725.0,0.0,Full-time,0.0,Student (Specialist),Русский,0,0,Moscow,2020-07-25 22:40:17,university,ВГСПУ (ВГПУ),False,False,1
+80166,2,,1,1.0,198.0,0.0,Full-time,4.0,Student (Bachelor's),Русский,False,False,Moscow,2020-06-29 09:56:10,university,СИ РУДН,False,False,0
+50871,2,29.7.1994,1,1.0,985.0,2016.0,Full-time,0.0,Student (Bachelor's),Русский,6,1,Nizhny Novgorod,2020-02-15 09:32:20,university,РГУ нефти и газа (НИУ) им. И. М. Губкина,False,False,1
+98032,1,25.9,0,1.0,434.0,0.0,,1.0,Student (Specialist),Русский,False,False,Moscow,2020-11-08 23:29:43,university,МГК им. П. И. Чайковского,2018,False,1
+82636,2,7.9.1990,0,1.0,205.0,2012.0,Full-time,4.0,Student (Specialist),Русский,False,False,Kemerovo,2020-12-08 22:13:29,work,Первый Бит,2007,False,0
+772,1,17.8,1,1.0,495.0,2009.0,Distance Learning,0.0,Alumnus (Specialist),Русский,False,False,Novosibirsk,2020-02-08 15:11:24,university,СГУГиТ (бывш. СГГА),False,False,1
+5677,1,29.6.1972,1,1.0,149.0,0.0,,0.0,Alumnus (Specialist),False,False,False,Saint Petersburg,2020-03-06 15:54:21,university,МПСУ (бывш. МПСИ),2006,2011,1
+9462,1,12.3.1993,0,1.0,157.0,2015.0,Full-time,0.0,Student (Specialist),Русский;English;Français,0,0,Minsk,2020-02-17 23:04:47,work,Belavia,False,False,1
+49110,2,,0,1.0,81.0,2014.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-04-22 20:14:25,university,Филиал УрФУ (бывш. Филиал УрГУ),False,False,0
+85049,2,,0,1.0,316.0,2002.0,Full-time,0.0,Alumnus (Specialist),Русский;English;ʻŌlelo Hawaiʻi,6,6,Sevastopol,2020-08-14 04:04:54,university,МГАВМиБ им. К. И. Скрябина (бывш. МВА),False,False,1
+16315,1,1.7.2000,1,1.0,280.0,2021.0,Full-time,3.0,Alumnus (Bachelor's),Русский,4,1,Moscow,2020-07-12 02:48:10,university,РТУ МИРЭА,False,False,1
+33577,2,20.3,1,1.0,541.0,2016.0,Full-time,1.0,Alumnus (Bachelor's),Русский,False,2,Moscow,2020-03-10 09:14:05,work,Государственный исторический музей,2017,False,1
+78876,2,29.5.1990,0,1.0,30.0,2013.0,Full-time,6.0,Student (Specialist),Русский;English,1,2,Moscow,2020-11-23 07:25:34,university,ОмГУ им. Достоевского,2012,2018,0
+45216,1,,0,1.0,622.0,2014.0,Distance Learning,4.0,Student (Specialist),Русский;English;Polski,1,0,,2020-10-04 11:03:20,work,"ПАО ""ЛУКОЙЛ""",False,False,0
+95439,2,29.11.1991,0,1.0,26.0,0.0,Full-time,0.0,Student (Specialist),Русский,False,False,Moscow,2020-03-02 15:35:01,,,False,False,1
+18606,2,,1,1.0,126.0,2018.0,Full-time,0.0,Student (Specialist),False,False,False,,2020-08-09 11:55:22,university,МГТУ им. Н. Э. Баумана,False,False,0
+58969,1,9.9,1,1.0,69.0,2009.0,Full-time,4.0,Student (Master's),False,False,False,Moscow,2020-02-13 02:30:43,university,РГАУ — МСХА им. К. А. Тимирязева,False,False,1
+94160,1,,1,1.0,138.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский;English,0,0,Kemerovo,2020-02-09 01:40:09,university,КузГТУ им. Т. Ф. Горбачёва,False,False,1
+2470,2,19.9.1986,0,1.0,66.0,2010.0,Distance Learning,4.0,Student (Specialist),False,0,0,Tula,2020-09-27 10:41:41,university,ТулГУ,False,False,0
+77364,2,26.4.1989,1,1.0,71.0,2015.0,Full-time,4.0,Student (Specialist),Русский,False,False,Volkhov (poselok),2020-11-17 20:23:14,work,"ООО ""УРБИС-СПБ""",2014,False,0
+29118,2,9.3,1,1.0,410.0,0.0,Full-time,1.0,Alumnus (Specialist),Русский,False,False,Dnipropetrovsk (Dnipro),2020-09-14 13:28:20,work,Фотограф,2009,False,1
+78064,2,5.3.1988,1,1.0,179.0,2011.0,Full-time,4.0,Student (Specialist),False,False,False,Kazan,2020-07-29 17:31:09,university,АСО (бывш. КСЮИ),False,False,0
+17758,1,15.9,1,1.0,628.0,1998.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Kotlas,2020-02-08 20:36:18,work,Пед. колледж,1998,False,1
+77486,1,22.6,1,1.0,205.0,2010.0,Distance Learning,4.0,Student (Specialist),Русский,0,0,Kostanay,2020-01-29 03:02:11,university,КИНЭУ им. Дулатова,False,False,1
+70473,1,24.6,0,1.0,53.0,2005.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Moscow,2020-08-20 19:34:50,university,УдГУ,False,False,1
+9899,2,6.2.1982,0,1.0,49.0,2005.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Yakutsk,2020-09-07 00:57:06,university,СВФУ им. М. К. Аммосова (бывш. ЯГУ),False,False,0
+60651,2,,0,1.0,37.0,2001.0,Full-time,4.0,Candidate of Sciences,Русский,False,False,Irkutsk,2020-08-24 12:26:49,university,БГУ,False,False,1
+65561,1,8.1.1998,0,1.0,33.0,0.0,,0.0,Student (Bachelor's),Русский,0,0,Moscow,2020-06-22 05:21:08,,,False,False,1
+97577,2,4.12.1994,1,1.0,1290.0,2015.0,Full-time,0.0,Student (Bachelor's),Русский;Deutsch;Українська,False,False,Dnipropetrovsk (Dnipro),2020-01-21 21:40:32,university,ДНУ им. Олеся Гончара,False,False,1
+18086,1,,0,1.0,33.0,2003.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Voronezh,2020-10-17 02:21:12,university,ВГУ,False,False,1
+22636,2,28.2.1987,0,1.0,136.0,2008.0,Full-time,0.0,Student (Bachelor's),Русский;English;Français,1,5,Yekaterinburg,2020-07-30 18:52:25,work,the Kurt,2006,False,1
+34415,2,23.11.1988,0,1.0,107.0,2011.0,Full-time,4.0,Student (Bachelor's),Русский,1,0,Kyzylorda,2020-08-04 02:45:52,work,акимат Кызылординской области,2013,False,0
+26274,2,25.4.1990,1,1.0,587.0,0.0,Distance Learning,0.0,Student (Bachelor's),Русский;English,4,3,Moscow,2020-02-04 07:35:49,university,НИЕВ,False,False,1
+2351,2,20.8,1,1.0,36.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Sarov,2020-07-18 22:03:01,university,ВА РХБЗ и ИВ (бывш. КВВКУРХБЗ),False,False,0
+95779,1,28.9,1,1.0,466.0,2014.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English;Български;Español,0,0,Murmansk,2020-10-14 05:19:18,university,ПетрГУ,False,False,1
+25246,2,,0,1.0,224.0,2013.0,Full-time,2.0,Student (Master's),Русский;Українська;English,6,2,Odessa,2020-04-13 04:02:24,university,ОГАСА (бывш. ОИСИ),False,False,1
+87505,2,1.4,0,1.0,5.0,0.0,,0.0,PhD,Русский;English,1,2,,2020-10-30 05:25:22,university,МОФ МосУ МВД России им. В. Я. Кикотя,False,False,0
+22268,1,23.9.1992,1,1.0,1277.0,0.0,Full-time,1.0,Student (Specialist),False,False,False,Moscow,2020-10-30 11:45:36,university,РУДН,False,False,1
+71012,2,28.11,0,1.0,38.0,2009.0,,4.0,Alumnus (Specialist),Русский,False,False,Sarov,2020-11-19 22:13:31,work,Российский Федеральный Ядерный Центр,2006,False,0
+44043,1,,1,1.0,3021.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,3,2,Murmansk,2020-05-26 02:48:20,work,Мурманконгресс,2008,False,1
+26062,2,21.3,1,1.0,8.0,0.0,Full-time,4.0,Student (Master's),Русский;日本語,0,0,Tokyo,2020-03-08 16:06:49,work,Konohagakure,False,False,0
+4078,1,28.11.1991,1,1.0,408.0,2015.0,Full-time,4.0,Alumnus (Specialist),False,1,False,Minsk,2020-02-25 14:44:14,university,БНТУ (Политех),False,False,1
+48445,1,13.6.1981,0,1.0,119.0,2003.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Apatity,2020-09-18 03:22:34,university,КФ ПетрГУ,False,False,1
+75806,1,23.10,1,1.0,381.0,2010.0,,0.0,Alumnus (Specialist),Русский,0,0,,2020-03-07 22:40:32,university,"СПбГУВМ (бывш. СПбГАВМ, ЛВИ)",False,False,1
+75170,2,17.9.1981,0,1.0,150.0,2006.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Veliky Novgorod,2020-07-01 11:05:34,work,"ООО ""Механикз""",2006,False,1
+24512,2,,0,1.0,1584.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Sochi,2020-05-27 13:08:53,university,БашГУ,False,False,0
+66327,1,21.8.1993,1,1.0,1209.0,2015.0,Distance Learning,0.0,Student (Bachelor's),Українська,1,0,Lviv,2020-06-03 20:37:18,university,ЛНУ им. Ивана Франко,False,False,1
+4447,1,,1,1.0,999.0,0.0,,0.0,Alumnus (Specialist),Русский,0,0,Kyiv,2020-07-14 02:12:04,work,Телеканал СТБ,2009,False,1
+4696,1,21.2.1994,1,1.0,87.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),False,False,False,Moscow,2020-08-07 17:57:34,work,EPAM Global,False,False,1
+97269,2,3.1.1986,1,1.0,151.0,2008.0,Full-time,7.0,Alumnus (Specialist),Русский,6,0,Podolsk,2020-12-22 00:50:19,work,НО МОКА,2008,False,1
+55814,1,21.3,0,1.0,894.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Nizhny Novgorod,2020-06-30 22:19:52,university,НГЛУ им. Н. А. Добролюбова,False,False,1
+15865,2,,1,1.0,783.0,0.0,Distance Learning,2.0,Undergraduate applicant,Русский;Українська;English,1,2,Kryvyi Rih,2020-08-12 08:48:14,university,НМетАУ,False,False,0
+75883,1,16.5.1993,0,1.0,1249.0,0.0,Part-time,2.0,Student (Bachelor's),Русский;English;日本語;Español;Português,0,0,Moscow,2020-11-11 15:30:37,work,English for Breakfast | Английский,False,False,1
+7065,2,27.5.1982,0,1.0,29.0,2005.0,Distance Learning,4.0,Alumnus (Specialist),Русский,False,False,Usogorsk,2020-11-01 18:48:55,work,Помощник арбитражного управляющего,False,False,0
+35678,2,5.2,1,1.0,385.0,0.0,Full-time,4.0,PhD,Русский;Башҡортса,1,2,Ufa,2020-07-17 23:21:09,university,УГАТУ,False,False,0
+76605,2,19.3.1975,1,1.0,27.0,1997.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Horki,2020-05-22 07:33:15,university,БГСХА,False,False,1
+18945,2,28.2.1974,1,1.0,14.0,1996.0,Full-time,1.0,Alumnus (Specialist),Русский,0,2,Yekaterinburg,2020-01-19 11:01:24,university,УрГУПС,False,False,0
+51101,1,19.2.1995,0,1.0,413.0,2017.0,Full-time,0.0,Alumnus (Bachelor's),Русский,0,0,Yekaterinburg,2020-04-23 00:46:39,work,"Российские железные дороги (ОАО ""РЖД"")",False,False,1
+96381,2,27.2,0,1.0,34.0,2010.0,Full-time,1.0,Student (Specialist),Русский,False,False,Stavropol,2020-12-08 09:00:31,university,СтГАУ (СГСХА),False,False,1
+25954,2,30.5,0,1.0,54.0,1999.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Demidov,2020-02-03 01:50:02,university,СмолГУ (бывш. СГПУ),False,False,0
+78112,2,11.12,0,1.0,742.0,2004.0,Distance Learning,4.0,Alumnus (Specialist),Русский,1,2,Tolyatti,2020-12-25 09:32:20,university,"ТГУ (бывш. ТолПИ, филиал СГПУ)",False,False,0
+92104,1,19.7.1995,0,1.0,99.0,2017.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English,0,0,Moscow,2020-10-19 16:13:32,university,МГУ,False,False,1
+28147,1,,1,1.0,2100.0,2015.0,Full-time,1.0,Alumnus (Bachelor's),Русский;Українська,0,0,Moscow,2020-11-10 08:26:53,university,НУ «ОЮА» (ОНЮА),False,False,1
+64827,2,20.12,1,1.0,56.0,0.0,,0.0,Alumnus (Bachelor's),False,False,False,Domodedovo,2020-12-29 13:41:20,university,РосНОУ (ДФ),False,False,0
+43991,2,11.11.1988,1,1.0,147.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Vladikavkaz,2020-07-09 01:27:17,,,False,False,0
+90127,2,1.11.1989,1,1.0,206.0,2013.0,Full-time,4.0,Student (Bachelor's),Русский;English,6,2,Ryazan,2020-07-02 17:36:58,work,СТС,2003,False,0
+44127,1,3.1.1990,0,1.0,716.0,2011.0,Full-time,1.0,Student (Bachelor's),Русский;English,6,5,Yaroslavl,2020-05-02 00:56:17,university,ЯГПУ им. К. Д. Ушинского (ЯГПИ),False,False,1
+46000,2,6.10.1987,1,1.0,310.0,2016.0,Distance Learning,0.0,Student (Specialist),Русский,4,6,Saint Petersburg,2020-11-01 10:11:00,work,Планета Земля,1987,False,0
+66527,2,31.8,1,1.0,49.0,2012.0,Distance Learning,5.0,Student (Bachelor's),Русский,False,False,Kremenchug,2020-04-30 10:50:38,work,Richo Polsca,2008,False,0
+69871,2,,0,1.0,56.0,2007.0,Part-time,0.0,Alumnus (Specialist),Русский,False,False,Yekaterinburg,2020-07-16 07:31:34,university,УрГЮУ (бывш. УрГЮА),False,False,0
+54237,2,,1,1.0,334.0,2014.0,Full-time,1.0,Alumnus (Specialist),Русский;Italiano,1,2,Evpatoria,2020-03-30 18:37:50,university,ХНУИ им. Котляревского,2014,2019,1
+14031,2,9.8.1985,1,1.0,60.0,2008.0,Full-time,1.0,Alumnus (Specialist),Русский,4,2,Moscow,2020-06-25 19:23:08,work,МГТС,2003,False,0
+24712,1,21.7.1983,0,1.0,708.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,0,6,Moscow,2020-05-14 14:52:53,work,Музей истории Медицины МГМСУ им.А.И.Евдокимова,2018,False,1
+85424,1,4.6.1988,0,1.0,169.0,2012.0,Distance Learning,0.0,Alumnus (Specialist),Русский,6,2,Sochi,2020-08-22 12:02:45,university,УрГПУ,2007,2020,1
+97675,2,17.6.1920,0,1.0,89.0,1945.0,Full-time,1.0,PhD,English;Русский;العربية,8,1,Krasnodar,2020-10-30 21:26:24,university,КубГТУ,False,False,1
+92627,2,2.5.1990,1,1.0,141.0,0.0,Full-time,0.0,PhD,Русский,False,False,Nur-Sultan/Astana,2020-06-06 17:17:59,,,False,False,0
+13653,2,21.4,1,1.0,94.0,2010.0,Full-time,0.0,Student (Master's),False,1,2,Moscow,2020-03-25 00:54:34,university,University of Cambridge,False,False,1
+26981,2,,0,1.0,410.0,2013.0,Full-time,4.0,Student (Specialist),Русский,1,2,Izhevsk,2020-04-13 09:41:32,work,"АО ""СРЗ""",2009,False,0
+42352,1,22.3,1,1.0,293.0,2010.0,,0.0,Alumnus (Specialist),Русский,0,0,Kaliningrad,2020-04-08 07:20:30,university,ТюмГУ,False,False,1
+75410,1,3.10.1988,0,1.0,398.0,2014.0,Distance Learning,0.0,Alumnus (Specialist),Русский,0,0,Perm,2020-09-01 14:01:28,work,GetJob - работа онлайн и в офисе,False,False,1
+27325,1,2.8.1994,0,1.0,147.0,2018.0,Full-time,0.0,Alumnus (Master's),Русский;English,0,0,Moscow,2020-09-12 06:33:33,university,University of Edinburgh,False,False,0
+68508,1,3.12.1991,0,1.0,394.0,2015.0,Full-time,1.0,Alumnus (Specialist),Українська;Русский;English,4,1,Toronto,2020-10-01 09:45:32,university,"ХНУРЭ (бывш. ХИРЭ, ХТУРЭ)",False,False,0
+34622,1,22.10,0,1.0,83.0,1980.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,,2020-02-05 11:57:40,work,Калининградский морской рыбный порт,1985,False,1
+47087,2,22.10.1978,1,1.0,75.0,2001.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,,2020-05-21 06:25:58,work,"ООО ""ПроектПоволжья""",2001,False,0
+9545,1,8.3.1993,0,1.0,904.0,2015.0,Full-time,0.0,Student (Specialist),Русский;English;Татарча,1,2,Moscow,2020-04-24 22:43:33,university,УГНТУ,False,False,1
+11366,1,,1,1.0,9.0,2010.0,Full-time,0.0,Alumnus (Bachelor's),False,False,False,Moscow,2020-07-23 11:48:56,work,Образовательный проект для студентов.Антиплагиат,2007,False,1
+68405,2,1.4.1991,1,1.0,27.0,2013.0,Full-time,1.0,Student (Specialist),False,0,0,Moscow,2020-07-01 22:03:45,university,МАДИ,False,False,0
+24016,2,26.4.1989,1,1.0,284.0,2015.0,Distance Learning,4.0,Student (Specialist),False,False,False,Zavolzhye,2020-08-07 08:10:34,university,ИГЭУ им. Ленина,False,False,0
+69148,2,3.1,1,1.0,1050.0,2018.0,Full-time,7.0,Student (Specialist),False,6,5,,2020-01-25 08:07:49,university,СПбПУ Петра Великого (Политех),False,False,0
+65502,2,14.5.1988,1,1.0,1060.0,0.0,Distance Learning,1.0,Alumnus (Specialist),Русский,False,False,Borisov,2020-12-23 04:05:31,work,"Реклама в группах ВК, Инсте, ОК. instagram.com/bylbaborisov/ ok.ru/bylbaborisov vk.com/bylbaborisov ОХВАТ ~100.000-150.000 чел",False,False,0
+10365,1,7.5.1992,0,1.0,862.0,2015.0,,0.0,Alumnus (Bachelor's),Русский,0,0,Saint Petersburg,2020-07-17 21:40:34,work,СТС,False,False,1
+3669,1,10.9.1991,0,1.0,267.0,2014.0,Full-time,0.0,Alumnus (Specialist),Русский,0,6,,2020-10-04 02:11:09,university,КФ СПбУ МВД РФ (бывш. КЮИ МВД РФ),False,False,1
+63593,2,,0,1.0,341.0,0.0,Full-time,4.0,Student (Bachelor's),Русский,0,0,Rostov-on-Don,2020-08-09 18:13:16,university,ДГТУ,False,False,0
+92461,2,11.3.1989,0,1.0,94.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский;English,6,6,Sterlitamak,2020-10-31 17:44:09,university,БашГУ (СФ),False,False,0
+65131,2,16.10,1,1.0,220.0,2014.0,Full-time,4.0,Student (Specialist),False,0,0,Kazan,2020-04-12 18:35:02,university,КНИТУ-КАИ им. А. Н. Туполева,False,False,1
+83547,2,2.1.1990,0,1.0,140.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский,5,2,Armavir,2020-12-02 07:48:54,university,АГПУ (бывш. АГПА),False,False,1
+77931,1,21.10,1,1.0,225.0,0.0,,1.0,Alumnus (Specialist),Русский;English,6,6,Kislovodsk,2020-01-02 17:16:29,university,МИРЭА (до 2015),2010,2004,1
+14679,2,8.9.1993,0,1.0,170.0,2015.0,Full-time,4.0,Student (Bachelor's),Русский;English;فارسی;한국어;Français,5,2,Vorotynets,2020-02-22 04:44:09,work,Hobby Hub | Миниатюра,False,False,0
+36879,1,8.9,1,1.0,311.0,2013.0,Distance Learning,7.0,Undergraduate applicant,Русский,0,0,Remmash,2020-07-06 08:13:26,work,"""Адвекс-Московский"" - агентство недвижимости",False,False,1
+42827,1,18.1,1,1.0,124.0,2009.0,Full-time,4.0,Student (Specialist),Русский,False,False,Odessa,2020-03-22 17:40:33,university,"ОНАПТ (бывш. ОГАПТ, ОТИПП им. Ломоносова)",False,False,1
+65964,2,20.6.1988,1,1.0,354.0,1988.0,Part-time,0.0,PhD,Русский,1,2,,2020-05-18 11:22:07,work,Wintera - окна могут быть гордостью!,2014,False,0
+58287,2,16.12.1989,1,1.0,65.0,2011.0,Full-time,0.0,Student (Bachelor's),False,False,False,Almaty,2020-06-16 17:20:39,university,КазНУ им. аль-Фараби (бывш. КазГУ им. Кирова),False,False,0
+96748,2,,0,1.0,19.0,2008.0,Distance Learning,0.0,Alumnus (Bachelor's),False,False,False,Cherkassy,2020-02-18 21:21:01,university,УСЗ (ЧФ),False,False,0
+19718,2,15.10,1,1.0,922.0,2014.0,Full-time,0.0,Student (Specialist),Русский,0,0,Krasnoyarsk,2020-02-10 15:21:43,university,"СГИИ (бывш. КГИИ, КГАМиТ)",2016,2019,1
+53398,2,14.3.1979,0,1.0,258.0,2010.0,Distance Learning,4.0,Alumnus (Master's),Русский;English,6,0,Omsk,2020-07-25 08:17:17,university,ОмГУ им. Достоевского,False,False,0
+51256,1,,1,1.0,364.0,2015.0,,0.0,Alumnus (Master's),False,False,False,Saint Petersburg,2020-03-24 00:57:49,university,СПбПУ Петра Великого (Политех),False,False,1
+86728,1,10.5,1,1.0,605.0,2010.0,Full-time,0.0,Student (Bachelor's),Русский,6,2,Moscow,2020-02-27 02:25:35,work,"ООО ""Природа""",2011,2013,0
+77183,2,9.9.1988,0,1.0,163.0,2009.0,Full-time,4.0,Alumnus (Bachelor's),Русский,0,0,Ulyanovsk,2020-02-18 03:22:35,university,УлГТУ,False,False,0
+75163,2,31.1.1959,1,1.0,45.0,1986.0,Distance Learning,1.0,Alumnus (Master's),Русский,False,False,Toronto,2020-06-19 23:40:52,university,СЗТУ (бывш. СЗПИ),False,False,0
+87602,1,1.1,0,1.0,340.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский;Ελληνικά;Беларуская;Башҡортса;Polski;Қазақша;English,0,2,,2020-07-15 09:24:15,university,ОмЭИ,2008,2013,1
+74320,2,29.11.1983,0,1.0,79.0,2007.0,Full-time,1.0,Alumnus (Specialist),False,1,2,Omsk,2020-09-21 02:41:25,university,ОмГТУ,False,False,0
+25,2,21.12.1991,0,1.0,93.0,2013.0,Full-time,0.0,Student (Specialist),Русский,0,0,Saint Petersburg,2020-11-20 01:39:10,university,ПсковГУ,False,False,0
+52462,1,17.12,1,1.0,965.0,2017.0,Full-time,4.0,Student (Bachelor's),Русский;English;Français,1,0,Moscow,2020-05-08 21:13:30,work,Официальная группа ГБОУ Школа №2120,False,False,1
+83101,2,31.8.1987,1,1.0,136.0,2009.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Samara,2020-02-02 03:29:18,work,ММУ ГСП №1,2010,False,0
+78251,2,8.4,0,1.0,1243.0,2016.0,Distance Learning,4.0,Alumnus (Bachelor's),Русский,1,2,Kaliningrad,2020-03-07 22:29:24,university,МЭСИ (КФ),False,False,0
+58108,2,20.5,0,1.0,70.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,1,2,Rybnitsa,2020-08-27 07:45:42,university,Рыбницкий филиал Северо-Западного государственного заочного технического университета (СЗГЗТУ РФ),False,False,0
+79134,1,27.4.1992,1,1.0,7548.0,2013.0,Full-time,0.0,Alumnus (Bachelor's),Русский,6,1,Kazan,2020-03-04 01:16:45,university,КФУ (бывш. КГУ им. Ульянова-Ленина),False,False,0
+59763,2,1.2.1984,1,1.0,208.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский;Башҡортса;English;Türkçe,1,2,Akyar,2020-12-25 23:26:51,university,МГТУ им. Г. И. Носова,False,False,0
+43290,1,23.11.1983,1,1.0,235.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-02-25 17:55:09,work,да,2005,False,1
+39010,2,19.8,0,1.0,138.0,2006.0,Full-time,0.0,Alumnus (Bachelor's),Русский,False,False,Rokitnoe,2020-03-28 23:34:09,university,НУБиП Украины (бывш. НАУ),False,False,0
+39647,1,16.2,1,1.0,233.0,2020.0,,4.0,Student (Master's),Русский;English,0,0,Moscow,2020-06-11 03:28:14,university,НИУ ВШЭ (ГУ-ВШЭ),False,False,1
+56935,2,24.8,0,1.0,1142.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Orenburg,2020-08-20 06:40:05,university,ОГПУ (бывш. ОГПИ им. Чкалова),False,False,0
+21015,1,10.3,0,1.0,705.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Velsk,2020-02-08 19:17:37,university,МИТХТ,False,False,1
+65444,2,26.12.1987,1,1.0,117.0,2017.0,Distance Learning,0.0,Student (Bachelor's),Русский;Українська;English,1,2,Kharkiv,2020-07-04 06:24:38,university,НАУ им. Н. Е. Жуковского «ХАИ»,False,False,0
+98767,1,22.5.1994,1,1.0,2397.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English;Français,1,2,Moscow,2020-05-14 00:55:36,university,МГЛУ (бывш. МГПИИЯ им. Мориса Тореза),2015,False,1
+19396,2,7.4.1980,0,1.0,21.0,2002.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Poltava,2020-09-03 21:16:47,university,"ПУЭТ (бывш. ПУПКУ, ПКИ)",2004,2014,0
+91926,2,27.10,1,1.0,112.0,2000.0,Full-time,1.0,Alumnus (Specialist),Русский,6,2,Yalta,2020-02-02 20:18:01,work,๑۩۩๑ Походы по Горному Крыму c Аборигеном ๑۩۩๑,False,False,0
+76946,2,8.9.1988,0,1.0,147.0,2013.0,Full-time,0.0,Alumnus (Master's),Русский,False,False,Oryol,2020-10-21 19:56:10,work,"БУ ОО ""МР БТИ""",2007,False,0
+13979,2,20.9.1982,1,1.0,58.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Belgorod,2020-03-14 02:02:48,work,Белгороддорстрой,2007,False,0
+49578,2,7.5.1989,1,1.0,66.0,2008.0,Full-time,8.0,Alumnus (Specialist),Русский,0,0,Vorkuta,2020-02-27 10:24:19,work,"Кальянная ""Tabakov Lounge""",2012,False,0
+77318,2,4.10.1989,0,1.0,153.0,2012.0,Full-time,4.0,Student (Specialist),Русский,0,0,Kazan,2020-08-13 05:30:41,university,"КНИТУ (бывш. КГТУ, КХТИ)",False,False,1
+54822,1,15.12,0,1.0,243.0,2014.0,Full-time,0.0,Alumnus (Bachelor's),Русский;Español;English,0,0,Moscow,2020-01-21 04:24:48,university,МГИМО МИД России,False,False,1
+85029,1,,1,0.0,16.0,0.0,Distance Learning,0.0,Student (Specialist),Русский,6,6,Moscow,2020-01-05 09:50:13,,,False,False,1
+58101,2,2.1.1987,1,1.0,349.0,2010.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English;Español;Lingua Latina,5,1,Naro-Fominsk,2020-09-15 20:43:46,university,"МФПУ «Синергия» (бывш. МФПА, ММИЭИФП)",2004,2011,1
+32179,1,,0,1.0,757.0,2014.0,Full-time,1.0,Student (Specialist),Русский;English,0,0,Moscow,2020-02-27 19:52:40,university,СамГМУ,2015,False,1
+54325,2,28.10,0,1.0,109.0,2015.0,Distance Learning,0.0,Alumnus (Bachelor's),Русский,False,False,Saint Petersburg,2020-08-23 18:23:57,university,СПбГТИ (ТУ),False,False,0
+37776,2,20.10,1,1.0,1634.0,2017.0,Full-time,0.0,Student (Specialist),Русский,6,6,Moscow,2020-07-14 09:16:35,work,Swing Bridge,2011,False,0
+90224,2,,0,1.0,50.0,2010.0,Full-time,1.0,PhD,Русский,False,False,Navapolatsk,2020-08-31 11:31:32,university,БНТУ (Политех),False,False,0
+97503,1,31.1,1,1.0,526.0,2020.0,Full-time,0.0,Student (Bachelor's),Русский;Tiếng Việt;English;한국어;Français;Español;日本語,0,0,Moscow,2020-01-17 21:34:57,university,Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ),False,False,1
+96062,2,,0,1.0,203.0,2014.0,Distance Learning,4.0,Alumnus (Master's),False,0,0,,2020-07-18 17:07:52,,,False,False,0
+89438,1,29.7.1989,1,1.0,288.0,2013.0,Full-time,1.0,Student (Specialist),Русский,0,6,Dmitrov,2020-11-03 23:21:23,university,"Днепровская политехника (бывш. НГУ, ДГИ им. Артёма)",False,False,1
+99924,2,20.10.1990,0,1.0,81.0,2014.0,Full-time,0.0,Student (Master's),Русский,0,0,Moscow,2020-03-29 23:56:24,university,МГУПП,False,False,0
+70587,2,26.2.1987,0,1.0,89.0,2009.0,Full-time,4.0,Student (Specialist),Русский,0,0,Moscow,2020-06-24 11:59:24,university,ПАГС им. Столыпина,2005,2010,0
+51480,1,17.9.1991,0,1.0,336.0,0.0,Full-time,6.0,Student (Specialist),Русский;Беларуская,0,0,Minsk,2020-03-24 05:46:06,university,БГПУ им. М. Танка,False,False,1
+61425,1,4.6,0,1.0,172.0,2013.0,Full-time,4.0,Student (Specialist),False,0,0,Khabarovsk,2020-09-18 06:44:49,university,"ХГУЭП (бывш. ХГАЭП, ХИНХ)",False,False,1
+56294,1,21.7.1921,1,1.0,283.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,False,False,Novosibirsk,2020-09-11 03:52:19,university,КрасГАУ,False,False,1
+1807,1,19.3,0,1.0,202.0,2006.0,,4.0,Alumnus (Specialist),False,False,False,Moscow,2020-10-13 04:29:56,university,ВГНА,False,False,1
+83171,1,10.3,1,1.0,549.0,2014.0,Full-time,6.0,Alumnus (Bachelor's),Русский;English,1,0,Sochi,2020-05-21 03:43:27,university,КубГУ,False,False,1
+98062,1,12.7,0,1.0,572.0,0.0,Distance Learning,0.0,Alumnus (Specialist),Русский,False,False,Arkhangelsk,2020-03-28 19:33:23,work,Культурный центр «Северный»,False,False,1
+20135,2,31.7.1991,0,1.0,70.0,2015.0,Distance Learning,4.0,Student (Specialist),Русский,5,2,Podolsk,2020-11-05 03:48:25,work,Express Card,2007,False,0
+54597,2,22.5.1987,1,1.0,185.0,2020.0,,1.0,Alumnus (Bachelor's),Русский,0,0,Moscow,2020-03-08 03:25:00,university,РосНОУ,2009,False,0
+34801,2,28.11.1983,0,1.0,94.0,2010.0,Part-time,4.0,Alumnus (Specialist),Русский,6,2,Moscow,2020-02-05 05:45:05,university,МАДИ,False,False,0
+67025,2,12.6.1990,1,1.0,120.0,0.0,Full-time,4.0,Student (Bachelor's),Русский,False,False,Minsk,2020-07-19 16:22:43,work,"ЗАО ""Меридиан""",2008,False,0
+58437,2,18.1.1990,0,1.0,81.0,2017.0,Distance Learning,4.0,Alumnus (Bachelor's),Русский,0,0,Navapolatsk,2020-12-22 21:28:50,university,ПГУ,False,False,0
+91900,1,4.4,1,1.0,224.0,2008.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Moscow,2020-04-26 23:27:05,work,hh.ru: работа есть всегда,2008,False,1
+83992,1,26.6.1957,1,1.0,87.0,1986.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-10-24 03:03:52,university,СПбГЭУ,False,False,1
+58847,2,,0,1.0,62.0,2009.0,Full-time,0.0,Student (Bachelor's),Русский;Українська;English,6,1,Kropivnitsky / Kirovograd,2020-10-30 05:37:49,university,"ЛА НАУ (бывш. КЛА НАУ, ГЛАУ, КВЛУ ГА)",2008,2012,0
+79743,2,28.12,1,1.0,1136.0,2011.0,Full-time,0.0,Student (Specialist),Русский,5,2,Ufa,2020-06-02 12:09:54,work,МБОУ Лицей №52,2007,False,1
+28003,1,5.4.1991,1,1.0,417.0,2018.0,Full-time,0.0,Student (Master's),Русский;English,6,6,Saint Petersburg,2020-02-26 06:30:28,university,КГМУ,2012,False,1
+26441,1,4.6,1,1.0,67.0,2002.0,Full-time,4.0,Alumnus (Master's),False,False,False,,2020-10-21 08:13:36,university,КемГУ,False,False,1
+91896,2,20.4,0,1.0,273.0,0.0,Full-time,0.0,Alumnus (Bachelor's),Русский,6,1,Krasnoyarsk,2020-06-07 09:08:01,university,СибГАУ им. М. Ф. Решетнева,False,False,1
+56521,2,30.1.1982,1,1.0,71.0,2004.0,Full-time,1.0,Alumnus (Specialist),False,False,False,Norilsk,2020-02-13 10:57:31,work,Норникель,2005,False,0
+26234,1,,0,1.0,10.0,2014.0,Full-time,0.0,Alumnus (Specialist),False,5,1,,2020-12-07 04:38:39,work,Свобода личности,2014,False,1
+62085,2,14.4.1984,0,1.0,104.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,1,5,Ivanovo,2020-09-18 04:54:12,university,ИГАСУ (бывш. ИИСИ),False,False,0
+46431,2,14.9.1985,1,1.0,109.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Chita,2020-12-02 05:18:33,university,ЗабГУ (бывш. ЧитГУ),False,False,0
+50167,1,9.7.1959,0,1.0,55.0,1982.0,Full-time,0.0,Alumnus (Master's),False,False,False,Nevinnomyssk,2020-08-29 17:50:24,university,СПбГУНиПТ,False,False,1
+34003,1,,0,1.0,373.0,2013.0,Part-time,0.0,Alumnus (Specialist),Русский,6,2,,2020-05-09 02:25:31,university,Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ),False,False,1
+85870,1,20.2.1989,1,1.0,222.0,2011.0,Full-time,7.0,Alumnus (Specialist),Русский;English;Español,0,0,Moscow,2020-04-09 05:23:41,university,ИМЦ,False,False,1
+35993,1,6.12.1986,0,1.0,292.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский,0,2,Chita,2020-07-17 12:47:53,university,ЧГМА,2012,False,1
+59234,2,1.4,0,1.0,252.0,2017.0,Full-time,0.0,Student (Bachelor's),Русский;English,6,1,Kazan,2020-09-21 11:07:11,university,КНИТУ-КАИ им. А. Н. Туполева,False,False,0
+19308,2,30.11.1994,0,1.0,289.0,2016.0,Full-time,0.0,Alumnus (Specialist),Русский;Українська;English;Deutsch,0,0,Odessa,2020-05-10 13:41:02,university,"ОНПУ (бывш. ОГПУ, ОПИ)",False,False,1
+88290,1,30.7.1993,1,1.0,395.0,2015.0,Full-time,4.0,Student (Specialist),Русский;Українська;English,6,1,Kyiv,2020-03-14 20:18:31,work,Корпоративные тренинги Key Solutions,2011,False,1
+71448,1,7.9,1,1.0,209.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский;English,0,0,Vologda,2020-06-08 17:01:55,university,ВоГУ,False,False,1
+54570,2,,0,1.0,34.0,2012.0,Full-time,0.0,Student (Bachelor's),Русский,0,2,Saint Petersburg,2020-05-10 13:26:58,university,Университет ИТМО,False,False,0
+12488,1,12.12.1994,0,1.0,616.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),False,6,2,Lutsk,2020-01-13 08:36:32,university,НаУОА,False,False,1
+41677,2,24.6.1994,1,1.0,29.0,0.0,Distance Learning,0.0,Student (Bachelor's),Русский;Українська,False,False,Dnipropetrovsk (Dnipro),2020-01-22 02:57:13,university,ДНУЖТ (бывш. ДИИТ) им. ак. В. Лазаряна,False,False,0
+5555,1,6.5,0,1.0,643.0,0.0,Full-time,1.0,Student (Bachelor's),Русский;English,6,2,Moscow,2020-06-26 19:13:30,university,МПГУ (бывш. МГПИ им. Ленина),False,False,1
+41424,2,,0,1.0,83.0,2009.0,Distance Learning,1.0,PhD,Русский,1,6,Petropavlovsk-Kamchatsky,2020-12-29 23:43:45,university,"КамчатГТУ (бывш. КГАРФ, ПКВИМУ)",2008,2009,0
+80947,2,,0,1.0,11.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Minsk,2020-12-01 05:44:53,university,МИУ,False,False,0
+38479,1,14.1.1989,1,1.0,229.0,2012.0,Full-time,0.0,Alumnus (Master's),False,1,2,Moscow,2020-01-11 21:15:03,work,websystemz.ru - Сайты и мобильные приложения,2010,False,1
+17445,1,14.10.1994,0,1.0,652.0,0.0,Full-time,4.0,Student (Bachelor's),Русский;Čeština,0,0,Moscow,2020-02-17 17:30:25,university,УГАИ им. Исмагилова,False,False,1
+50337,2,24.11,1,1.0,107.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Krasnodar,2020-11-15 10:08:24,university,КубГАУ им. И. Т. Трубилина,False,False,0
+77802,2,8.2.1992,0,1.0,472.0,2014.0,Full-time,0.0,Student (Specialist),Русский;English,1,1,Moscow,2020-03-12 10:52:47,university,ЮФУ (бывш. РГУ),False,False,1
+46299,1,,1,1.0,539.0,2016.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Odessa,2020-05-05 05:40:36,work,ДГКБ №3,False,False,1
+32373,1,5.8.1986,1,1.0,1920.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,0,6,,2020-05-09 02:38:33,university,"ДонНУЭТ им.Туган-Барановского (бывш. ДонГИТ, ДИСТ)",False,False,1
+18003,2,6.2.1985,1,1.0,636.0,2007.0,Full-time,4.0,Alumnus (Master's),Русский,0,0,Stavropol,2020-08-24 16:45:14,work,Твой Игровой — канал о настольных играх,2014,False,1
+83219,1,8.6,0,1.0,958.0,2013.0,Part-time,1.0,Alumnus (Bachelor's),Русский,5,2,Moscow,2020-03-04 05:27:02,university,"МФПУ «Синергия» (бывш. МФПА, ММИЭИФП)",2010,2017,1
+57382,1,14.8.1994,0,1.0,178618.0,0.0,,0.0,Student (Specialist),False,6,5,Moscow,2020-11-02 23:06:00,work,Elvira T,2011,False,1
+68973,1,,1,0.0,271.0,2018.0,,0.0,Alumnus (Bachelor's),False,0,0,Moscow,2020-07-04 02:01:23,university,Финансовый университет при Правительстве РФ (бывш. ФА при Правительстве РФ),False,False,1
+86109,1,8.8,0,1.0,214.0,0.0,Distance Learning,0.0,Student (Specialist),Русский,6,6,Irkutsk,2020-07-19 12:20:43,work,Театр Юного Зрителя им. А. Вампилова,False,False,1
+94622,2,,0,1.0,159.0,2015.0,Full-time,0.0,Student (Specialist),Русский,False,False,Nevinnomyssk,2020-09-10 17:49:13,university,МИТХТ,False,False,1
+94378,2,,0,1.0,84.0,2012.0,Full-time,4.0,Student (Specialist),Русский,0,0,Neftekamsk,2020-05-27 17:57:11,university,УГНТУ,2009,2009,0
+58623,2,21.1,1,1.0,36.0,0.0,,4.0,Alumnus (Specialist),Русский,False,False,Kirov,2020-06-06 02:15:49,work,Клиника Наедине город Киров,2017,False,0
+98339,1,,1,1.0,238.0,2015.0,Full-time,0.0,Student (Specialist),English;Deutsch;Français,False,False,Moscow,2020-10-23 15:15:44,university,МГЛУ (бывш. МГПИИЯ им. Мориса Тореза),False,False,1
+73043,1,,1,1.0,92.0,1996.0,Full-time,0.0,Alumnus (Specialist),Русский,1,0,Murmansk,2020-07-10 06:29:51,university,ПГУАС (ПГАСА),False,False,1
+12509,2,27.12.1984,0,1.0,102.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Kharkiv,2020-03-24 03:35:53,university,not stated,False,False,0
+89227,1,29.9,1,1.0,301.0,2014.0,,0.0,Alumnus (Specialist),False,1,6,Moscow,2020-08-13 05:46:52,university,РосНОУ,False,False,1
+81576,2,,1,1.0,132.0,2014.0,Full-time,0.0,Student (Specialist),Русский,6,2,,2020-09-13 18:35:37,university,МТУСИ,False,False,0
+89166,1,12.5,1,1.0,331.0,0.0,Full-time,0.0,Alumnus (Bachelor's),Русский;Italiano;English,6,0,,2020-04-20 07:43:41,university,НИУ ВШЭ (ГУ-ВШЭ),False,False,1
+93263,2,6.5.1982,1,1.0,97.0,2005.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Sevastopol,2020-04-13 11:30:00,work,"ООО ""Транзас Навигатор""",2015,2014,0
+367,1,5.11,1,1.0,189.0,2014.0,Full-time,0.0,Student (Specialist),False,False,False,Saint Petersburg,2020-04-23 01:32:18,university,СЗИУ РАНХиГС (бывш. СЗАГС),False,False,1
+10341,2,10.7.1991,0,1.0,236.0,2014.0,Full-time,7.0,Student (Specialist),Русский,1,2,,2020-04-10 21:16:00,work,Россельхозбанк,2016,False,0
+90842,2,17.8.1982,0,1.0,70.0,2005.0,Full-time,0.0,Student (Specialist),Русский,False,False,Kyiv,2020-09-14 12:55:08,university,"КНУБА (КНУСиА, КИСИ)",False,False,0
+77247,2,20.7.1985,0,1.0,159.0,2010.0,Full-time,1.0,Student (Specialist),Русский,1,2,Lipetsk,2020-03-17 16:12:11,university,ЛГТУ,False,False,0
+58419,2,4.6.1994,1,1.0,446.0,2015.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English,6,2,Saint Petersburg,2020-04-11 06:16:24,university,СПбГУСЭ,False,False,0
+36529,2,5.9.1989,0,1.0,50.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,1,0,Pavlograd,2020-05-15 22:54:08,work,ШУ Павлоградское,False,False,0
+96760,2,,1,1.0,416.0,2018.0,Distance Learning,0.0,Student (Bachelor's),Русский,1,0,Moscow,2020-10-11 12:19:47,university,МАДИ,False,False,0
+30835,2,,1,1.0,336.0,2015.0,Distance Learning,0.0,Student (Specialist),Русский,6,2,,2020-12-10 18:02:11,university,МГУЛ,False,False,0
+43797,1,11.10.1988,0,1.0,215.0,2010.0,Full-time,0.0,Student (Specialist),Русский,False,False,Izhevsk,2020-03-15 19:30:35,work,Компания Directum,2021,False,1
+97411,1,14.4.1998,0,1.0,225.0,0.0,,0.0,Student (Master's),Русский;English;Français,0,0,Saint Petersburg,2020-05-25 01:18:16,university,СПбГУ,False,False,1
+15178,2,1.9.1979,0,1.0,531.0,2001.0,,1.0,Candidate of Sciences,Русский,False,False,Sochi,2020-01-11 08:08:13,university,МГМСУ им. А. И. Евдокимова (бывш. ММСИ им. Н. А. Семашко),False,False,1
+80981,2,24.12.1975,0,1.0,93.0,2009.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,Chelyabinsk,2020-10-19 18:36:50,university,ЧФ РАП,False,False,0
+29903,2,,0,1.0,55.0,0.0,Full-time,0.0,Student (Specialist),Русский,False,False,Kyiv,2020-09-22 09:55:02,university,КПИ им. И. Сикорского,False,False,0
+13318,2,6.2.1995,0,1.0,134.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,0,0,Saint Petersburg,2020-09-20 07:41:05,university,РГПУ им. А. И. Герцена,False,False,0
+83300,1,24.3.1993,0,1.0,171.0,2015.0,Full-time,4.0,Student (Specialist),Русский,0,0,Alei Zahav,2020-11-09 01:51:24,university,МОСЭКИН,False,False,1
+13935,1,10.11,1,1.0,283.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English,5,6,Moscow,2020-07-13 11:44:39,university,ММУ (МУМ),False,False,1
+94711,1,9.1.1995,1,1.0,729.0,0.0,Full-time,1.0,Student (Bachelor's),Русский;English,6,5,Moscow,2020-12-29 13:31:26,work,Последипломье,2016,False,0
+65656,2,,0,1.0,28.0,2003.0,Full-time,6.0,Alumnus (Specialist),Русский,1,0,Krasnoyarsk,2020-07-30 12:55:57,university,ТувГУ,2003,2007,0
+30870,2,26.10.1985,0,1.0,316.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,,2020-10-09 09:44:07,work,"ЧАО ""Институт ""Спецавтоматика""",2007,2020,0
+44132,1,8.2.1993,0,1.0,575.0,2015.0,Full-time,0.0,Student (Specialist),Русский,False,2,Moscow,2020-08-07 06:13:25,university,МТУСИ,False,False,1
+77939,2,8.3.1985,0,1.0,102.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Petropavlovsk,2020-02-09 11:46:17,university,"КРУ (КРСГУ, СГА)",False,False,0
+64497,1,19.8.1994,1,1.0,256.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),False,1,2,Nur-Sultan/Astana,2020-09-08 11:55:32,university,ОФ РЭУ им. Г. В. Плеханова (бывш. ОФ РГТЭУ),False,False,1
+62352,2,7.10,1,1.0,151.0,2012.0,Full-time,0.0,Alumnus (Specialist),False,False,False,,2020-01-26 16:40:38,university,НГУ им. Гоголя,False,False,1
+61752,2,5.3,0,1.0,120.0,2009.0,Full-time,2.0,Student (Specialist),Русский,7,2,Moscow,2020-08-27 10:33:56,work,частная организация,2001,False,0
+39203,1,,1,1.0,120.0,2004.0,Distance Learning,0.0,Alumnus (Bachelor's),Русский,False,False,Kirov,2020-08-25 04:13:33,work,ИП,2006,2016,0
+84657,2,10.1.1995,0,1.0,1367.0,2016.0,Full-time,6.0,Alumnus (Bachelor's),Русский;English;Français,0,0,Moscow,2020-02-04 12:00:43,university,МГПУ,2010,False,0
+90565,2,8.8,0,1.0,7.0,2008.0,Full-time,4.0,Alumnus (Bachelor's),False,False,False,Gorlovka,2020-07-05 21:47:12,work,Укр-Залiзниця,2008,False,0
+30071,2,10.10.1993,0,1.0,139.0,2015.0,Full-time,1.0,Student (Specialist),Русский;English,0,0,Moscow,2020-01-25 16:54:26,work,NVision Group,2014,False,0
+75223,1,4.8,0,1.0,428.0,2016.0,Distance Learning,0.0,Alumnus (Specialist),Русский,False,False,Ufa,2020-04-24 07:46:45,university,Финансовый университет при Правительстве РФ (УФ) (бывш. ВЗФЭИ),1999,2013,1
+16115,2,6.12,1,1.0,151.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-03-20 21:05:01,work,S A M O architects,False,False,1
+7151,2,17.3.1982,0,1.0,65.0,2007.0,Distance Learning,0.0,Alumnus (Specialist),Українська,0,6,Kyiv,2020-03-08 12:55:09,work,ШКОЛА,False,False,0
+63794,2,5.12.1988,0,1.0,28.0,2013.0,Full-time,0.0,Student (Specialist),Русский,False,False,Minsk,2020-05-03 14:35:02,university,БГМУ,False,False,0
+93231,1,,0,1.0,350.0,2015.0,Distance Learning,0.0,Student (Specialist),Русский,False,False,Minsk,2020-09-21 00:23:28,university,ИСЗ им. Широкова,False,False,1
+33759,1,6.4.1988,0,1.0,1902.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский;English;Deutsch,1,2,Chelyabinsk,2020-12-30 02:49:57,university,ЧелГУ,False,False,1
+6219,2,2.8.2006,0,1.0,27.0,2009.0,Full-time,0.0,Student (Specialist),Русский,False,False,,2020-03-10 15:19:27,university,НовГУ,False,False,1
+34560,2,31.1.1982,1,1.0,122.0,2005.0,Full-time,6.0,Student (Bachelor's),False,0,0,Moscow,2020-01-23 11:30:42,university,НГТУ (НЭТИ),2006,2009,0
+53682,2,10.1,1,1.0,391.0,2013.0,Full-time,1.0,Student (Specialist),Русский;English,1,1,Novokuznetsk,2020-03-05 20:42:31,university,КГПИ (НФИ) КемГУ,False,False,1
+19181,1,29.10.1996,1,1.0,334.0,2018.0,Full-time,0.0,Alumnus (Bachelor's),False,0,0,Moscow,2020-07-13 11:35:48,university,ВШСИ Константина Райкина,False,False,1
+10181,2,10.11,0,1.0,396.0,2000.0,Full-time,5.0,Alumnus (Master's),Русский,7,2,Svetogorsk,2020-07-24 01:37:40,work,Gaarka Quote Project,1989,False,0
+77923,2,,0,1.0,36.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Grozny,2020-05-25 17:29:57,university,КБГУ им. Бербекова,False,False,1
+51969,1,9.3.1984,0,1.0,143.0,2006.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Arkhangelsk,2020-11-22 19:25:15,university,САФУ им. М. В. Ломоносова,False,False,1
+2131,1,26.11,0,1.0,165.0,2016.0,Full-time,1.0,Student (Bachelor's),Русский,0,0,Moscow,2020-04-12 08:41:27,university,МГУП им. И. Федорова (бывш. МПИ),False,False,1
+47424,1,8.7.1993,1,1.0,252.0,2015.0,Full-time,0.0,Student (Specialist),Русский,0,0,Moscow,2020-05-23 04:51:50,university,Первый МГМУ им. И. М. Сеченова (Сеченовский Университет),False,False,1
+27621,2,12.6.1979,1,1.0,944.0,2001.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Sumy,2020-06-27 18:47:25,work,sportclub.sumy.ua,2001,False,1
+48638,2,6.8.1987,1,1.0,603.0,2009.0,Full-time,1.0,Alumnus (Bachelor's),Русский,False,False,Nur-Sultan/Astana,2020-04-05 17:00:09,university,Университет КАЗГЮУ,False,False,0
+51953,1,5.5.1993,0,1.0,1566.0,2015.0,Full-time,2.0,Alumnus (Specialist),English;Deutsch;日本語;Español;Українська;Türkçe,5,2,Eceabat,2020-02-21 22:37:21,work,Турецкий язык - Tatlı Türkçe - Школа турецкого,2020,False,0
+39121,1,27.5.1988,0,1.0,120.0,2011.0,Full-time,0.0,Student (Specialist),False,False,False,Moscow,2020-10-18 02:27:41,university,ГУУ,False,False,1
+55340,1,18.4,0,1.0,4324.0,2013.0,Full-time,0.0,Student (Bachelor's),Русский,6,2,Vinnytsia,2020-01-11 16:39:25,university,КНУКиИ (ВФ),False,False,1
+50371,1,30.6.1995,0,1.0,147.0,2017.0,,0.0,Alumnus (Bachelor's),False,0,2,Murmansk,2020-01-21 13:06:31,university,"МАГУ (бывш. МГГУ, МГПУ)",False,False,1
+97304,1,15.1.1993,0,1.0,396.0,2016.0,Full-time,1.0,Student (Bachelor's),Русский;English,6,1,Moscow,2020-11-13 09:16:39,work,МТС,2014,False,1
+91094,1,15.6.1985,1,1.0,887.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский;English;Deutsch;Українська,False,False,Sevastopol,2020-10-30 04:48:47,university,СГГУ,False,False,1
+27346,1,28.5.1988,1,1.0,256.0,2012.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Moscow,2020-08-03 12:56:27,university,МГУП,False,False,1
+22011,2,,1,1.0,86.0,0.0,Full-time,0.0,Student (Specialist),Русский,0,6,Moscow,2020-06-02 16:14:08,university,ВГИК,False,False,1
+30256,2,19.7,0,1.0,103.0,0.0,,0.0,Student (Specialist),False,False,False,Kaliningrad,2020-05-28 14:26:45,university,"КИЭ (филиал) СПбУТУиЭ (бывш. САУ, СПбУУЭ)",False,False,0
+61274,1,,1,1.0,385.0,2018.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English;Français,6,2,Perm,2020-11-24 03:53:34,university,ПНИПУ (бывш. ПГТУ),False,False,1
+29500,2,5.5.1990,1,1.0,61.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Saratov,2020-05-17 05:55:12,university,СГТУ им. Ю. А. Гагарина (бывш. СПИ),False,False,0
+94841,2,17.4.1988,1,1.0,3.0,2010.0,Full-time,4.0,PhD,Русский,0,0,Saint Petersburg,2020-06-05 01:34:38,university,СПбГУНиПТ,False,False,0
+78253,2,17.8,1,1.0,302.0,2016.0,Part-time,0.0,Alumnus (Specialist),Русский;English,1,2,Ulan-Ude,2020-05-13 06:46:27,university,ЕАОИ,False,False,1
+24867,2,17.9,0,1.0,249.0,2011.0,Full-time,4.0,PhD,Русский,0,0,Kirishi,2020-08-24 12:55:26,work,"ООО ""КИНЕФ""",2011,False,0
+82997,1,18.3.1990,1,1.0,791.0,2013.0,Distance Learning,2.0,Student (Specialist),Русский,1,2,Elektrostal,2020-06-30 07:29:21,university,МГИУ (представительство),False,False,1
+11436,1,21.8.1983,1,1.0,9.0,2005.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Chita,2020-03-12 20:46:18,work,Казначейство,2005,False,1
+10348,2,20.7.1984,1,1.0,170.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Stavropol,2020-09-03 01:50:48,university,СИУ,2006,2016,0
+33890,2,21.10,1,1.0,522.0,2025.0,Full-time,4.0,Student (Bachelor's),Русский;English,0,2,Saint Petersburg,2020-12-17 14:57:17,university,ЛГУ им. А. С. Пушкина,False,False,0
+70633,2,6.4,1,1.0,150.0,2010.0,Full-time,1.0,Student (Master's),Русский,0,0,Moscow,2020-09-08 00:05:28,university,МИРЭА (до 2015),False,False,0
+73403,2,17.4.1986,0,1.0,471.0,2008.0,Full-time,1.0,Alumnus (Specialist),False,6,2,Ufa,2020-12-12 08:20:25,university,"УГУЭС (бывш. УГАЭС, УГИС)",False,False,0
+80512,1,10.10,1,1.0,102.0,2015.0,Full-time,0.0,Student (Bachelor's),False,0,0,Moscow,2020-03-10 03:44:17,work,Московский городской университет МГПУ,2018,False,1
+2858,1,25.2.1990,1,1.0,442.0,2015.0,Distance Learning,0.0,Alumnus (Specialist),Русский,6,0,Sochi,2020-03-01 17:51:26,university,СИМБиП,False,False,1
+235,1,1.11,1,1.0,1438.0,2009.0,Full-time,4.0,Alumnus (Specialist),False,1,2,Zheleznogorsk,2020-10-30 15:53:29,work,Микроденьги - работа мечты!,2020,False,1
+83400,1,14.10.1991,0,1.0,123.0,0.0,Full-time,0.0,Student (Specialist),Русский,0,0,Moscow,2020-08-24 05:15:56,university,НИУ БелГУ,False,False,1
+57085,1,15.4.1991,1,1.0,554.0,2013.0,Full-time,4.0,Student (Specialist),Русский;English;Українська,6,1,Novosibirsk,2020-06-17 04:37:16,university,СибГУТИ,False,False,1
+94224,1,6.11,1,1.0,257.0,2009.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Izhevsk,2020-07-10 15:27:14,university,ИжГТУ им. М. Т. Калашникова (бывш. ИМИ),False,False,1
+85343,2,27.8.1984,0,1.0,59.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Stavropol,2020-07-03 10:09:17,university,СевКавГТУ (СКФУ),False,False,1
+11840,2,4.4.1974,0,1.0,442.0,2002.0,Distance Learning,0.0,Alumnus (Specialist),Русский,False,False,Nalchik,2020-10-06 05:10:13,university,КБГАУ (бывш. КБГСХА) им. Кокова,False,False,0
+13253,1,17.8,1,1.0,1514.0,0.0,Full-time,0.0,Alumnus (Bachelor's),Русский;English;Українська;Lietuvių,0,1,,2020-06-02 11:05:53,university,Boston University,False,False,1
+38074,1,11.6,0,1.0,430.0,2009.0,,4.0,Student (Specialist),Русский,0,0,Samara,2020-01-17 17:17:09,university,СГАСУ (бывш. СГАСА),False,False,1
+99164,1,,1,0.0,115.0,2003.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Tyumen,2020-11-15 04:12:30,university,ТюмГНГУ,2003,2010,1
+19992,2,17.1.1989,1,1.0,575.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Mogilev,2020-11-19 19:00:47,university,БрГТУ,False,False,0
+98838,1,18.12,0,1.0,451.0,2009.0,Full-time,4.0,Alumnus (Specialist),Русский,5,1,,2020-10-18 21:46:18,work,Чёртов Пичик! | Дизайн для людей,2009,False,1
+10361,2,,0,1.0,31.0,2012.0,Distance Learning,6.0,Alumnus (Specialist),Русский;Українська,1,2,Khmelnitsky,2020-10-12 08:14:48,university,НУ «ЛП»,False,False,0
+95372,2,17.9.1989,1,1.0,54.0,2011.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Simferopol,2020-05-23 05:40:12,university,КИПУ,False,False,0
+43640,1,12.2.1988,0,1.0,157.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,6,6,Vladivostok,2020-12-31 02:51:47,work,"Студия рекламы "" Flash""",2010,False,1
+82969,2,24.8.1983,0,1.0,98.0,2016.0,Distance Learning,4.0,Student (Bachelor's),Русский,False,False,Tolyatti,2020-10-11 05:02:57,university,"ПВГУС (бывш. ТГУС, ПТИС, ТфМТИ)",False,False,0
+77954,1,3.2,0,1.0,444.0,0.0,,0.0,Alumnus (Specialist),Русский;English;עברית,0,0,,2020-08-03 17:26:10,work,IСE HOKKU,False,False,1
+5314,1,19.1,0,1.0,1056.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский,0,6,Moscow,2020-11-21 16:54:30,work,Школа стиля и макияжа Beauty School,2014,False,1
+51441,2,6.12,1,1.0,139.0,2001.0,Full-time,0.0,Alumnus (Master's),Русский,False,False,Moscow,2020-04-16 22:17:42,university,МАИ,False,False,0
+51677,2,29.7,1,1.0,256.0,2009.0,Full-time,4.0,Student (Bachelor's),Русский;བོད་སྐད་,6,1,Buzuluk,2020-05-23 23:03:11,university,БСК,False,False,0
+13977,2,18.3.1984,0,1.0,79.0,2013.0,Distance Learning,4.0,Student (Specialist),Русский,False,False,Moscow,2020-07-04 20:43:43,university,Академия МНЭПУ,False,False,0
+16708,1,27.5.1992,0,1.0,199.0,2014.0,Full-time,4.0,Student (Specialist),Русский,0,0,Krasnodar,2020-03-04 11:27:19,university,КубГУ,False,False,1
+27985,2,,0,1.0,83.0,2011.0,Full-time,0.0,Student (Specialist),Русский,6,0,Kyiv,2020-09-01 02:46:06,university,"НАУ (бывш. КИИГА, КМУГА)",False,False,0
+18658,2,30.4.1985,0,1.0,60.0,2008.0,Full-time,6.0,Alumnus (Specialist),Русский;English,5,2,Tobolsk,2020-09-05 00:03:48,university,Филиал ТИУ (ТИИ филиал ТюмГНГУ),False,False,1
+41800,1,30.1,1,1.0,98.0,1988.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Balashikha,2020-06-01 20:54:07,university,"РГРТУ (бывш. РГРТА, РРТИ)",False,False,1
+89393,1,,0,1.0,107.0,2007.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Omsk,2020-05-28 14:49:43,university,СибАДИ,False,False,1
+25168,1,5.12.1985,0,1.0,66.0,2008.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Kirov,2020-08-08 21:56:37,university,"ВятГУ (бывш. ВятГТУ, КирПИ)",2009,False,1
+49606,2,24.10.1994,1,1.0,123.0,0.0,Full-time,1.0,Student (Specialist),Русский,6,False,Moscow,2020-10-29 22:31:35,work,"АО ""Атомтехэнерго""",False,False,1
+56843,2,,1,1.0,0.0,2011.0,Part-time,6.0,Alumnus (Specialist),Русский,5,6,Krasnoyarsk,2020-10-19 01:44:02,university,ТИУБ им. Н. Д. Демидова,False,False,1
+72339,2,24.3,1,1.0,317.0,2012.0,Full-time,0.0,Student (Bachelor's),English,4,1,Almaty,2020-03-24 00:25:23,work,"ТОО ""Pharm-Trade NT""",2010,False,0
+12386,2,17.6.1986,0,1.0,140.0,2008.0,Full-time,4.0,Alumnus (Specialist),Українська,False,False,Kropivnitsky / Kirovograd,2020-04-09 12:52:46,university,ЦГПУ (КГПУ) им. Винниченко,False,False,0
+85927,2,31.7.1978,0,1.0,30.0,2000.0,Full-time,4.0,PhD,False,0,0,Izhevsk,2020-06-26 02:38:13,work,"АО ""ИЭМЗ ""Купол""",2000,False,0
+51629,1,6.10,1,1.0,237.0,1999.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Français;Deutsch,1,2,Saint Petersburg,2020-06-12 15:12:41,work,Работа в Фотостудии,1996,2002,1
+8024,1,15.6,0,1.0,311.0,2022.0,,0.0,Student (Bachelor's),False,0,0,Saint Petersburg,2020-04-04 01:02:42,university,СПбГЭТУ (ЛЭТИ),False,False,1
+92326,2,18.8.1987,1,1.0,28.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Kirkland,2020-09-25 04:50:57,university,МГТУ им. Н. Э. Баумана,False,False,0
+22827,2,13.5.1987,0,1.0,159.0,2011.0,Full-time,4.0,Student (Master's),Русский,0,0,Astrakhan,2020-12-14 21:09:48,university,АГТУ,False,False,0
+67988,1,20.6.1989,0,1.0,742.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,2,Saint Petersburg,2020-03-20 07:51:22,university,ПГУПС Императора Александра I,False,False,1
+34152,1,8.11,1,1.0,301.0,2009.0,,4.0,Alumnus (Specialist),Русский,False,False,Kaliningrad,2020-01-21 12:35:45,work,Центр судебной экспертизы и оценки,2007,False,1
+55935,1,18.1,0,1.0,260.0,2002.0,Full-time,7.0,Alumnus (Bachelor's),Русский;English,0,0,Sevastopol,2020-12-19 01:27:43,university,КрАК,False,False,1
+34689,1,16.11,0,1.0,239.0,0.0,Full-time,0.0,Student (Master's),False,0,0,Moscow,2020-06-05 03:31:47,work,"""Российские космические системы"" (РКС)",2017,False,1
+92170,1,18.1.1959,1,1.0,432.0,1980.0,Full-time,4.0,Alumnus (Master's),False,5,5,Saint Petersburg,2020-06-12 22:25:33,university,РГПУ им. А. И. Герцена,1980,2016,1
+32368,1,,1,1.0,1167.0,2016.0,,0.0,Student (Bachelor's),Русский,0,0,Izhevsk,2020-02-08 09:58:45,university,УдГУ,False,False,1
+80721,2,26.12,0,1.0,301.0,2014.0,Full-time,0.0,Student (Specialist),Русский,0,0,Moscow,2020-10-27 10:38:11,work,AUTODOC.RU | АВТОДОК (автозапчасти для иномарок),2017,False,1
+2730,1,26.11.1998,0,1.0,409.0,2021.0,Full-time,0.0,Student (Specialist),Русский,0,0,Saint Petersburg,2020-01-22 06:33:58,university,РТА (филиал в СПб),False,False,1
+60081,1,,1,1.0,56.0,2011.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Hamburg,2020-10-27 06:06:05,university,ЛГУ им. А. С. Пушкина,False,False,1
+86906,1,,1,1.0,22.0,2016.0,Distance Learning,4.0,Student (Specialist),Русский,6,2,,2020-07-27 11:33:20,university,МГОУ (бывш. МОПИ им. Н. К. Крупской),False,False,1
+15533,2,14.3.1992,0,1.0,302.0,2024.0,Part-time,0.0,Student (Bachelor's),Русский;English;Deutsch,1,2,Volgograd,2020-11-04 11:32:12,university,ВолгГТУ,False,False,1
+77998,1,19.3,0,1.0,172.0,2009.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Penza,2020-12-15 09:02:14,university,ПензГТУ (бывш. ПГТА),False,False,0
+73609,2,6.5.1982,0,1.0,66.0,2006.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Divnomorskoe,2020-06-27 02:15:22,university,КУ МВД (КЮИ МВД РФ),False,False,0
+90214,1,1.7.1981,0,1.0,96.0,2003.0,Full-time,4.0,Alumnus (Specialist),Русский,1,False,,2020-01-27 22:49:02,university,СГУ (СКФУ),False,False,1
+55326,2,24.8.1973,1,1.0,93.0,1998.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Moscow,2020-05-16 18:51:01,work,"МГУ, биофак",1998,False,0
+71359,2,17.8,1,1.0,213.0,2009.0,,0.0,Alumnus (Specialist),Русский,0,0,Kaliningrad,2020-12-15 14:18:45,university,КГТУ (бывш. КТИРПиХ),False,False,0
+72200,2,27.11,0,1.0,1664.0,2012.0,Full-time,0.0,PhD,Русский;Татарча,1,2,Kazan,2020-02-03 01:59:51,university,РМАТ (КФ),False,False,0
+89559,1,24.11.2004,0,1.0,323.0,2009.0,Full-time,7.0,Student (Specialist),Русский,False,False,Saint Petersburg,2020-12-06 14:49:11,university,Горный университет (бывш. СПГГУ),2000,2009,1
+51481,2,31.8.1988,0,1.0,535.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Omsk,2020-11-16 06:27:56,work,"ФБУЗ ""Центр гигиены и эпидемиологии в Омской области""",2011,False,1
+54512,2,30.1,0,1.0,118.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),Русский,0,0,Shatura,2020-10-26 20:11:25,university,РАМ им. Гнесиных,False,False,0
+98183,2,24.9.1987,0,1.0,311.0,2005.0,,7.0,Alumnus (Specialist),Русский;Українська,3,3,Kyiv,2020-09-24 02:55:31,,,False,False,0
+91792,1,24.12.1997,1,1.0,770.0,2021.0,Distance Learning,0.0,Student (Master's),Русский,1,2,Saint Petersburg,2020-02-08 14:34:10,university,СПбПУ Петра Великого (Политех),False,False,1
+45938,1,9.6.1994,0,1.0,185.0,2016.0,Full-time,0.0,Alumnus (Bachelor's),False,False,False,Moscow,2020-02-16 22:43:56,university,ГУУ,False,False,1
+14347,1,8.11,1,1.0,188.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Ukhta,2020-11-24 05:24:09,university,СПб УГПС МЧС РФ,False,False,1
+80496,2,30.7.1983,1,1.0,89.0,2010.0,Distance Learning,4.0,Student (Specialist),False,False,False,Surgut,2020-03-19 18:33:55,work,"ООО ""РЭУ-5""",2003,False,0
+12298,2,2.5.1988,0,1.0,995.0,2010.0,Full-time,1.0,Student (Specialist),Русский,2,0,Sochi,2020-03-12 05:59:59,work,Россия,False,False,0
+30581,2,2.11.1993,0,1.0,1129.0,2015.0,Full-time,2.0,Student (Bachelor's),Русский;English;Italiano;Қазақша;فارسی,3,3,Bataysk,2020-03-26 02:29:18,work,Правительство Ростовской области,2011,2020,1
+42540,2,26.3.1992,1,1.0,525.0,2012.0,Full-time,1.0,Student (Specialist),Русский;English;日本語,0,2,Yekaterinburg,2020-03-15 15:19:35,work,AleekseeV go STREAM,2015,False,0
+92019,2,20.2.1989,0,1.0,153.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Saransk,2020-02-11 00:00:32,work,ФГБОУ ВО МГУ им. Н.П. Огарёва Факультет биотехнологии и биологии,2011,False,0
+13856,2,8.3,1,1.0,203.0,2017.0,Distance Learning,0.0,Student (Bachelor's),False,1,2,Kharkiv,2020-01-21 23:46:44,university,УИПА,False,False,0
+52609,2,5.11.1988,1,1.0,182.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,1,0,Zelenograd,2020-12-20 20:57:34,work,"ЗАО ""ПКК Миландр""",2009,False,0
+61920,2,2.3.1992,0,1.0,223.0,2014.0,Full-time,0.0,Student (Specialist),Русский;English,0,0,Krasnoyarsk,2020-01-24 21:00:51,university,СибГТУ,False,False,0
+1802,2,2.6.1989,0,1.0,505.0,2012.0,Full-time,0.0,Student (Specialist),Русский,6,1,Shlisselburg,2020-05-12 13:05:44,,,False,False,0
+11010,2,21.12.1988,1,1.0,98.0,2011.0,Full-time,0.0,Student (Specialist),False,1,2,Yekaterinburg,2020-06-07 20:52:50,university,УГГУ (бывш. УГГГА),False,False,0
+46018,2,13.5.1988,1,1.0,192.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Chelyabinsk,2020-05-10 10:53:23,work,"ООО НПО ""Центр-Протон""",2008,False,0
+13279,2,15.10.1983,1,1.0,361.0,2010.0,Full-time,1.0,Student (Specialist),Русский,6,2,Saint Petersburg,2020-01-29 01:55:53,university,ЛГУ им. А. С. Пушкина,False,False,0
+20158,2,5.11,0,1.0,369.0,2011.0,Full-time,0.0,Alumnus (Master's),False,0,0,Donetsk,2020-08-13 18:37:28,work,komYounity,False,False,0
+98251,2,12.2.1982,1,1.0,90.0,2006.0,Full-time,1.0,Alumnus (Master's),Русский,0,0,Lipetsk,2020-11-25 01:27:17,university,ЛГПУ им. П. П. Семенова-Тян-Шанского,False,False,0
+48191,1,10.2,0,1.0,475.0,2010.0,Full-time,0.0,Student (Specialist),False,0,0,Kyiv,2020-07-23 03:24:27,work,♫Школа-студия вокала FreeVoice.Уроки вокала.Киев,2013,2013,1
+23575,1,6.11,0,1.0,137.0,2014.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Yakutsk,2020-06-15 05:06:04,university,СВФУ им. М. К. Аммосова (бывш. ЯГУ),False,False,1
+85944,2,26.3,1,1.0,118.0,2009.0,Distance Learning,4.0,Alumnus (Bachelor's),False,False,False,Ramenskoe,2020-01-06 06:47:27,work,Формула Отдыха,2009,False,0
+32869,2,4.1.1986,1,1.0,81.0,2008.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Vologda,2020-10-03 11:47:23,university,ВГМХА им. Н. В. Верещагина,False,False,0
+40156,2,31.7.1966,1,1.0,11.0,1995.0,Distance Learning,0.0,Alumnus (Master's),Русский,1,2,Bogoroditsk,2020-01-15 20:45:04,university,ТулГУ,False,False,1
+66345,2,16.11.1984,1,1.0,142.0,2016.0,Distance Learning,1.0,Alumnus (Specialist),False,1,2,Minsk,2020-03-22 02:45:28,university,БГУИР (бывш. МРТИ),False,False,0
+45437,2,27.9,1,1.0,1964.0,2009.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Kostroma,2020-08-10 21:54:45,university,КГТУ,False,False,0
+8304,1,,0,1.0,528.0,0.0,Full-time,0.0,Student (Specialist),False,False,False,Khmelnitsky,2020-07-04 21:28:14,university,"ХНУ (бывш. ТИБО, ТУП)",False,False,1
+34404,2,,1,1.0,252.0,2015.0,Distance Learning,1.0,Student (Bachelor's),False,0,0,Krasnodar,2020-01-02 08:56:02,university,КГИК (бывш. КГУКИ),False,False,0
+35376,2,19.6.1995,0,1.0,163.0,0.0,Full-time,4.0,Student (Specialist),Русский,0,0,Solnechnogorsk,2020-08-09 20:16:46,work,"ООО ""НПП ""Доза""",2017,False,0
+68484,1,25.11,1,1.0,195.0,2004.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Bratsk,2020-10-18 23:12:50,work,Armelle,2016,False,1
+62128,2,25.6.1988,1,1.0,143.0,2009.0,Full-time,0.0,Alumnus (Bachelor's),False,False,False,Kyiv,2020-09-12 14:49:38,work,Orang+utan,2007,False,1
+90799,2,4.7,1,1.0,264.0,2011.0,Full-time,1.0,Student (Specialist),Русский,0,0,Moscow,2020-07-09 02:27:12,university,РГУ нефти и газа (НИУ) им. И. М. Губкина,False,False,1
+57048,2,23.1,0,1.0,189.0,2009.0,Distance Learning,4.0,Alumnus (Specialist),Русский,5,0,Stavropol,2020-03-14 04:40:01,university,СГУ (СКФУ),False,False,0
+13400,2,16.1,1,1.0,3699.0,2002.0,Full-time,4.0,Alumnus (Specialist),Русский,False,2,Krasnoyarsk,2020-12-04 22:22:30,work,ЭРМИТАЖ | hard-gallery club & bowling,2008,False,0
+16262,2,,1,1.0,112.0,2016.0,Full-time,4.0,Alumnus (Master's),Русский;Українська,0,0,Kyiv,2020-06-26 03:34:26,university,КУ им. Б. Гринченко (бывш. КГПУ),False,False,1
+700,1,5.10.1986,1,1.0,359.0,2012.0,Distance Learning,0.0,Student (Specialist),Русский,2,2,Saint Petersburg,2020-02-13 19:15:08,university,ДВФУ,False,False,1
+38707,2,30.7.1982,1,1.0,823.0,2005.0,Part-time,0.0,PhD,False,5,0,Saint Petersburg,2020-08-02 10:59:49,university,СПбПУ Петра Великого (Политех),False,False,0
+53082,1,7.3.1991,0,1.0,323.0,2014.0,Distance Learning,4.0,Student (Specialist),False,0,0,Belgorod,2020-03-28 19:02:46,university,НИУ БелГУ,False,False,1
+80344,1,31.7,1,1.0,146.0,2014.0,Full-time,0.0,Student (Specialist),False,4,1,Dublin,2020-07-14 05:26:00,university,МИРЭА (до 2015),False,False,0
+4312,1,23.9,1,1.0,430.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Novosibirsk,2020-07-21 17:37:32,university,НГТУ (НЭТИ),False,False,1
+18427,2,,1,1.0,56.0,2013.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Pyatigorsk,2020-08-22 05:18:25,university,ПГГТУ (СКФУ),False,False,0
+15036,2,22.1,0,1.0,1212.0,2016.0,Distance Learning,0.0,Student (Specialist),Русский;English,1,2,Voronezh,2020-11-02 05:48:54,university,СГА,False,False,0
+18039,2,6.4.1994,1,1.0,151.0,2014.0,Distance Learning,0.0,PhD,Русский,1,2,Kyiv,2020-08-08 13:22:07,work,Maisy Kids Интернет-магазин детской одежды,2008,False,0
+76283,1,8.8.1988,0,1.0,322.0,0.0,Full-time,0.0,Alumnus (Master's),False,False,False,,2020-09-13 02:07:30,university,РГПУ им. А. И. Герцена,False,False,1
+80583,2,8.7.1980,1,1.0,109.0,2002.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Minsk,2020-11-09 08:04:22,university,БГПУ им. М. Танка,False,False,0
+55005,2,28.3.1993,1,1.0,143.0,2014.0,Full-time,0.0,Student (Specialist),Русский,1,2,Saratov,2020-09-10 01:41:50,university,СГМУ им. В. И. Разумовского,False,False,0
+38053,1,26.10,0,1.0,864.0,2011.0,Full-time,0.0,Student (Specialist),False,0,2,Saint Petersburg,2020-02-08 05:07:02,university,СПбГМТУ (бывш. ЛКИ),False,False,1
+46829,1,19.12,0,1.0,128.0,0.0,,4.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-06-06 17:36:10,work,АВЕНТИН Недвижимость - Юриспруденция,False,False,1
+20371,2,6.11,1,1.0,23.0,2014.0,Distance Learning,0.0,Student (Specialist),Русский,False,False,Kostroma,2020-11-03 10:41:49,university,Костромская ГСХА,False,False,0
+52087,1,31.7,0,1.0,267.0,2017.0,,0.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-01-09 07:04:44,university,РГИСИ (бывш. СПбГАТИ),False,False,1
+745,2,23.9.1994,0,1.0,165.0,2017.0,Full-time,0.0,Alumnus (Specialist),Русский;Українська;English,0,5,Kyiv,2020-11-24 02:54:38,university,НУПТ (бывш. КТУХТ),False,False,0
+97538,2,14.7.1984,0,1.0,45.0,2007.0,Distance Learning,1.0,PhD,False,False,False,Novosibirsk,2020-01-01 13:38:39,university,"НФ СПбУТУиЭ (бывш. САУ, СПбУУЭ)",False,False,1
+76166,1,8.2.1991,0,1.0,856.0,2012.0,Full-time,0.0,Alumnus (Specialist),Русский;English;Deutsch;Français;Italiano,5,2,Yekaterinburg,2020-06-30 04:52:46,university,ЕГТИ,False,False,1
+38324,1,,1,1.0,671.0,2007.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Bryansk,2020-12-02 12:36:50,university,БГТУ,False,False,1
+16398,2,19.11.1985,0,1.0,191.0,2004.0,Full-time,4.0,Undergraduate applicant,Русский,1,2,Kerch,2020-10-30 17:43:38,university,Професиональное училище №31,False,False,0
+10378,2,11.12.1986,1,1.0,556.0,2008.0,Full-time,6.0,Alumnus (Bachelor's),Українська,0,0,Veliky Bychkov,2020-09-12 00:56:04,university,ХНМУ,False,False,0
+74439,1,23.2.1994,0,1.0,311.0,2016.0,Full-time,4.0,Alumnus (Bachelor's),Русский;English,6,6,Kirishi,2020-08-11 21:55:03,university,СПбГУ ГА,False,False,1
+52961,2,,1,1.0,23.0,2000.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Saint Petersburg,2020-06-19 14:38:23,university,СПВВИУС (ЛВВИУС),False,False,0
+89169,2,23.9,0,1.0,1639.0,2022.0,Full-time,7.0,Student (Bachelor's),Русский;English,1,2,Krasnodar,2020-04-28 01:23:11,work,GooogeR_TV stream page,False,False,0
+66869,2,1.7,1,1.0,53.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,8,3,Yekaterinburg,2020-09-21 09:44:35,work,"ЧУЗ ""Дорожная стоматологическая поликлиника на станции Свердловск - Сортировочный ОАО ""РЖД""; отделение терапевтической стоматологии №3",False,False,0
+11828,1,3.10,0,1.0,535.0,2015.0,Full-time,0.0,Student (Specialist),Русский,1,2,Krasnodar,2020-09-25 12:00:50,work,судебный участок мирового судьи,False,False,1
+39392,2,28.6.1993,0,1.0,179.0,2016.0,Distance Learning,0.0,Undergraduate applicant,Русский,3,6,Moscow,2020-09-10 22:29:18,work,"ГБОУ Центр образования ""Технологии обучения""",False,False,0
+75920,1,17.10,0,1.0,922.0,2019.0,Full-time,4.0,Alumnus (Specialist),Deutsch;English;Русский,0,0,Moscow,2020-02-29 11:33:44,university,Staatliche Akademie der bildenden Künste Stuttgart,False,False,1
+18144,1,16.9.1991,0,1.0,241.0,2013.0,Full-time,1.0,Student (Specialist),Русский,False,False,Saint Petersburg,2020-01-27 04:17:15,work,"ФБК Legal, Адвокат",2013,False,1
+60191,2,4.6,1,1.0,51.0,2010.0,Distance Learning,0.0,Student (Specialist),Русский,1,2,Volgograd,2020-04-24 00:30:49,work,Ростелеком,False,False,0
+1324,1,29.5,0,1.0,32.0,1982.0,Part-time,0.0,Alumnus (Specialist),Русский,False,False,Saint Petersburg,2020-06-14 11:37:24,university,СевГУ,False,False,1
+21308,2,,0,1.0,222.0,2013.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Glebovsky,2020-04-28 05:08:06,university,РГСУ,False,False,1
+83397,2,23.6,1,1.0,375.0,2010.0,Full-time,4.0,Student (Specialist),Русский,5,5,Kazan,2020-10-06 15:00:28,university,КНИТУ-КАИ им. А. Н. Туполева,False,False,0
+39479,2,19.7.1985,0,1.0,107.0,2010.0,Part-time,0.0,Alumnus (Specialist),False,1,5,Ryazan,2020-03-03 05:36:26,university,РГАТУ (РГСХА),False,False,0
+75971,1,,1,1.0,545.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,,2020-10-08 17:45:55,university,Филиал УГНТУ,False,False,1
+33634,2,17.8,0,1.0,132.0,0.0,Full-time,4.0,Student (Specialist),Русский;English,6,1,Saint Petersburg,2020-10-01 01:55:51,work,X5 Group,2010,False,1
+95189,2,31.10.2001,0,1.0,67.0,2006.0,Distance Learning,1.0,Alumnus (Specialist),Українська,0,0,Lviv,2020-04-18 12:00:41,university,ЛНУ им. Ивана Франко,False,False,0
+60850,2,22.7.1989,0,1.0,90.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,0,Irkutsk,2020-04-11 13:05:08,university,ИрГАУ им. А. А. Ежевского (бывш. ИрГСХА),False,False,0
+77227,1,12.7,1,1.0,57.0,2001.0,Part-time,4.0,Alumnus (Specialist),False,False,False,Saint Petersburg,2020-03-23 17:54:27,university,СПИ филиал МГУП,1993,1995,1
+46291,2,,1,1.0,119.0,2012.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,,2020-05-09 16:08:36,university,"СГМУ (бывш. АГМА, АГМИ)",2008,False,0
+71461,2,22.10.1990,1,1.0,228.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский,1,2,Moscow,2020-03-02 00:09:23,university,МГУПИ,False,False,0
+10662,1,9.8.1981,1,1.0,989.0,2003.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Vologda,2020-05-31 04:11:28,work,Грязовецкая Детская Библиотека,False,False,1
+78772,2,23.2,1,1.0,323.0,2005.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Rybinsk,2020-06-30 06:19:36,university,РГАТУ (бывш. РАТИ) им. Соловьева,False,False,0
+18249,2,,0,1.0,140.0,2015.0,Full-time,0.0,Student (Bachelor's),Русский,0,0,Moscow,2020-07-14 06:47:06,university,МГОУ им. В. С. Черномырдина (ныне в сост. МАМИ),False,False,0
+84701,1,20.6.1989,0,1.0,251.0,2011.0,Full-time,4.0,Alumnus (Specialist),False,0,0,Saint Petersburg,2020-09-30 16:22:13,work,Петербургская филармония им. Шостаковича,False,False,1
+34420,1,26.12,0,1.0,96.0,2009.0,Full-time,0.0,Alumnus (Specialist),False,0,0,Novosibirsk,2020-08-08 09:59:58,university,АлтГУ,False,False,1
+9137,2,,1,1.0,16.0,0.0,Part-time,1.0,Student (Specialist),False,0,0,Moscow,2020-03-14 19:11:30,university,МПГУ (бывш. МГПИ им. Ленина),False,False,1
+67403,2,14.5.1988,1,1.0,77.0,2010.0,Full-time,0.0,Student (Master's),Русский;Čeština,1,2,Praha,2020-02-15 14:53:30,university,ՀՌՀ (РАУ),False,False,0
+45922,1,8.5,1,1.0,79.0,2007.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Moscow,2020-01-06 02:46:04,university,ГКА им. Маймонида,False,False,1
+9547,1,19.6,1,1.0,944.0,2012.0,Full-time,4.0,Alumnus (Specialist),False,6,0,Berlin,2020-01-15 00:18:27,work,Телеканал РОССИЯ 1,2012,False,1
+84614,2,29.8,1,1.0,151.0,2000.0,Full-time,6.0,PhD,False,False,1,Moscow,2020-09-18 10:19:24,university,Школа-студия им. Вл. И. Немировича-Данченко при МХАТ,False,False,0
+32309,2,30.1.1989,0,1.0,118.0,2013.0,Distance Learning,4.0,Undergraduate applicant,Русский,0,0,Kirov,2020-11-12 00:45:47,work,"АО ""МАКС-М"" в г.Кирове",2007,False,0
+93612,1,14.6.1998,1,1.0,580.0,2018.0,Full-time,0.0,Student (Bachelor's),Русский;English,6,6,Saint Petersburg,2020-06-13 08:59:02,work,ИнформПатентПитер,2017,False,1
+57470,2,4.6.1993,0,1.0,114.0,0.0,Full-time,0.0,Undergraduate applicant,False,0,0,Almaty,2020-06-07 11:28:26,university,"Satbayev University (бывш. КазНИТУ им. Сатпаева, КазНТУ, КазПТИ им В. И. Ленина)",False,False,0
+60022,1,3.9,1,1.0,4.0,2012.0,Full-time,0.0,Alumnus (Specialist),Українська,False,False,Kyiv,2020-08-16 08:11:31,university,ДНУ им. Олеся Гончара,False,False,1
+33225,2,29.5.1988,0,1.0,406.0,2010.0,Full-time,4.0,Student (Specialist),Русский;Українська;English;Français,0,0,Dnipropetrovsk (Dnipro),2020-05-15 14:13:32,work,ИНТЕРПАЙП,2013,False,1
+82902,2,,1,1.0,656.0,2005.0,Full-time,0.0,Alumnus (Master's),False,False,False,,2020-06-27 21:57:37,university,НИУ ВШЭ (ГУ-ВШЭ),2001,2003,0
+69990,1,7.2.1987,1,1.0,419.0,2010.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-03-21 14:30:35,university,СПбГИК (бывш. СПбГУКИ),False,False,1
+42864,2,30.7.1990,1,1.0,155.0,2016.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,2,Shakhty,2020-12-02 16:05:26,university,ШАДИ (ф) ЮРГПУ (НПИ) им. М. И. Платова,2005,False,0
+98759,2,,1,1.0,329.0,0.0,Full-time,4.0,PhD,Русский,False,False,Taganrog,2020-09-15 11:20:59,university,ИТА ЮФУ (бывш. ТТИ ЮФУ),False,False,0
+76872,2,2.7.1979,0,1.0,56.0,2012.0,,1.0,Alumnus (Specialist),Русский,0,0,Yaroslavl,2020-11-04 14:24:48,university,НИЕВ,False,False,0
+31394,1,11.3,1,1.0,294.0,2009.0,Full-time,4.0,Student (Specialist),Русский,False,False,Voronezh,2020-08-19 09:06:22,university,Воронежский ГАСУ,False,False,1
+7348,2,28.6.1986,1,1.0,1445.0,2008.0,Full-time,1.0,Alumnus (Specialist),False,1,2,Volgograd,2020-04-15 19:10:22,university,ВКИ (ф) РУК (бывш. МУПК),False,False,1
+54320,2,,1,1.0,55.0,2015.0,Part-time,2.0,Student (Specialist),Русский,0,0,,2020-03-21 08:33:39,university,НГЛУ им. Н. А. Добролюбова,False,False,0
+50520,2,16.5.1994,1,0.0,157.0,0.0,Full-time,0.0,Student (Bachelor's),False,6,2,Moscow,2020-10-22 11:21:13,university,Университет машиностроения (МАМИ),False,False,0
+66425,1,23.10.1992,0,1.0,206.0,2015.0,Full-time,0.0,Student (Specialist),Русский,False,False,Minsk,2020-10-07 20:25:27,university,БГЭУ (бывш. БГИНХ),False,False,1
+97511,1,2.9.1985,1,1.0,343.0,2009.0,Distance Learning,4.0,Student (Specialist),Русский,5,2,Moscow,2020-10-01 02:33:13,university,РГСУ,False,False,1
+44846,1,21.2,1,1.0,152.0,0.0,,0.0,Student (Specialist),False,False,False,Moscow,2020-10-31 17:26:57,university,МГОУ им. В. С. Черномырдина (ныне в сост. МАМИ),False,False,1
+80507,1,3.6.1981,0,1.0,336.0,2002.0,Distance Learning,1.0,Alumnus (Specialist),Русский,0,0,Yugorsk,2020-10-09 19:47:31,university,not stated,False,False,1
+8433,2,,1,1.0,109.0,0.0,Distance Learning,0.0,Student (Specialist),False,6,2,Minsk,2020-07-22 22:59:52,university,БГПУ им. М. Танка,False,False,1
+80388,1,,1,1.0,287.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-07-22 23:40:18,work,"Психоанализ, которого вы не знали",2009,False,1
+9607,1,9.10,1,1.0,1407.0,0.0,,0.0,Alumnus (Master's),Русский;English,0,0,Odessa,2020-04-18 04:44:18,university,"ОНЭУ (бывш. ОГЭУ, ОИНХ)",False,False,1
+80684,2,3.12.1990,1,1.0,173.0,2015.0,Full-time,4.0,Student (Specialist),Русский,False,False,Samara,2020-06-24 00:00:42,university,СГАУ им. Королева,False,False,0
+70574,2,5.2,1,1.0,317.0,2002.0,Full-time,0.0,Alumnus (Specialist),Русский,6,2,Ulyanovsk,2020-10-21 16:27:13,work,видеооператор,False,False,1
+51072,2,,0,1.0,14.0,2020.0,Full-time,0.0,Alumnus (Master's),Русский,0,0,Murmansk,2020-07-21 05:49:53,university,МГТУ,False,False,0
+36660,1,,0,1.0,430.0,2012.0,Full-time,1.0,Alumnus (Specialist),Français;English,6,6,Moscow,2020-05-03 18:28:11,university,ЕаЛИ МГЛУ (бывш. ИГЛУ),2008,False,1
+47127,1,4.11.1992,1,1.0,373.0,2014.0,Full-time,0.0,Student (Bachelor's),Русский;English;Français,6,1,Almaty,2020-12-01 19:36:59,work,Aviasales.kz,2013,False,1
+99431,2,,1,1.0,32.0,1998.0,Full-time,0.0,Alumnus (Specialist),Русский,False,False,Kurganinsk,2020-02-04 00:44:09,university,СКИБИИТ (бывш. АФЭИ),False,False,0
+11580,2,20.11.1988,0,1.0,33.0,0.0,,4.0,Student (Specialist),Русский,1,2,Gatchina,2020-11-23 04:45:33,university,ГУАП,False,False,0
+93676,1,2.5,1,1.0,104.0,2006.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Dubna,2020-09-20 23:02:22,university,Университет «Дубна»,False,False,1
+15051,2,3.6,0,1.0,141.0,0.0,Full-time,6.0,PhD,Русский,False,False,Kazan,2020-03-26 13:26:53,university,КНИТУ-КАИ им. А. Н. Туполева,False,False,0
+17665,1,13.3.1988,1,1.0,915.0,2010.0,Full-time,4.0,Alumnus (Specialist),Русский,6,2,Orenburg,2020-09-28 20:19:02,university,ОГПУ (бывш. ОГПИ им. Чкалова),False,False,1
+97988,2,8.1.1984,1,1.0,17.0,2010.0,Distance Learning,4.0,Student (Specialist),False,False,False,Grozny,2020-09-25 15:28:32,university,ЧГУ (бывш. ЧИГУ),False,False,0
+18444,1,19.8,0,1.0,304.0,0.0,,0.0,Student (Master's),Русский;English,0,0,Saint Petersburg,2020-12-11 13:42:04,university,СЗИУ РАНХиГС (бывш. СЗАГС),False,False,1
+27289,2,25.2,1,1.0,7.0,1945.0,Distance Learning,0.0,Alumnus (Specialist),Русский,0,0,Moscow,2020-04-06 13:35:10,university,МУАА (КТУ Ататюрк-Алатоо),False,False,1
+19013,2,8.3.1985,0,1.0,29.0,2013.0,Distance Learning,4.0,Alumnus (Specialist),False,False,2,Semikarakorsk,2020-01-27 15:48:29,university,ЮРГПУ (НПИ) им. М. И. Платова (бывш. ЮРГТУ (НПИ)),2005,False,0
+94026,2,19.9.1991,0,1.0,675.0,2014.0,Full-time,0.0,Student (Specialist),Русский,1,2,Krasnodar,2020-07-18 06:15:55,work,"ООО ""ИТМ"" Группа компаний ""Магнит""",2013,False,1
+67284,2,17.8,1,1.0,118.0,2002.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Bryansk,2020-01-13 14:18:56,university,БГИТУ (БГИТА),False,False,0
+76241,2,22.2.1905,1,1.0,44.0,2006.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,Syktyvkar,2020-04-29 05:43:34,university,УГТУ (бывш. УИИ),False,False,0
+37320,1,21.6.1993,1,1.0,396.0,0.0,Full-time,1.0,Alumnus (Bachelor's),Русский;English,0,0,Minsk,2020-08-03 22:42:39,university,БГПУ им. М. Танка,False,False,1
+92489,2,9.11,1,1.0,148.0,2010.0,Full-time,1.0,Alumnus (Specialist),Русский,False,False,Krasnodar,2020-03-28 05:49:57,university,ИМСИТ,False,False,0
+51998,1,18.8.1989,0,1.0,645.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Yekaterinburg,2020-04-02 04:27:58,university,ГУМФ (бывш. АБИК),False,False,1
+86396,2,,1,1.0,209.0,2016.0,Full-time,0.0,Candidate of Sciences,Русский,0,0,Kaliningrad,2020-01-28 08:29:07,university,ЮГУ,2007,2011,0
+28174,2,16.7.1987,1,1.0,1674.0,2016.0,Distance Learning,6.0,Student (Specialist),Українська,1,2,Uzhgorod,2020-05-19 01:43:15,work,До-Мажор\jabil circuit ukraine limited,2008,False,0
+13180,2,18.11.1977,0,1.0,386.0,0.0,Full-time,1.0,PhD,Русский;Українська;English,0,0,Kharkiv,2020-05-11 02:08:40,university,"ХНУРЭ (бывш. ХИРЭ, ХТУРЭ)",False,False,0
+26085,1,8.8.1991,1,1.0,261.0,2014.0,Full-time,4.0,Student (Specialist),False,0,0,Saint Petersburg,2020-12-18 11:10:38,work,autozap.ru | Aкадемия плюс,2015,False,0
+17016,1,,0,1.0,520.0,2017.0,Full-time,7.0,Alumnus (Bachelor's),English;Русский,0,0,Saint Petersburg,2020-06-15 06:14:36,work,ТЕАТР БАЛЕТА ИМ Л. ЯКОБСОНА,2015,False,1
+52602,1,25.4.1993,0,1.0,868.0,2015.0,Full-time,0.0,Alumnus (Specialist),Русский,6,1,Moscow,2020-01-24 00:43:30,university,МГПУ,False,False,1
+99294,2,17.2.1989,0,1.0,75.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,6,Nizhny Novgorod,2020-03-17 19:52:02,university,МЭГИ,False,False,0
+31915,2,18.11.1988,0,1.0,130.0,2010.0,Full-time,4.0,Student (Specialist),False,1,2,Kazan,2020-08-28 05:36:51,,,2008,2013,0
+17351,1,,0,1.0,324.0,2006.0,Full-time,1.0,Alumnus (Specialist),Русский,0,0,Karachev,2020-03-09 02:19:10,university,РГСУ (БФ),False,False,1
+98043,2,1.6.1977,1,1.0,191.0,1999.0,Full-time,4.0,Alumnus (Specialist),Русский,False,False,Moscow,2020-08-13 13:44:59,university,"АГИК (бывш. АлтГАКИ, АГИИК)",False,False,1
+72007,2,31.7.1980,1,1.0,11.0,2007.0,Distance Learning,0.0,Alumnus (Specialist),False,False,False,Dnipropetrovsk (Dnipro),2020-07-13 05:01:19,university,"НА НГУ (бывш. АВВ МВД Украины, ХВВУТ МВД СССР)",False,False,0
+9494,1,28.11,1,1.0,77.0,2003.0,Full-time,0.0,Candidate of Sciences,Русский,False,False,Chelyabinsk,2020-09-25 00:29:31,work,ЮУрГУ,2003,False,1
+48173,1,,1,1.0,84.0,2008.0,Full-time,4.0,Student (Specialist),False,False,False,Kyiv,2020-09-01 11:31:40,university,КНУ им. Т. Шевченко,False,False,1
+64965,2,20.5.1989,0,1.0,331.0,0.0,Distance Learning,4.0,Student (Specialist),Русский,False,False,Solikamsk,2020-06-22 23:56:24,university,МГОУ им. В. С. Черномырдина (ныне в сост. МАМИ),False,False,0
+19522,2,25.3.1989,0,1.0,91.0,2012.0,Full-time,1.0,Student (Specialist),Русский,5,2,Lipetsk,2020-04-10 22:52:36,work,Sebekon,2006,False,0
+74468,1,,1,1.0,63.0,2011.0,Full-time,1.0,Student (Bachelor's),Русский;English;汉语,False,False,Shanghai,2020-06-15 04:16:56,university,ОГПУ (бывш. ОГПИ им. Чкалова),False,False,1
+65016,1,20.11.1992,0,1.0,393.0,2014.0,Full-time,1.0,Alumnus (Bachelor's),Русский;日本語;English,1,2,Komsomolsk-Na-Amure,2020-02-18 07:49:33,university,ВГУЭС (бывш. ДВТИ),False,False,1
+18244,1,22.11.1990,0,1.0,106.0,2012.0,Full-time,4.0,Alumnus (Bachelor's),Русский,False,False,Perm,2020-04-06 09:43:38,university,ПГНИУ (ПГУ),False,False,1
+66822,1,17.3.1985,0,1.0,158.0,2008.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Gomel,2020-10-21 01:02:19,work,Межгородское агенство по государственной регистрации и земельному кадастру,2012,False,1
+71277,1,11.3,0,1.0,994.0,2011.0,Full-time,0.0,Student (Specialist),Русский,0,0,Samara,2020-12-13 04:33:06,work,Holiday Inn Samara,2008,False,1
+84809,1,18.10.1985,0,1.0,196.0,2008.0,Full-time,1.0,Student (Specialist),Русский,1,6,Simferopol,2020-06-15 02:07:08,university,УГЛТУ,False,False,1
+47862,1,2.5.1988,1,1.0,2876.0,2011.0,Full-time,0.0,Alumnus (Master's),False,False,False,Ryazan,2020-10-02 18:25:56,university,Академия ФСИН России,False,False,1
+19379,2,11.6.1981,0,1.0,152.0,2007.0,Distance Learning,4.0,Alumnus (Specialist),Русский,False,False,Lipetsk,2020-07-06 09:39:44,university,ЛГТУ,False,False,0
+66953,1,28.9.1989,1,1.0,397.0,2012.0,Part-time,4.0,Alumnus (Specialist),Русский,6,5,Moscow,2020-10-18 13:27:52,university,"РГТЭУ (бывш. ЗИСТ, МКИ, МКУ, МГУК)",False,False,1
+81301,1,14.7.1973,1,1.0,157.0,1996.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Saint Petersburg,2020-07-01 22:42:38,work,Педиатрический университет,2006,False,1
+43464,2,,0,1.0,5327.0,2010.0,Distance Learning,0.0,Alumnus (Specialist),Русский,7,2,Moscow,2020-10-22 19:11:12,work,"Творческое объединение ""КИТ""",2012,False,1
+6478,2,21.7.1981,0,1.0,32.0,2003.0,Full-time,1.0,Alumnus (Specialist),False,False,False,Ufa,2020-05-16 03:31:05,university,УГНТУ,False,False,1
+51977,2,30.9.1987,1,1.0,147.0,2007.0,Full-time,0.0,PhD,Русский,0,0,Moscow,2020-01-15 10:54:21,work,ТАМОЖНЯ - ФЕДЕРАЛЬНАЯ ТАМОЖЕННАЯ СЛУЖБА - ФТС,False,False,0
+21100,1,10.12.1964,0,1.0,7.0,1987.0,Full-time,4.0,Alumnus (Specialist),False,False,False,Kanash,2020-04-06 02:36:23,university,КФ ЧГУ им. И. Н. Ульянова,False,False,1
+18982,2,,0,1.0,130.0,1993.0,Distance Learning,4.0,Alumnus (Master's),Русский,1,2,Praha,2020-03-03 14:51:45,university,ЛПИ (ф) СФУ,False,False,1
+13785,2,,1,1.0,143.0,2013.0,Distance Learning,0.0,Undergraduate applicant,Русский,6,0,Moscow,2020-08-21 05:33:09,university,"МГУТУ им. К. Г. Разумовского (ПКУ) (бывш. МГТА, ВЗИПП)",False,False,0
+19948,2,16.9.1988,0,1.0,454.0,2016.0,Distance Learning,4.0,Student (Specialist),Русский,2,2,Yugorsk,2020-05-19 06:21:04,university,УрТИСИ СибГУТИ,False,False,0
+92435,2,30.1.1979,0,1.0,32.0,2006.0,Full-time,0.0,Alumnus (Master's),Русский,1,1,Warszawa,2020-09-29 12:47:36,university,"ХНУРЭ (бывш. ХИРЭ, ХТУРЭ)",False,False,0
+19457,2,5.12.1992,0,1.0,230.0,0.0,Full-time,0.0,Student (Specialist),Русский,False,False,Saint Petersburg,2020-06-21 18:39:12,university,СПбГТИ (ТУ),False,False,0
+58093,1,6.1,0,1.0,731.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-04-30 10:15:32,work,Клиника косметологии GMTClinic на Петроградской,2005,False,1
+95939,2,16.2.1982,1,1.0,341.0,2004.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Perm,2020-06-30 04:49:21,work,ООО Лукойл-Пермь,2004,False,1
+56824,2,,0,1.0,100.0,2011.0,Full-time,0.0,Student (Master's),False,False,False,Yekaterinburg,2020-03-18 15:00:03,university,УГГУ (бывш. УГГГА),False,False,1
+29917,2,1.10,0,1.0,35.0,2012.0,Full-time,4.0,Student (Specialist),False,1,5,Zalukokoazhe,2020-08-17 21:08:34,university,ИСиТ (ф) ДГТУ (бывш. КМВИС),False,False,0
+47116,2,29.12.1986,0,1.0,38.0,2009.0,Distance Learning,1.0,Undergraduate applicant,False,False,False,Moscow,2020-04-26 09:18:42,university,"МФПУ «Синергия» (бывш. МФПА, ММИЭИФП)",False,False,1
+50158,1,,1,1.0,198.0,2007.0,Full-time,0.0,Alumnus (Master's),English;Русский,0,0,Dzerzhinsk,2020-04-12 16:53:00,work,Арт-студия вышивки LEBEDI,2010,False,1
+37146,2,3.2.1988,1,1.0,398.0,0.0,Full-time,4.0,Student (Specialist),Беларуская;Русский;English,5,1,Gomel,2020-03-07 16:48:30,work,"алё, Биги, просыпайся, срочно!",2009,False,0
+2435,1,,1,1.0,31.0,2004.0,Full-time,0.0,Student (Bachelor's),Русский,6,6,Tbilisi,2020-08-03 12:10:23,university,Ivane Javakhishvili Tbilisi State University,False,False,1
+94526,1,12.2,1,1.0,401.0,2010.0,Distance Learning,4.0,Student (Specialist),Русский,False,False,Murmansk,2020-02-12 04:46:15,university,"МИЭ СПбУТУиЭ (бывш. САУ, СПбУУЭ)",False,False,1
+26333,2,,0,1.0,389.0,0.0,Full-time,7.0,Student (Specialist),Русский,0,0,Moscow,2020-05-26 23:01:02,work,Студия дизайна интерьеров GooDesign.pro,False,False,0
+33287,2,31.5.1989,0,1.0,49.0,0.0,Full-time,0.0,Student (Specialist),False,False,False,Slavyansk-Na-Kubani,2020-06-29 13:26:32,university,Филиал КубГУ (бывш. СГПИ),False,False,0
+56048,1,,0,0.0,59.0,2011.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Saint Petersburg,2020-10-22 18:21:36,university,РТА (филиал в СПб),False,False,1
+28598,2,21.10.1990,1,1.0,333.0,2012.0,Full-time,4.0,Student (Specialist),Русский,1,2,Stavropol,2020-11-07 18:15:15,university,СВИСРВ (бывш. СВВИУС),False,False,0
+61201,1,13.5.1994,0,1.0,197.0,2016.0,Full-time,0.0,Student (Bachelor's),False,False,False,Kyiv,2020-02-29 06:02:40,university,КНТЭУ,False,False,1
+97712,2,22.12.1988,0,1.0,94.0,0.0,Full-time,4.0,Student (Specialist),Русский,False,False,Arzamas,2020-02-09 19:14:00,university,Арзамасский автомеханический техникум,2000,2009,0
+32601,2,25.11.1993,1,1.0,309.0,2015.0,Full-time,4.0,Alumnus (Bachelor's),Русский,0,0,Saint Petersburg,2020-10-03 11:12:20,university,СПбГЛТУ им. Кирова,False,False,1
+81806,2,16.11.1983,1,1.0,490.0,0.0,Full-time,4.0,Alumnus (Specialist),Русский,6,6,Nizhny Novgorod,2020-05-28 16:15:10,work,Rumata Lab,2009,False,0
+18056,2,27.8,1,1.0,138.0,0.0,Distance Learning,1.0,Student (Specialist),Deutsch;English,0,0,Hildesheim,2020-12-20 19:58:22,,,False,False,0
+95778,1,23.7,1,1.0,661.0,2007.0,Full-time,4.0,Alumnus (Specialist),Русский,0,0,Sevastopol,2020-08-06 10:11:07,university,СевГУ,False,False,1
+63985,1,8.10,1,1.0,2245.0,2014.0,Full-time,0.0,Student (Bachelor's),Русский;English,0,0,Minsk,2020-12-14 16:32:55,work,E V O L U T I O N,2017,False,1
+44314,1,,1,1.0,58.0,2007.0,Full-time,0.0,Alumnus (Specialist),Русский,0,0,,2020-07-31 05:02:05,work,******************************,2007,False,1
+41195,2,10.6,0,1.0,233.0,2003.0,Full-time,0.0,Alumnus (Specialist),Русский,1,2,Kaliningrad,2020-07-15 13:01:03,university,ИСМАРТ (Севмашвтуз) филиала САФУ,False,False,1
+92215,2,14.8.1989,1,0.0,171.0,2015.0,Full-time,6.0,Student (Bachelor's),False,5,1,Omsk,2020-02-09 06:30:51,university,ОмГУ им. Достоевского,False,False,0
+15848,2,13.2,0,1.0,242.0,2016.0,Distance Learning,1.0,Student (Bachelor's),Русский,0,0,Moscow,2020-10-28 04:08:40,university,МТИ (МосТех) (бывш. МТИ «ВТУ»),False,False,0
+49489,2,7.7.1989,1,1.0,505.0,2011.0,Full-time,1.0,Alumnus (Specialist),Русский,6,5,Oryol,2020-01-04 07:07:55,university,ОГУ имени И. С. Тургенева (ранее ОГПУ) (до 2016),False,False,0
+17796,2,6.9.1989,1,1.0,202.0,2015.0,Distance Learning,4.0,Alumnus (Specialist),Русский,0,0,,2020-11-10 07:32:58,university,БИУБ,2005,2010,0
+56362,2,24.12.1985,1,1.0,363.0,2008.0,Full-time,0.0,Alumnus (Specialist),False,False,False,Moscow,2020-04-13 17:27:47,work,MusicLab,2006,False,1
+30570,2,30.11.1984,0,1.0,275.0,2016.0,Distance Learning,0.0,Student (Master's),Русский,False,False,Tolyatti,2020-02-17 17:43:17,university,"ТГУ (бывш. ТолПИ, филиал СГПУ)",False,False,1
+85580,1,19.7,1,1.0,502.0,2016.0,Part-time,4.0,Student (Specialist),Русский,0,2,Saint Petersburg,2020-08-13 12:23:38,work,★★★ВМедА★★★,2018,False,1
+61374,1,23.5.1994,0,1.0,174.0,0.0,Full-time,0.0,Student (Bachelor's),Русский,False,False,Borispol,2020-06-01 22:44:04,university,КНУКиИ,False,False,1
+32079,2,12.11.1991,0,1.0,1121.0,2013.0,Full-time,0.0,Student (Specialist),Русский,6,1,Saint Petersburg,2020-02-24 16:38:15,university,ЛНУ (бывш. ЛНПУ) им. Тараса Шевченко,False,False,0
+59482,1,15.9.1968,0,1.0,823.0,1994.0,Distance Learning,4.0,Alumnus (Master's),Русский,6,6,Saint Petersburg,2020-11-24 18:13:40,work,"Оnline Центр Психологической Помощи ""ВАШ Триггер Успеха!""",2017,False,1
+25831,2,9.4.1978,0,1.0,19.0,2001.0,Full-time,4.0,Alumnus (Master's),False,False,False,Novosibirsk,2020-08-14 06:42:27,work,"ФГУП ""НИИЭП""",2002,False,0
+32945,2,12.6.1994,0,1.0,71.0,2016.0,Full-time,4.0,Student (Specialist),Русский;English,0,0,Vitebsk,2020-12-09 23:38:51,university,ВГАВМ,False,False,0
+50475,2,5.5.1986,1,1.0,97.0,0.0,,1.0,Student (Specialist),Русский,False,False,Krasnoyarsk,2020-05-30 14:51:52,university,КГТУ,False,False,0
+99077,2,,0,1.0,37.0,1981.0,Full-time,0.0,Candidate of Sciences,False,0,0,Rostov-on-Don,2020-07-13 05:51:09,university,ЮФУ (бывш. РГУ),False,False,1
+49724,1,29.7,0,1.0,1120.0,2013.0,Distance Learning,1.0,Student (Specialist),Русский,1,2,Tula,2020-02-24 14:55:53,work,Поликлиника ВИРМЕД,False,False,1
+56021,2,18.1,1,1.0,11.0,2009.0,Full-time,4.0,Alumnus (Master's),Русский;Українська;English,1,6,Priluki,2020-11-20 14:49:59,work,DreamWorkss,False,False,0
+46164,2,25.9.1992,1,1.0,131.0,0.0,Full-time,0.0,Student (Specialist),Русский,False,False,Odessa,2020-05-03 04:08:26,university,ОНМедУ (бывш. ОГМУ),False,False,1
+36145,2,20.9.1988,1,1.0,148.0,2010.0,Full-time,4.0,Student (Bachelor's),Русский,0,0,Novy Urengoy,2020-01-23 20:32:32,work,ОМВД России по г. Новый Уренгой,2010,False,0
+34307,2,12.4.1981,0,1.0,114.0,2002.0,Full-time,0.0,Candidate of Sciences,Русский;अवधी;保安语;English,0,0,Kaliningrad,2020-01-09 02:47:59,university,ТУИТ (бывш. ТЭИС),False,False,0
+60401,2,18.12.1993,0,1.0,182.0,2017.0,Distance Learning,1.0,Student (Specialist),Русский;English;Беларуская,6,1,Minsk,2020-12-05 20:39:56,work,"Constant Energy Capital Management, Inc.  (through Satellite Innovations, Inc.)",2016,False,0
+93393,2,19.1,0,1.0,127.0,2013.0,Full-time,0.0,Student (Specialist),Русский,0,0,Khabarovsk,2020-04-17 05:04:36,university,"ТОГУ (бывш. ХПИ, ХГТУ)",False,False,0
+96164,2,10.6.1991,0,1.0,277.0,2008.0,Full-time,4.0,Student (Bachelor's),Русский,1,6,Naro-Fominsk,2020-10-08 13:06:56,work,"ООО ""Евросеть-Ритейл""",2012,False,0
+13897,2,18.11.1979,1,1.0,91.0,2014.0,Part-time,4.0,PhD,Русский,0,6,Saint Petersburg,2020-09-29 00:57:40,work,http://www.solid-spb.ru/home,False,False,0
+93057,2,26.5.1993,1,1.0,111.0,2016.0,Full-time,6.0,Alumnus (Specialist),False,6,5,Novosibirsk,2020-07-01 07:14:33,university,СГУПС,False,False,0
+58070,2,16.10.1987,0,0.0,76.0,2010.0,Full-time,0.0,Student (Specialist),False,8,4,,2020-03-29 15:25:14,university,ЗакГУ,2008,2013,0
+71389,1,23.2,1,1.0,868.0,2012.0,Full-time,4.0,Student (Specialist),False,1,6,Simferopol,2020-10-29 17:40:53,work,"ГУП РК ""Крымтелеком""",2015,False,1
+55533,2,6.10.1987,1,1.0,271.0,2010.0,Full-time,0.0,Student (Specialist),False,1,2,Omsk,2020-07-30 00:30:09,university,ОмЮИ (ОмЮА),2005,2007,0
+38185,1,3.2,0,1.0,382.0,2015.0,Full-time,4.0,Student (Specialist),Русский,1,False,Moscow,2020-02-03 22:15:05,university,РЭУ им. Г. В. Плеханова,False,False,1
+16724,2,6.9.1978,1,1.0,159.0,2002.0,Distance Learning,4.0,Alumnus (Bachelor's),Українська;Русский;English,False,False,Zaporizhia,2020-02-25 20:06:32,university,ЗНУ (бывш. ЗГПИ),False,False,0
+98397,2,24.6.1980,1,1.0,71.0,2005.0,Part-time,4.0,Alumnus (Specialist),Русский,0,0,Volzhsky,2020-10-10 03:38:14,university,ВПИ (ф) ВолГТУ,False,False,1
